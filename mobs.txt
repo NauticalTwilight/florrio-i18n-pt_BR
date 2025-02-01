@@ -173,7 +173,7 @@ Mobs/fly/Gender=Female
 
 
 Mobs/leafbug/Name=Bicho-Folha
-Mobs/leafbug/Description=Não é uma folha, mas é um bicho..
+Mobs/leafbug/Description=Não é uma folha, mas é um Bicho..
 Mobs/leafbug/Gender=Male
 
 Mobs/mantis/Name=Louva-a-Deus

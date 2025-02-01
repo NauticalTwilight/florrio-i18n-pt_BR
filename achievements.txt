@@ -4,18 +4,18 @@ Achievements/0/ExtraDescription=Use seu mouse para se mover. Sua flor vai automa
 Achievements/0/Gender=Male
 
 Achievements/1/Name=Tutorial
-Achievements/1/Description=Mate um bicho.
-Achievements/1/ExtraDescription=Esses insetos são seus inimigos. destruir eles tem chance de dropar novar pétalas.<n/><n/> Ache um e destrua.<n/>Você pode achar útil  que segurar o botão direito do seu mouse estende as suas pétalas
+Achievements/1/Description=Mate um inseto.
+Achievements/1/ExtraDescription=Esses insetos são seus inimigos. destruir eles tem chance de dropar novar pétalas.<n/><n/> ache um e destrua-o.<n/>Você pode segurar o botão esquerdo do seu mouse paraestenderr as suas pétalas
 Achievements/1/Gender=Male
 
 Achievements/2/Name=Tutorial
 Achievements/2/Description=Colete uma pétala
-Achievements/2/ExtraDescription=Continue destruindo os inimigos até que dropem uma pétala, depois vá pra perto de pétala para coleta-la.
+Achievements/2/ExtraDescription=Continue destruindo os inimigos até que dropem uma pétala, depois vá pra perto da pétala para coletá-la.
 Achievements/2/Gender=Male
 
 Achievements/3/Name=Tutorial
 Achievements/3/Description=Equipe uma pétala
-Achievements/3/ExtraDescription=Se você tiver espaço no seus slots é você coletar uma pétala, ela vai parar em seu slot, caso não tenha espaço ela ira para seu Inventário.<n/>Clique na pétala que você coletou para equipá-la  (ou use o numero de tecla de atalho).
+Achievements/3/ExtraDescription=Se você tiver espaço no seus slots é você coletar uma pétala, ela vai parar em seu slot, caso não tenha espaço, ela irá para seu Inventário.<n/>Clique na pétala que você coletou para equipá-la  (ou use o numero de tecla de atalho).
 Achievements/3/Gender=Female
 
 # Desativado.
@@ -41,7 +41,7 @@ Achievements/7/Gender=Female
 
 Achievements/8/Name=Tutorial
 Achievements/8/Description=Construa uma pétala
-Achievements/8/ExtraDescription=Agora tente construir sua primeira pétala.<n/>Saiba que talvez você precise desequipar algumas pétalas para ter o suficiente para tentar construir-las.<n/>Você precisa de 5 da mesma pétala.<n/><n/>Não se preocupe, garantimos essa tentativa.
+Achievements/8/ExtraDescription=Agora tente construir sua primeira pétala.<n/>Saiba que talvez você precise desequipar algumas pétalas para ter o suficiente para tentar construir las.<n/>Você precisa de 5 da mesma pétala.<n/><n/>Não se preocupe, garantimos essa tentativa.
 Achievements/8/Gender=Female
 
 Achievements/9/Name=Tutorial
@@ -149,31 +149,31 @@ Achievements/34/Description=Descubra até onde esse cano vai.
 Achievements/34/Gender=Male
 
 Achievements/35/Name=Conquistador
-Achievements/35/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/35/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Name} .
 Achievements/35/Gender=Male
 
 Achievements/36/Name=Conquistador
-Achievements/36/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/36/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Name} .
 Achievements/36/Gender=Male
 
 Achievements/37/Name=Conquistador
-Achievements/37/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/37/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Name} .
 Achievements/37/Gender=Male
 
 Achievements/38/Name=Conquistador
-Achievements/38/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/38/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Name} .
 Achievements/38/Gender=Male
 
 Achievements/39/Name=Conquistador
-Achievements/39/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/39/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Name} .
 Achievements/39/Gender=Male
 
 Achievements/40/Name=Conquistador
-Achievements/40/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/40/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Name} .
 Achievements/40/Gender=Male
 
 Achievements/41/Name=Conquistador
-Achievements/41/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/41/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Name} .
 Achievements/41/Gender=Male
 
 Achievements/42/Name=Ir para ONDE?
@@ -225,19 +225,19 @@ Achievements/53/Description=Equipe {1} pétalas {#Rarities/{0}/Name}
 Achievements/53/Gender=Female
 
 Achievements/54/Name=Invocador
-Achievements/54/Description=Invoque um bicho amigável.
+Achievements/54/Description=Invoque um Inseto amigável.
 Achievements/54/Gender=Male
 
 Achievements/55/Name=Invocador
-Achievements/55/Description=Invoque {0} bichos amigáveis
+Achievements/55/Description=Invoque {0} Insetos amigáveis
 Achievements/55/Gender=Male
 
 Achievements/56/Name=Invocador
-Achievements/56/Description=Invoque {0} bichos amigáveis
+Achievements/56/Description=Invoque {0} Insetos amigáveis
 Achievements/56/Gender=Male
 
 Achievements/57/Name=Invocador
-Achievements/57/Description=Invoque {0} bichos amigáveis
+Achievements/57/Description=Invoque {0} Insetos amigáveis
 Achievements/57/Gender=Male
 
 Achievements/58/Name=Brilhante!
@@ -261,23 +261,23 @@ Achievements/62/Description=Cause {0:tooltip} de Dano.
 Achievements/62/Gender=Male
 
 Achievements/63/Name=Nocaute com um golpe
-Achievements/63/Description=Destrua {#Rarities/{0}/Article} bicho {#Rarities/{0}/Name} em um ataque.
+Achievements/63/Description=Destrua {#Rarities/{0}/Article} Inseto {#Rarities/{0}/Name} em um ataque.
 Achievements/63/Gender=Male
 
 Achievements/64/Name=Nocaute com um golpe
-Achievements/64/Description=Destrua {#Rarities/{0}/Article} bicho {#Rarities/{0}/Name} em um ataque.
+Achievements/64/Description=Destrua {#Rarities/{0}/Article} Inseto {#Rarities/{0}/Name} em um ataque.
 Achievements/64/Gender=Male
 
 Achievements/65/Name=Nocaute com um golpe
-Achievements/65/Description=Destrua {#Rarities/{0}/Article} bicho {#Rarities/{0}/Name} em um ataque.
+Achievements/65/Description=Destrua {#Rarities/{0}/Article} Inseto {#Rarities/{0}/Name} em um ataque.
 Achievements/65/Gender=Male
 
 Achievements/66/Name=Nocaute com um golpe
-Achievements/66/Description=Destrua {#Rarities/{0}/Article} bicho {#Rarities/{0}/Name} em um ataque.
+Achievements/66/Description=Destrua {#Rarities/{0}/Article} Inseto {#Rarities/{0}/Name} em um ataque.
 Achievements/66/Gender=Male
 
 Achievements/67/Name=Nocaute com um golpe
-Achievements/67/Description=Destrua {#Rarities/{0}/Article} bicho {#Rarities/{0}/Name} em um ataque.
+Achievements/67/Description=Destrua {#Rarities/{0}/Article} Inseto {#Rarities/{0}/Name} em um ataque.
 Achievements/67/Gender=Male
 
 Achievements/68/Name=Ficando bronzeado
@@ -293,7 +293,7 @@ Achievements/70/Description=Invoque um cupim amigável.
 Achievements/70/Gender=Male
 
 Achievements/71/Name=Pacifista
-Achievements/71/Description=Fique {0:time} admirando a natureza sem matar um bicho.
+Achievements/71/Description=Fique {0:time} admirando a natureza sem matar um Inseto.
 Achievements/71/Gender=Male
 
 Achievements/72/Name=Vá embora
@@ -321,7 +321,7 @@ Achievements/77/Description=Equipe {#Petals/{0}/Name}.
 Achievements/77/Gender=Female
 
 Achievements/78/Name=Retornar ao remetente
-Achievements/78/Description=Ataque um bicho com {#Petals/{0}/Name}.
+Achievements/78/Description=Ataque um Inseto com {#Petals/{0}/Name}.
 Achievements/78/Gender=Male
 
 Achievements/79/Name=Destruidora de lares
@@ -345,35 +345,35 @@ Achievements/83/Description=Morra {0} vezes.
 Achievements/83/Gender=Female
 
 Achievements/84/Name=Assassino em série
-Achievements/84/Description=Destrua {0} bichos entre {1:time} de cada.
+Achievements/84/Description=Destrua {0} Insetos entre {1:time} de cada.
 Achievements/84/Gender=Male
 
 Achievements/85/Name=Invencível
-Achievements/85/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/85/Description=Destrua {0} Insetos {#Rarities/{1}/Name}+ sem morrer.
 Achievements/85/Gender=Male
 
 Achievements/86/Name=Invencível
-Achievements/86/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/86/Description=Destrua {0} Insetos {#Rarities/{1}/Name}+ sem morrer.
 Achievements/86/Gender=Male
 
 Achievements/87/Name=Invencível
-Achievements/87/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/87/Description=Destrua {0} Insetos {#Rarities/{1}/Name}+ sem morrer.
 Achievements/87/Gender=Male
 
 Achievements/88/Name=Invencível
-Achievements/88/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/88/Description=Destrua {0} Insetos {#Rarities/{1}/Name}+ sem morrer.
 Achievements/88/Gender=Male
 
 Achievements/89/Name=Invencível
-Achievements/89/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/89/Description=Destrua {0} Insetos {#Rarities/{1}/Name}+ sem morrer.
 Achievements/89/Gender=Male
 
 Achievements/90/Name=Invencível
-Achievements/90/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/90/Description=Destrua {0} Insetos {#Rarities/{1}/Name}+ sem morrer.
 Achievements/90/Gender=Male
 
 Achievements/91/Name=Invencível
-Achievements/91/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/91/Description=Destrua {0} Insetos {#Rarities/{1}/Name}+ sem morrer.
 Achievements/91/Gender=Male
 
 Achievements/92/Name=Você é o idiota
@@ -381,7 +381,7 @@ Achievements/92/Description=Morra para {#Mobs/{0}/Name}.
 Achievements/92/Gender=Male
 
 Achievements/93/Name=Genocida
-Achievements/93/Description=Destrua {0} bichos em {1:time}.
+Achievements/93/Description=Destrua {0} Insetos em {1:time}.
 Achievements/93/Gender=
 
 Achievements/94/Name=Rolando na massa
@@ -393,7 +393,7 @@ Achievements/95/Description=Destrua {0} Joaninhas Brilhantes em  {1:time}.
 Achievements/95/Gender=
 
 Achievements/96/Name=Caçador de Super
-Achievements/96/Description=Destrua {0} bichos {#Rarities/{1}/Name} .
+Achievements/96/Description=Destrua {0} Insetos {#Rarities/{1}/Name} .
 Achievements/96/Gender=male
 
 Achievements/97/Name=Sacrifice
@@ -401,7 +401,7 @@ Achievements/97/Description=Morra em {0:time} de reviver alguém.
 Achievements/97/Gender=Male
 
 Achievements/98/Name=Inútil
-Achievements/98/Description=Receba créditos por matar um bicho sem causar nenhum dano a ele.
+Achievements/98/Description=Receba créditos por matar um Inseto sem causar nenhum dano a ele.
 Achievements/98/Gender=Male
 
 Achievements/99/Name=Inútil
@@ -441,7 +441,7 @@ Achievements/107/Description=Mova-se mais rápido ainda.
 Achievements/107/Gender=Male
 
 Achievements/108/Name=Biologista
-Achievements/108/Description=Destrua {0} tipos de bichos diferentes sem morrer.
+Achievements/108/Description=Destrua {0} tipos de Insetos diferentes sem morrer.
 Achievements/108/Gender=Male
 
 Achievements/109/Name=Coletor
@@ -469,19 +469,19 @@ Achievements/114/Description=Visite Jardim, Deserto, Selva, Oceano e depois volt
 Achievements/114/Gender=Male
 
 Achievements/115/Name=Biologista
-Achievements/115/Description=Destrua {0} tipos de bichos  {#Rarities/{1}/Name}+ diferentes sem morrer.
+Achievements/115/Description=Destrua {0} tipos de Insetos  {#Rarities/{1}/Name}+ diferentes sem morrer.
 Achievements/115/Gender=Male
 
 Achievements/116/Name=Ruim em todos os sentidos
-Achievements/116/Description=Morra para {0} tipos de bichos diferentes.
+Achievements/116/Description=Morra para {0} tipos de Insetos diferentes.
 Achievements/116/Gender=Male
 
 Achievements/117/Name=Ruim em todos os sentidos
-Achievements/117/Description=Morra para {0} tipos de bichos diferentes.
+Achievements/117/Description=Morra para {0} tipos de Insetos diferentes.
 Achievements/117/Gender=Male
 
 Achievements/118/Name=Ruim em todos os sentidos
-Achievements/118/Description=Morra para {0} tipos de bichos diferentes.
+Achievements/118/Description=Morra para {0} tipos de Insetos diferentes.
 Achievements/118/Gender=Male
 
 Achievements/119/Name=Tocado
@@ -505,27 +505,27 @@ Achievements/123/Description=Enquanto estiver no Hel, mate {0} flores sem morrer
 Achievements/123/Gender=Female
 
 Achievements/124/Name=Odiador
-Achievements/124/Description=Destrua {0} bichos de um tipo seguidos sem morrer.
+Achievements/124/Description=Destrua {0} Insetos de um tipo seguidos sem morrer.
 Achievements/124/Gender=Male
 
 Achievements/125/Name=Odiador
-Achievements/125/Description=Destrua {0} bichos de um tipo seguidos sem morrer.
+Achievements/125/Description=Destrua {0} Insetos de um tipo seguidos sem morrer.
 Achievements/125/Gender=Male
 
 Achievements/126/Name=Odiador
-Achievements/126/Description=Destrua {0} bichos de um tipo seguidos sem morrer.
+Achievements/126/Description=Destrua {0} Insetos de um tipo seguidos sem morrer.
 Achievements/126/Gender=Male
 
 Achievements/127/Name=Odiador
-Achievements/127/Description=Destrua {0} bichos de um tipo seguidos sem morrer.
+Achievements/127/Description=Destrua {0} Insetos de um tipo seguidos sem morrer.
 Achievements/127/Gender=Male
 
 Achievements/128/Name=Vingança
-Achievements/128/Description=Mate o bicho que te matou.
+Achievements/128/Description=Mate o Inseto que te matou.
 Achievements/128/Gender=Male
 
 Achievements/129/Name=Vingança
-Achievements/129/Description=Mate o bicho que te matou em {0:time} desde sua morte.
+Achievements/129/Description=Mate o Inseto que te matou em {0:time} desde sua morte.
 Achievements/129/Gender=Male
 
 Achievements/130/Name=Troca
