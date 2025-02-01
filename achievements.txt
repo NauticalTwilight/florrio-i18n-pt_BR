@@ -41,7 +41,7 @@ Achievements/7/Gender=Female
 
 Achievements/8/Name=Tutorial
 Achievements/8/Description=Construa uma pétala
-Achievements/8/ExtraDescription=Agora tente construir sua primeira pétala.<n/>Saiba que talvez você precise desequipar algumas pétalas para ter o suficiente para tentar construir las.<n/>Você precisa de 5 da mesma pétala.<n/><n/>Não se preocupe, garantimos essa tentativa.
+Achievements/8/ExtraDescription=Agora tente construir sua primeira pétala.<n/>Saiba que talvez você precise desequipar algumas pétalas para ter o suficiente para tentar construí-las.<n/>Você precisa de 5 da mesma pétala.<n/><n/>Não se preocupe, garantimos essa tentativa.
 Achievements/8/Gender=Female
 
 Achievements/9/Name=Tutorial
