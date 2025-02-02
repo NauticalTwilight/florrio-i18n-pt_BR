@@ -4,22 +4,22 @@ Chat/Command/help/Args=[cmd]
 Chat/Command/help/Description=Lista todos os commandos ou lista uma ajuda para um commando específico.
 
 Chat/Command/guild/Args=<Mensagem>
-Chat/Command/guild/Description=Manda uma mensagem apenas para jogadores da sua guilda.
+Chat/Command/guild/Description=Manda uma mensagem apenas para jogadores do seu clã.
 
 Chat/Command/guild-create/Args=<nome> <tag>
-Chat/Command/guild-create/Description=Cria uma nova guilda. O nome deve ser 3-13 caracteres. O tag deve ser 2-4 Caracteres
+Chat/Command/guild-create/Description=Cria um novo clã. O nome deve ser 3-13 caracteres. O tag deve ser 2-4 Caracteres
 
 Chat/Command/guild-invite/Args=<nome>
-Chat/Command/guild-invite/Description=Convida um jogador para sua guilda. Deve ser o líder, o jogador deve estar perto de você
+Chat/Command/guild-invite/Description=Convida um jogador para seu clã. Deve ser o líder, o jogador deve estar perto de você
 
 Chat/Command/guild-transfer-leader/Args=<alvo>
-Chat/Command/guild-transfer-leader/Description=Transfere a liderança da guilda para outra pessoa
+Chat/Command/guild-transfer-leader/Description=Transfere a liderança do clã para outra pessoa
 
 Chat/Command/guild-motd/Args=<texto>
-Chat/Command/guild-motd/Description=Define o MOTD da guilda
+Chat/Command/guild-motd/Description=Define o MOTD do clã
 
 Chat/Command/squad/Args=<mensagem>
-Chat/Command/squad/Description=Define o MOTD da guilda
+Chat/Command/squad/Description=Define o MOTD do clã
 
 Chat/Command/squad-create/Args=
 Chat/Command/squad-create/Description=Cria um esquadrão
