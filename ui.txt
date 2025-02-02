@@ -57,16 +57,16 @@ UI/Scoreboard/Title/1=1 Flor
 UI/Scoreboard/Title/N={0} Flores
 UI/Scoreboard/HiddenName=Jogador #{0}
 
-UI/Chat/PromptTap=Aperte aqui para abrir o bate papo
-UI/Chat/PromptClick=clique aqui para abrir o bate papo
-UI/Chat/PromptKeyboardOrClick=Aperte [ENTER] ou clique para abrir o chat
+UI/Chat/PromptTap=Aperte aqui para abrir o chat
+UI/Chat/PromptClick=clique aqui para abrir o chat
+UI/Chat/PromptKeyboardOrClick=Aperte [ENTER] ou clique aqui para abrir o chat
 UI/Chat/Player/Block=Bloquear
 UI/Chat/Player/ReportMessage=Reportar Mensagem
 UI/Chat/Player/Whisper=Sussurir
 UI/Chat/Player/InviteToSquad=Convidar pro Time
 UI/Chat/Player/InviteToGuild=Convidar pro Clã
 
-UI/Flower/Level=Nível {0}
+UI/Flower/Level=NVL {0}
 
 UI/Death/Title=Você foi destruído por:
 UI/Death/NoSource=Uma entidade misteriosa
@@ -101,7 +101,7 @@ UI/Guild/NoGuild=Você não possui um clã ainda
 UI/Guild/Invite=Você foi convidado pra:
 UI/Guild/Invite/Button=Aceitar
 UI/Guild/Invite/Expiration=Esse convite vai expirar em breve caso não seja aceitado
-UI/Guild/ChatSetting=Bate Papo
+UI/Guild/ChatSetting=Chat
 UI/Guild/SquadButton=Squad
 UI/Guild/KickButton=Expulsar
 UI/Guild/Leader=(Líder)
@@ -134,7 +134,7 @@ UI/Shop/StarsHelp2=Compre algumas apertando no número na direita
 UI/Shop/MustLink1=Pra fazer qualquer compra você precisa
 UI/Shop/MustLink2=Sincronizar sua conta na Apple ou Discord
 UI/Shop/MustLinkCancel=Cancelar
-UI/Shop/BuyStars/Instructions= No caso de problemas com a compra, por favor contate nosso processador de pagamentos:<n/>support@xsolla.com ou faça um bate papo live em xsolla.com
+UI/Shop/BuyStars/Instructions= No caso de problemas com a compra,<n/>por favor contate nosso processador de pagamentos:<n/>support@xsolla.com ou faça um livelive em xsolla.com
 UI/Shop/BuyStars/Extra=Eu tenho muito dinheiro
 UI/Shop/BuyStars/Cancel=Cancelar
 UI/Shop/BuyPetal/Title=Confirmar
@@ -158,7 +158,7 @@ UI/DailyChallenge/Button=Desafio
 UI/DailyChallenge/Instructions=Derrote esses inimigos:
 UI/DailyChallenge/TimeLeft=Os desafios vão mudar em {0:timeLeft}
 UI/DailyChallenge/Claimed=Adquirido
-UI/DailyChallenge/SupportersOnly=Desafio liberado para<n/>pessoas que compraram estrelas.
+UI/DailyChallenge/SupportersOnly=Desafio para pessoas<n/>que compraram estrelas.
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
@@ -237,7 +237,7 @@ UI/Settings/Realms/1=Juliett (US)
 UI/Settings/Realms/2=Romeo (EU)
 UI/Settings/Realms/3=Sierra (ASIA)
 
-UI/Settings/Chat=Bate papo
+UI/Settings/Chat=Chat
 UI/Settings/ChatWhispers=Sussurros
 
 UI/Settings/AutoJoinSquads=Entrar em times automaticamente
