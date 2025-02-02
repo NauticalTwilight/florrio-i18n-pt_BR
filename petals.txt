@@ -76,7 +76,7 @@ Petals/dandelion/Description=Suas propriedades interessantes inibem o efeito de 
 Petals/dandelion/Gender=Male
 
 Petals/beetle_egg/Name=Ovo
-Petals/beetle_egg/FullName=Ovo de besouro
+Petals/beetle_egg/FullName=Ovo de Besouro
 Petals/beetle_egg/Description=Algo interessante deve sair de dentro disso.
 Petals/beetle_egg/Gender=Male
 
