@@ -158,14 +158,14 @@ UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
 UI/Petal/Description={#Petals/{0:base}/Description}
-UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
+UI/Petal/Rarity={#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name}
 UI/Petal/Reload1={0}s
 UI/Petal/Reload2={0}s + {1}s
 
 UI/Mob/Name={#Mobs/{0:base}/Name}
 UI/Mob/SortName={#Mobs/{0:base}/Name}
 UI/Mob/Description={#Mobs/{0:base}/Description}
-UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
+UI/Mob/Rarity={#Rarities/{0:rarity}/{#Mobs/{0:base}/Gender}/Name}
 
 UI/Map/Name={#Maps/{0}/Name}
 
@@ -177,7 +177,7 @@ UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
 UI/Talent/Title=Talentos
 UI/Talent/Name={#Talents/{0}/Name:1-}
 UI/Talent/Description={#Talents/{0}/Description:1-}
-UI/Talent/Rarity={#Rarities/{1}/Name}
+UI/Talent/Rarity={#Rarities/{1}/Male/Name}
 UI/Talent/TP=TP
 UI/Talent/Tooltip=Você pode adquirir mais TP upando de nível
 UI/Talent/Reset=Resetar

@@ -102,7 +102,7 @@ Petals/web/Gender=Female
 
 Petals/honey/Name=Mel
 Petals/honey/FullName=Mel
-Petals/honey/Description=Insetos amam isso. Atraem os em uma grande área.<n/>Insetos vão priorizar isso do que flores.<n>Unidades afetadas desenvolvem imunidade a seus efeitos após um tempo.
+Petals/honey/Description=Insetos amam isso. Atraem os em uma grande área.<n/>Insetos vão priorizar isso do que flores.<n/>Unidades afetadas desenvolvem imunidade a seus efeitos após um tempo.
 Petals/honey/Gender=Male
 
 Petals/leaf/Name=Folha
@@ -411,27 +411,27 @@ Petals/blueberries/Description=Eles estouram, só que agora, com um ingrediente 
 Petals/blueberries/Gender=Male
 
 Petals/magic_cotton/Name=Algodão
-Petals/magic_cotton/FullName=Algodão mágico
+Petals/magic_cotton/FullName=Algodão Mágico
 Petals/magic_cotton/Description=Absorve o dano recebido pela flor
 Petals/magic_cotton/Gender=Male
 
 Petals/magic_stinger/Name=Ferrão
-Petals/magic_stinger/FullName=Ferrão mágico
+Petals/magic_stinger/FullName=Ferrão Mágico
 Petals/magic_stinger/Description=Dói muito, mais é bem frágil.
 Petals/magic_stinger/Gender=Male
 
 Petals/magic_leaf/Name=Folha
-Petals/magic_leaf/FullName=Folha mágica
+Petals/magic_leaf/FullName=Folha Mágica
 Petals/magic_leaf/Description=Coleta energia do ambiente para gerar mana.
 Petals/magic_leaf/Gender=Female
 
 Petals/magic_cactus/Name=Cacto
-Petals/magic_cactus/FullName=Cacto mágico
+Petals/magic_cactus/FullName=Cacto Mágico
 Petals/magic_cactus/Description=Aumenta a capacidade de mana máxima.
 Petals/magic_cactus/Gender=Male
 
-Petals/magic_eye/Name=Olho mágico
-Petals/magic_eye/FullName=Olho mágico
+Petals/magic_eye/Name=Olho Mágico
+Petals/magic_eye/FullName=Olho Mágico
 Petals/magic_eye/Description=Consome a metade da sua mana atual, dando dano baseado nesse valor.
 Petals/magic_eye/Gender=Male
 
@@ -441,7 +441,7 @@ Petals/magic_missile/Description=Você pode atirar isso... com magia.
 Petals/magic_missile/Gender=Male
 
 Petals/magic_stick/Name=Galho
-Petals/magic_stick/FullName=Galho mágico
+Petals/magic_stick/FullName=Galho Mágico
 Petals/magic_stick/Description=Um galho misterioso que invoca as forças do vento... com magia.
 Petals/magic_stick/Gender=Male
 
@@ -451,7 +451,7 @@ Petals/coral/Description=Quebra-se com o impacto.<n/>Cada pedaço tem 50% das es
 Petals/coral/Gender=Male
 
 Petals/magic_bubble/Name=Bolha
-Petals/magic_bubble/FullName=Bolha mágica
+Petals/magic_bubble/FullName=Bolha Mágica
 Petals/magic_bubble/Description=Uma pétala que desafia as leis da física... com um toque de mágica.
 Petals/magic_bubble/Gender=Female
 
@@ -460,8 +460,8 @@ Petals/nazar/FullName=Amuleto Nazar
 Petals/nazar/Description=Reduz o dano de uma instância de dano em 98%.
 Petals/nazar/Gender=Male
 
-Petals/mimic/Name= Mímico
-Petals/mimic/FullName= Mímico
+Petals/mimic/Name=Mímico
+Petals/mimic/FullName=Mímico
 Petals/mimic/Description=Copia a pétala à esquerda desta, com a mesma raridade dela.
 Petals/mimic/Gender=Male
 

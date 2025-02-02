@@ -382,15 +382,15 @@ Achievements/92/Gender=Male
 
 Achievements/93/Name=Genocida
 Achievements/93/Description=Destrua {0} Insetos em {1:time}.
-Achievements/93/Gender=
+Achievements/93/Gender=Male
 
 Achievements/94/Name=Rolando na massa
 Achievements/94/Description=Obtenha {0} drops em {1:time}.
-Achievements/94/Gender=
+Achievements/94/Gender=Male
 
 Achievements/95/Name=Caçador de brilhos
 Achievements/95/Description=Destrua {0} Joaninhas Brilhantes em  {1:time}.
-Achievements/95/Gender=
+Achievements/95/Gender=Male
 
 Achievements/96/Name=Caçador de Super
 Achievements/96/Description=Destrua {0} Insetos {#Rarities/{1}/Name} .
