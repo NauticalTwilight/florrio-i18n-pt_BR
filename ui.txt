@@ -49,13 +49,13 @@ UI/AbandonGame=Abandonar o jogo
 UI/Reconnecting=Conexão perdida, retomando
 
 UI/LevelBar/Level=Nível {0}
-UI/LevelBar/LevelLong=Nível {0} Flower
+UI/LevelBar/LevelLong=Flor Nível {0}
 UI/LevelBar/XP={0}/{1} XP
 
 UI/Scoreboard/Title={#UI/Scoreboard/Title/{0:1orN}}
-UI/Scoreboard/Title/1=1 Flower
-UI/Scoreboard/Title/N={0} Flowers
-UI/Scoreboard/HiddenName=Player #{0}
+UI/Scoreboard/Title/1=1 Flor
+UI/Scoreboard/Title/N={0} Flores
+UI/Scoreboard/HiddenName=Jogador #{0}
 
 UI/Chat/PromptTap=Aperte aqui para abrir o bate papo
 UI/Chat/PromptClick=clique aqui para abrir o bate papo
@@ -66,7 +66,7 @@ UI/Chat/Player/Whisper=Sussurir
 UI/Chat/Player/InviteToSquad=Convidar pro Esquadrão
 UI/Chat/Player/InviteToGuild=Convidar pro Clã
 
-UI/Flower/Level=Lvl {0}
+UI/Flower/Level=Nível {0}
 
 UI/Death/Title=Você foi destruído por:
 UI/Death/NoSource=Uma entidade misteriosa
@@ -145,7 +145,7 @@ UI/Shop/MagicPetalError/Instructions=Você não pode comprar pétalas magicas <n
 UI/Shop/MagicPetalError/Cancel=Cancelar
 UI/Shop/Loyalty/Title=Obrigada!
 UI/Shop/Loyalty/Instructions=Como um agradecimento a seu suporte,<n/>nos gostaríamos de dar essas estrelas de graça.<n/><n/>Isso é equivalente ao que você comprou<n/> com um pacote maior
-UI/Shop/Price/USD=${0}
+UI/Shop/Price/USD=US${0}
 
 UI/DailyChallenge/Title=Desafio
 UI/DailyChallenge/Button=Desafio
