@@ -22,23 +22,23 @@ Talents/crafting_ultra/Description={#Talents/crafting/Description}
 Talents/crafting_super/Name={#Talents/crafting/Name}
 Talents/crafting_super/Description={#Talents/crafting/Description}
 
-Talents/inventory6/Name=Loadout
-Talents/inventory6/Description=Enables a 6th loadout slot to equip petals.
+Talents/inventory6/Name=Inventário
+Talents/inventory6/Description=Concede um sexto slot para equipar pétalas.
 
-Talents/inventory7/Name=Loadout
-Talents/inventory7/Description=Enables a 7th loadout slot to equip petals.
+Talents/inventory7/Name=Inventário
+Talents/inventory7/Description=Concede um sétimo slot para equipar pétalas.
 
-Talents/inventory8/Name=Loadout
-Talents/inventory8/Description=Enables a 8th loadout slot to equip petals.
+Talents/inventory8/Name=Inventário
+Talents/inventory8/Description=Concede um oitavo slot para equipar pétalas.
 
-Talents/inventory9/Name=Loadout
-Talents/inventory9/Description=Enables a 9th loadout slot to equip petals.
+Talents/inventory9/Name=Inventário
+Talents/inventory9/Description=Concede um nono slot para equipar pétalas.
 
-Talents/inventory10/Name=Loadout
-Talents/inventory10/Description=Enables a 10th loadout slot to equip petals.
+Talents/inventory10/Name=Inventário
+Talents/inventory10/Description=Concede um décimo slot para equipar pétalas.
 
-Talents/health/Name=Health
-Talents/health/Description=Increases base {#Flower/Attribute/HealthNoColon} by {0:perc}%.
+Talents/health/Name=Vida
+Talents/health/Description=Aumenta a {#Flower/Attribute/HealthNoColon} base em {0:perc}%.
 
 Talents/health1/Name={#Talents/health/Name}
 Talents/health1/Description={#Talents/health/Description}
@@ -64,8 +64,8 @@ Talents/health7/Description={#Talents/health/Description}
 Talents/health8/Name={#Talents/health/Name}
 Talents/health8/Description={#Talents/health/Description}
 
-Talents/luck/Name=Luck
-Talents/luck/Description=Increases {#Flower/Attribute/LuckNoColon} by {0:tooltip}.<n/>Luck is used by specific petals to change their stats.
+Talents/luck/Name=Sorte
+Talents/luck/Description=Aumenta a {#Flower/Attribute/LuckNoColon} em {0:tooltip}.<n/>Sorte é usada para mudar os status de pétalas específicas.
 
 Talents/luck1/Name={#Talents/luck/Name}
 Talents/luck1/Description={#Talents/luck/Description}
@@ -79,8 +79,8 @@ Talents/luck3/Description={#Talents/luck/Description}
 Talents/luck4/Name={#Talents/luck/Name}
 Talents/luck4/Description={#Talents/luck/Description}
 
-Talents/medic/Name=Medic
-Talents/medic/Description=Increases {#Flower/Attribute/HealingNoColon} from your petals by {0:perc}%.<n/>Affects allies healed by your petals.
+Talents/medic/Name=Médico
+Talents/medic/Description=Aumenta {#Flower/Attribute/HealingNoColon} de suas pétalas em {0:perc}%.<n/>Afeta aliados curados pelas suas pétalas.
 
 Talents/medic1/Name={#Talents/medic/Name}
 Talents/medic1/Description={#Talents/medic/Description}
@@ -106,8 +106,8 @@ Talents/medic7/Description={#Talents/medic/Description}
 Talents/medic8/Name={#Talents/medic/Name}
 Talents/medic8/Description={#Talents/medic/Description}
 
-Talents/summoner/Name=Summoner
-Talents/summoner/Description=Increases {#Mob/Attribute/HealthNoColon} of summoned mobs by {0:perc}%.
+Talents/summoner/Name=Invocador
+Talents/summoner/Description=Aumenta a {#Mob/Attribute/HealthNoColon} de bichos invocados em {0:perc}%.
 
 Talents/summoner1/Name={#Talents/summoner/Name}
 Talents/summoner1/Description={#Talents/summoner/Description}
@@ -133,32 +133,32 @@ Talents/summoner7/Description={#Talents/summoner/Description}
 Talents/summoner8/Name={#Talents/summoner/Name}
 Talents/summoner8/Description={#Talents/summoner/Description}
 
-Talents/reload1/Name=Reload
-Talents/reload1/Description=Decreases the reload time for petals by -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload1/Name=Recarga
+Talents/reload1/Description=Reduz o tempo de recarga para pétalas em -{0:perc}%.<n/>Diminui o tempo mínimo de recarga ao trocar pétalas de {3}s para {2}s.
 
-Talents/reload2/Name=Reload
-Talents/reload2/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload2/Name=Recarga
+Talents/reload2/Description=Reduz o tempo de recarga para pétalas de -{1:perc}% para -{0:perc}%.<n/>Diminui o tempo mínimo de recarga ao trocar pétalas de {3}s para {2}s.
 
-Talents/reload3/Name=Reload
-Talents/reload3/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload3/Name=Recarga
+Talents/reload3/Description=Reduz o tempo de recarga para pétalas de -{1:perc}% para -{0:perc}%.<n/>Diminui o tempo mínimo de recarga ao trocar pétalas de {3}s para {2}s.
 
-Talents/reload4/Name=Reload
-Talents/reload4/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload4/Name=Recarga
+Talents/reload4/Description=Reduz o tempo de recarga para pétalas de -{1:perc}% para -{0:perc}%.<n/>Diminui o tempo mínimo de recarga ao trocar pétalas de {3}s para {2}s.
 
-Talents/reload5/Name=Reload
-Talents/reload5/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+Talents/reload5/Name=Recarga
+Talents/reload5/Description=Reduz o tempo de recarga para pétalas de -{1:perc}% para -{0:perc}%.<n/>Diminui o tempo mínimo de recarga ao trocar pétalas de {3}s para {2}s.
 
-Talents/reload6/Name=Reload
-Talents/reload6/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
+Talents/reload6/Name=Recarga
+Talents/reload6/Description=Reduz o tempo de recarga para pétalas de -{1:perc}% para -{0:perc}%.
 
-Talents/reload7/Name=Reload
-Talents/reload7/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
+Talents/reload7/Name=Recarga
+Talents/reload7/Description=Reduz o tempo de recarga para pétalas de -{1:perc}% para -{0:perc}%.
 
-Talents/reload8/Name=Reload
-Talents/reload8/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
+Talents/reload8/Name=Recarga
+Talents/reload8/Description=Reduz o tempo de recarga para pétalas de -{1:perc}% para -{0:perc}%.
 
-Talents/body_damage/Name=Sharp Edges
-Talents/body_damage/Description=Increases {#Flower/Attribute/BodyDamageNoColon} by {0:perc}%.
+Talents/body_damage/Name=Bordas Afiadas
+Talents/body_damage/Description=Aumenta o {#Flower/Attribute/BodyDamageNoColon} em {0:perc}%.
 
 Talents/body_damage1/Name={#Talents/body_damage/Name}
 Talents/body_damage1/Description={#Talents/body_damage/Description}
@@ -184,8 +184,8 @@ Talents/body_damage7/Description={#Talents/body_damage/Description}
 Talents/body_damage8/Name={#Talents/body_damage/Name}
 Talents/body_damage8/Description={#Talents/body_damage/Description}
 
-Talents/petal_rotation/Name=Petal Rotation
-Talents/petal_rotation/Description=Increases petal {#Flower/Attribute/RotationSpeedNoColon} from {1:tooltip} to {0:tooltip} rad/s.
+Talents/petal_rotation/Name=Rotação de Pétalas
+Talents/petal_rotation/Description=Aumenta a {#Flower/Attribute/RotationSpeedNoColon} de {1:tooltip} para {0:tooltip} rad/s.
 
 Talents/petal_rotation1/Name={#Talents/petal_rotation/Name}
 Talents/petal_rotation1/Description={#Talents/petal_rotation/Description}
@@ -202,8 +202,8 @@ Talents/petal_rotation4/Description={#Talents/petal_rotation/Description}
 Talents/petal_rotation5/Name={#Talents/petal_rotation/Name}
 Talents/petal_rotation5/Description={#Talents/petal_rotation/Description}
 
-Talents/reach/Name=Reach
-Talents/reach/Description=Increases petal {#Flower/Attribute/AttackRangeNoColon} by {0:tooltip}.
+Talents/reach/Name=Alcance
+Talents/reach/Description=Aumenta o {#Flower/Attribute/AttackRangeNoColon} em {0:tooltip}.
 
 Talents/reach1/Name={#Talents/reach/Name}
 Talents/reach1/Description={#Talents/reach/Description}
@@ -214,20 +214,20 @@ Talents/reach2/Description={#Talents/reach/Description}
 Talents/reach3/Name={#Talents/reach/Name}
 Talents/reach3/Description={#Talents/reach/Description}
 
-Talents/second_chance1/Name=Second Chance
-Talents/second_chance1/Description=Prevents death for {0:tooltip}s upon taking fatal damage. Has a {1:tooltip}s cooldown.
+Talents/second_chance1/Name=Segunda Chance
+Talents/second_chance1/Description=Previne a morte por {0:tooltip}s ao sofrer dano fatal. Tem {1:tooltip}s de recarregamento.
 
-Talents/second_chance2/Name=Second Chance
-Talents/second_chance2/Description=Increases duration to {0:tooltip}s, decreases cooldown to {1:tooltip}s.
+Talents/second_chance2/Name=Segunda Chance
+Talents/second_chance2/Description=Aumenta a duração para {0:tooltip}s, Diminui o recarregamento para {1:tooltip}s.
 
-Talents/magnetism/Name=Magnetism
-Talents/magnetism/Description=Increases petal pick up range by {0} while alive.
+Talents/magnetism/Name=Magnetismo
+Talents/magnetism/Description=Aumenta o alcance de coleta de pétalas em {0} enquanto vivo.
 
-Talents/body_toxicity/Name=Body Toxicity
-Talents/body_toxicity/Description=When colliding with an enemy, deals additional damage<n/>equal to {0:tooltip}x {#Flower/Attribute/BodyDamageNoColon} as {#Attribute/PoisonNoColon} over {1:tooltip}s.
+Talents/body_toxicity/Name=Toxicidade Corporal
+Talents/body_toxicity/Description=Quando colidindo com um inimigo, causa dano adicional <n/>igual a {0:tooltip}x {#Flower/Attribute/BodyDamageNoColon} como {#Attribute/PoisonNoColon} por {1:tooltip}s.
 
-Talents/poison/Name=Poison
-Talents/poison/Description=Increases all {#Attribute/PoisonNoColon} damage by {0:perc}%.
+Talents/poison/Name=Veneno
+Talents/poison/Description=Aumenta todo dano {#Attribute/PoisonNoColon} por segundo em {0:perc}%.
 
 Talents/poison1/Name={#Talents/poison/Name}
 Talents/poison1/Description={#Talents/poison/Description}
@@ -253,17 +253,17 @@ Talents/poison7/Description={#Talents/poison/Description}
 Talents/poison8/Name={#Talents/poison/Name}
 Talents/poison8/Description={#Talents/poison/Description}
 
-Talents/concentrated_poison/Name=Concentrated Poison
-Talents/concentrated_poison/Description=Increases {#Attribute/PoisonNoColon} damage per second by {0:perc}%.<n/>Decreases {#Attribute/PoisonNoColon} duration by {1:perc}%.
+Talents/concentrated_poison/Name=Veneno Concentrado
+Talents/concentrated_poison/Description=Aumenta o dano {#Attribute/PoisonNoColon} por segundo em {0:perc}%.<n/>Reduz {#Attribute/PoisonNoColon} duração em {1:perc}%.
 
-Talents/duplicator/Name=Duplicator
-Talents/duplicator/Description=Adds an extra copy for petals that have at least {0:tooltip} copies.
+Talents/duplicator/Name=Duplicador
+Talents/duplicator/Description=Adiciona uma cópia extra para pétalas que tenham pelo menos {0:tooltip} cópias.
 
-Talents/antennae1/Name=Antennae
-Talents/antennae1/Description=Increases vision range by {0:perc}%.
+Talents/antennae1/Name=Antena
+Talents/antennae1/Description=Aumenta o campo de visão em {0:perc}%.
 
-Talents/antennae2/Name=Antennae
-Talents/antennae2/Description=Increases extra vision range from {2:perc}% to {1:perc}%.
+Talents/antennae2/Name=Antena
+Talents/antennae2/Description=Aumenta o campo de visão de {2:perc}% para {1:perc}%.
 
-Talents/antennae3/Name=Antennae
-Talents/antennae3/Description=Increases extra vision range from {2:perc}% to {1:perc}%.
+Talents/antennae3/Name=Antena
+Talents/antennae3/Description=Aumenta o campo de visão de {2:perc}% para {1:perc}%.

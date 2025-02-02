@@ -1,223 +1,299 @@
-Mobs/rock/Name=Rock
-Mobs/rock/Description=A rock. It doesn't do much.
-Mobs/rock/Spawn=Something mountain-like appears in the distance...
+Mobs/rock/Name=Pedra
+Mobs/rock/Description=Uma pedra, não faz muitas coisas.
+Mobs/rock/Spawn=Algo parecido como uma montanha aparece na distância...
+Mobs/rock/Gender=Female
 
-Mobs/cactus/Name=Cactus
-Mobs/cactus/Description=Avoid touching it, it hurts.
-Mobs/cactus/Spawn=A tower of thorns rises from the sands...
+Mobs/cactus/Name=Cacto
+Mobs/cactus/Description=Evite tocar, dói muito.
+Mobs/cactus/Spawn=Uma torre de espinhos emerge da areia...
+Mobs/cactos/Gender=Male
 
-Mobs/ladybug/Name=Ladybug
-Mobs/ladybug/Description=Cute and harmless.
+Mobs/ladybug/Name=Joaninha
+Mobs/ladybug/Description=Fofa e inofensiva.
+Mobs/ladybug/Gender=Female
 
-Mobs/bee/Name=Bee
-Mobs/bee/Description=It stings. Don't touch it.
+Mobs/bee/Name=Abelha
+Mobs/bee/Description=Ela pica. Não toque.
+Mobs/bee/Gender=Female
 
-Mobs/ant_baby/Name=Baby Ant
-Mobs/ant_baby/Description=Weak and defenseless, but big dreams.
+Mobs/ant_baby/Name=Formiga Bebê
+Mobs/ant_baby/Description=Fraca e indefesa, mas possui grandes sonhos.
+Mobs/ant_baby/Gender=Female
 
-Mobs/ant_worker/Name=Worker Ant
-Mobs/ant_worker/Description=It's a bit temperamental, probably from working all the time.
+Mobs/ant_worker/Name=Formiga Operária
+Mobs/ant_worker/Description=É um pouco temperamental, provavelmente devido a trabalhar toda hora.
+Mobs/ant_worker/Gender=Female
 
-Mobs/ant_soldier/Name=Soldier Ant
-Mobs/ant_soldier/Description=It's got wings and it's ready to use them.
+Mobs/ant_soldier/Name=Formiga Soldado
+Mobs/ant_soldier/Description=Ela possui asas, e está pronta para usá-las.
+Mobs/ant_soldier/Gender=Female
 
-Mobs/ant_queen/Name=Queen Ant
-Mobs/ant_queen/Description=You must have done something really bad if she's chasing you.
+Mobs/ant_queen/Name=Formiga Rainha
+Mobs/ant_queen/Description=Você deve ter feito algo realmente ruim para ela estar te perseguindo.
+Mobs/ant_queen/Gender=Female
 
-Mobs/ant_hole/Name=Ant Hole
-Mobs/ant_hole/Description=Ants go in, and come out. Can't explain that.
+Mobs/ant_hole/Name=Formigueiro
+Mobs/ant_hole/Description=Formigas entram e saem, não há como explicar.
+Mobs/ant_hole/Gender=Male
 
-Mobs/beetle/Name=Beetle
-Mobs/beetle/Description=It's hungry and flowers are its favorite meal.
+Mobs/beetle/Name=Besouro
+Mobs/beetle/Description=Está faminto e flores são sua comida preferida.
+Mobs/beetle/Gender=Male
 
-Mobs/hornet/Name=Hornet
-Mobs/hornet/Description=These aren't quite as nice as the little bees.
-Mobs/hornet/Spawn=A big yellow spot shows up in the distance...
+Mobs/hornet/Name=Vespão
+Mobs/hornet/Description=Esses não são legais como as pequenas abelhas.
+Mobs/hornet/Spawn=Um grande ponto amarelo surge a uma longa distância
+Mobs/hornet/Gender=Male
 
-Mobs/centipede/Name=Centipede
-Mobs/centipede/Description=It's just there doing its thing.
+Mobs/centipede/Name=Centopeia
+Mobs/centipede/Description=Está apenas ali fazendo suas coisas.
+Mobs/centípede/Gender=Female
 
-Mobs/centipede_body/Name=Centipede
-Mobs/centipede_body/Description=It's just there doing its thing.
+Mobs/centipede_body/Name=Centopéia
+Mobs/centipede_body/Description=Está apenas ali fazendo suas coisas.
+Mobs/centipede_body/Gender=Female
 
-Mobs/centipede_evil/Name=Centipede
-Mobs/centipede_evil/Description=This one loves flowers.
+Mobs/centipede_evil/Name=Centopeia
+Mobs/centipede_evil/Description=Essa aqui ama flores.
+Mobs/centipede_evil/Gender=Female
 
-Mobs/centipede_evil_body/Name=Centipede
-Mobs/centipede_evil_body/Description=This one loves flowers.
+Mobs/centipede_evil_body/Name=Centopeia
+Mobs/centipede_evil_body/Description=Essa aqui ama flores.
+Mobs/centipede_evil_body/Gender=Female
 
-Mobs/centipede_desert/Name=Centipede
-Mobs/centipede_desert/Description=Gotta go fast.
+Mobs/centipede_desert/Name=Centopeia
+Mobs/centipede_desert/Description=Tenho que ir rápido.
+Mobs/centipede_desert/Gender=Female
 
-Mobs/centipede_desert_body/Name=Centipede
-Mobs/centipede_desert_body/Description=Gotta go fast.
+Mobs/centipede_desert_body/Name=Centopeia
+Mobs/centipede_desert_body/Description=Tenho que ir rápido.
+Mobs/centipede_desert_body/Gender=Female
 
-Mobs/square/Name=Square
-Mobs/square/Description=This shape... it looks familiar...
+Mobs/square/Name=Quadrado
+Mobs/square/Description=Essa forma... parece familiar...
+Mobs/square/Gender=Male
 
-Mobs/ladybug_dark/Name=Ladybug
-Mobs/ladybug_dark/Description=Cute and harmless... if left unprovoked.
+Mobs/ladybug_dark/Name=Joaninha
+Mobs/ladybug_dark/Description=Fofa e inofensiva... se não ser provocada.
+Mobs/ladybug_dark/Gender=Female
 
-Mobs/ladybug_shiny/Name=Ladybug
-Mobs/ladybug_shiny/Description=Shiny, cute and mostly harmless.
+Mobs/ladybug_shiny/Name=Joaninha
+Mobs/ladybug_shiny/Description=Brilhantes, fofas e praticamente inofensivas.
+Mobs/ladybug_shiny/Gender=Female
 
-Mobs/spider/Name=Spider
-Mobs/spider/Description=Spooky.
+Mobs/spider/Name=Aranha
+Mobs/spider/Description=Assustador.
+Mobs/spider/Gender=Female
 
-Mobs/scorpion/Name=Scorpion
-Mobs/scorpion/Description=IT STINGS!
+Mobs/scorpion/Name=Escorpião
+Mobs/scorpion/Description=ELE PICA!
+Mobs/scorpion/Gender=Male
 
-Mobs/fire_ant_soldier/Name=Soldier Fire Ant
-Mobs/fire_ant_soldier/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_soldier/Name=Formiga Soldado de Fogo
+Mobs/fire_ant_soldier/Description= essa formiga está sobre foooooogo.
+Mobs/fire_ant_soldier/Gender=Female
 
-Mobs/fire_ant_burrow/Name=Fire Ant Burrow
-Mobs/fire_ant_burrow/Description=What could be in here?
+Mobs/fire_ant_burrow/Name=Formigueiro de Fogo
+Mobs/fire_ant_burrow/Description=Oque será que está nisso?
+Mobs/fire_ant_burrow/Gender=Male
 
-Mobs/sandstorm/Name=Sandstorm
-Mobs/sandstorm/Description=Darude (1999)
+Mobs/sandstorm/Name=Tornado de Areia
+Mobs/sandstorm/Description=Um tornado incontrolável.
+Mobs/sandstorm/Gender=Male
 
-Mobs/bubble/Name=Bubble
-Mobs/bubble/Description=Pop
+Mobs/bubble/Name=Bolha
+Mobs/bubble/Description=Pop.
+Mobs/bubble/Gender=Female
 
-Mobs/bumble_bee/Name=Bumble Bee
-Mobs/bumble_bee/Description=GOTTA RUN.
+Mobs/bumble_bee/Name=Zangão
+Mobs/bumble_bee/Description=PRECISO CORRER.
+Mobs/bumble_bee/Gender=Male
 
-Mobs/shell/Name=Shell
-Mobs/shell/Description=Not an advertisement.
+Mobs/shell/Name=Concha
+Mobs/shell/Description=Não é uma propaganda.
+Mobs/shell/Gender=Female
 
-Mobs/starfish/Name=Starfish
-Mobs/starfish/Description=His name is Patrick.
+Mobs/starfish/Name=Estrela-do-Mar
+Mobs/starfish/Description=Seu nome é Patrick.
+Mobs/starfish/Gender=Female
 
-Mobs/crab/Name=Crab
-Mobs/crab/Description=Mr. Crab.
+Mobs/crab/Name=Caranguejo
+Mobs/crab/Description=Seu Siriguejo
+Mobs/crab/Gender=Male
 
-Mobs/jellyfish/Name=Jellyfish
-Mobs/jellyfish/Description=Makes the most delicious jam.
-Mobs/jellyfish/Spawn=You hear lightning strikes coming from a far distance...
+Mobs/jellyfish/Name=Água-viva
+Mobs/jellyfish/Description=Faz a geleia mais deliciosa.
+Mobs/jellyfish/Spawn=Você escuta ataques de eletricidade vindos de uma longa distância...
+Mobs/jellyfish/Gender=Female
 
-Mobs/digger/Name=Digger
-Mobs/digger/Description=Wrong game, bud.
+Mobs/digger/Name=Escavador
+Mobs/digger/Description=Jogo errado.
+Mobs/digger/Gender=Male
 
-Mobs/sponge/Name=Sponge
+Mobs/sponge/Name=Esponja
 Mobs/sponge/Description=Bob.
+Mobs/sponge/Gender=Female
 
-Mobs/leech/Name=Leech
-Mobs/leech/Description=Slurp slurp.
+Mobs/leech/Name=Sangue Suga
+Mobs/leech/Description=Suga Suga.
+Mobs/leech/Gender=Female
 
 Mobs/leech_body/Name=Leech
-Mobs/leech_body/Description=Slurp slurp.
+Mobs/leech_body/Description=Suga Suga.
+Mobs/leech_body/Gender=Female
 
-Mobs/dandelion/Name=Dandelion
-Mobs/dandelion/Description=Puffy.
+Mobs/dandelion/Name=Dente-de-leão
+Mobs/dandelion/Description=Fofinho.
+Mobs/dandelion/Gender=Male
 
-Mobs/fire_ant_baby/Name=Baby Fire Ant
-Mobs/fire_ant_baby/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_baby/Name=Formiga Bebê de fogo
+Mobs/fire_ant_baby/Description= essa formiga está sobre foooooogo.
+Mobs/fire_ant_baby/Gender=Female
 
-Mobs/fire_ant_worker/Name=Worker Fire Ant
-Mobs/fire_ant_worker/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_worker/Name=Formiga Operária de Fogo
+Mobs/fire_ant_worker/Description= essa formiga está sobre foooooogo.
+Mobs/fire_ant_worker/Gender=Female
 
-Mobs/fire_ant_queen/Name=Queen Fire Ant
-Mobs/fire_ant_queen/Description=This ant is on fireeeeeeeeeeeeee.
+Mobs/fire_ant_queen/Name=Formiga Rainha de fogo
+Mobs/fire_ant_queen/Description= essa formiga está sobre foooooogo.
+Mobs/fire_ant_queen/Gender=Female
 
-Mobs/ant_egg/Name=Ant Egg
-Mobs/ant_egg/Description=Not yet an ant but perhaps soon.
+Mobs/ant_egg/Name=Ovo de formiga
+Mobs/ant_egg/Description=Ainda não é uma formiga, mas em breve será.
+Mobs/ant_egg/Gender=Male
 
-Mobs/fire_ant_egg/Name=Fire Ant Egg
-Mobs/fire_ant_egg/Description=This ant is not yet on fire.
+Mobs/fire_ant_egg/Name=Ovo de formiga de fogo
+Mobs/fire_ant_egg/Description=Essa formiga não está sobre fogo ainda.
+Mobs/fire_ant_egg/Gender=Female
 
-Mobs/fly/Name=Fly
-Mobs/fly/Description=Hzzzzzzzzzzzz.
+Mobs/fly/Name=Mosca
+Mobs/fly/Description=Bzzzzzzzzzz.
+Mobs/fly/Spawn=Você escuta zumbidos altos vindo do esgoto...
+Mobs/fly/Gender=Female
 
-Mobs/leafbug/Name=Leafbug
-Mobs/leafbug/Description=It's not a leaf, but it is a bug.
 
-Mobs/mantis/Name=Mantis
-Mobs/mantis/Description=You better pray you don't become dinner.
+Mobs/leafbug/Name=Bicho-Folha
+Mobs/leafbug/Description=Não é uma folha, mas é um bicho..
+Mobs/leafbug/Gender=Male
 
-Mobs/termite_baby/Name=Baby Termite
-Mobs/termite_baby/Description=Weak and defenseless, but big dreams.<n/>These creatures appear to be connected somehow.
+Mobs/mantis/Name=Louva-a-Deus
+Mobs/mantis/Description=É melhor você rezar para não ser comido..
+Mobs/mantis/Gender=Male
 
-Mobs/termite_worker/Name=Worker Termite
-Mobs/termite_worker/Description=It's a bit temperamental, probably from working all the time.<n/>These creatures appear to be connected somehow.
+Mobs/termite_baby/Name=Bebê Cupim
+Mobs/termite_baby/Description=Fraca e indefesa, mas possui grandes sonhos.<n/>Essas criaturas parecem de algum jeito estar conectadas.
+Mobs/termite_baby/Gender=Female
 
-Mobs/termite_soldier/Name=Soldier Termite
-Mobs/termite_soldier/Description=It's got wings and it's ready to use them.<n/>These creatures appear to be connected somehow.
+Mobs/termite_worker/Name=Cupim Operária
+Mobs/termite_worker/Description=É um pouco temperamental, provavelmente devido a trabalhar toda hora.<n/>Essas criaturas parecem de algum jeito estar conectadas.
+Mobs/termite_worker/Gender=Female
 
-Mobs/termite_overmind/Name=Termite Overmind
-Mobs/termite_overmind/Description=The one who oversees all.
+Mobs/termite_soldier/Name=Cupim soldado
+Mobs/termite_soldier/Description=Ele possui asas, e está pronto para usá-las.<n/>Essas criaturas parecem de algum jeito estar conectadas.
+Mobs/termite_soldier/Gender=Male
 
-Mobs/termite_mound/Name=Termite Mound
-Mobs/termite_mound/Description=Termites go in, and come out. Can't explain that.
+Mobs/termite_overmind/Name=Mega Mente dos Cupins
+Mobs/termite_overmind/Description=Aquele que tudo vê.
+Mobs/termite_overmind/Gender=Male
 
-Mobs/termite_egg/Name=Termite Egg
-Mobs/termite_egg/Description=Not yet a termite but perhaps soon.
+Mobs/termite_mound/Name=Cupinzeiro
+Mobs/termite_mound/Description=Cupins entram e saem, não há como explicar.
+Mobs/termite_mound/Gender=Male
 
-Mobs/bush/Name=Bush
-Mobs/bush/Description=Don't misunderestimate me.
+Mobs/termite_egg/Name=Ovo de Cupim
+Mobs/termite_egg/Description=Ainda não é um Cupim, mas em breve será.
+Mobs/termite_egg/Gender=Male
 
-Mobs/roach/Name=Roach
-Mobs/roach/Description=Gotta go FAST... until they get tired.
+#Mensagem de spawn "Um grande aglomerado de folhas e galhos aparece no além" (apenas uma ideia)
+Mobs/bush/Name=Arbusto
+Mobs/bush/Description=Não me subestime.
+Mobs/bush/Gender=Male
 
-Mobs/moth/Name=Moth
-Mobs/moth/Description=Easily scared, be nice.
+Mobs/roach/Name=Barata
+Mobs/roach/Description=Seja rápido, até ficar cansado.
+Mobs/roach/Gender=Female
 
-Mobs/firefly/Name=Firefly
-Mobs/firefly/Description=Oooooh shiny.
-Mobs/firefly/Spawn=There's a bright light in the horizon...
+Mobs/moth/Name=Mariposa
+Mobs/moth/Description=Facilmente se assusta, seja gentil.
+Mobs/moth/Gender=Female
 
-Mobs/beetle_hel/Name=Beetle
-Mobs/beetle_hel/Description=Scourge that spawns in the other plane.
-Mobs/beetle_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/firefly/Name=Vagalume
+Mobs/firefly/Description=Ooooh Brilhante.
+Mobs/firefly/Spawn=Tem uma luz brilhante vindo do horizonte...
+Mobs/firefly/Gender=Male
 
-Mobs/wasp/Name=Wasp
-Mobs/wasp/Description=They are ANGRY.
+Mobs/beetle_hel/Name=Besouro
+Mobs/beetle_hel/Description=Flagelo que surge no outro mundo.
+Mobs/beetle_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
+Mobs/beetle_hel/Gender=Male
 
-Mobs/dummy/Name=Target Dummy
-Mobs/dummy/Description=How do you have this in your gallery?
+Mobs/wasp/Name=Vespa
+Mobs/wasp/Description=Elas estão com RAIVA.
+Mobs/wasp/Gender=Female
 
-Mobs/spider_hel/Name=Spider
-Mobs/spider_hel/Description=Scourge that spawns in the other plane.
-Mobs/spider_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/dummy/Name=Boneco de teste
+Mobs/dummy/Description=Como você tem essa galeria?
+Mobs/dummy/Gender=Male
 
-Mobs/centipede_hel/Name=Centipede
-Mobs/centipede_hel/Description=Scourge that spawns in the other plane.
-Mobs/centipede_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/spider_hel/Name=Aranha
+Mobs/spider_hel/Description=Flagelo que surge no outro mundo.
+Mobs/spider_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
+Mobs/spider_hel/Gender=Female
 
-Mobs/centipede_hel_body/Name=Centipede
-Mobs/centipede_hel_body/Description=Scourge that spawns in the other plane.
-Mobs/centipede_hel_body/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/centipede_hel/Name=Centopeia
+Mobs/centipede_hel/Description=Flagelo que surge no outro mundo.
+Mobs/centipede_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
+Mobs/centipede_hel/Gender=Female
 
-Mobs/wasp_hel/Name=Wasp
-Mobs/wasp_hel/Description=Scourge that spawns in the other plane.
-Mobs/wasp_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/centipede_hel_body/Name=Centopeia
+Mobs/centipede_hel_body/Description=Flagelo que surge no outro mundo.
+Mobs/centipede_hel_body/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
+Mobs/centipede_hel_body/Gender=Female
 
-Mobs/trader/Name=Trader
+Mobs/wasp_hel/Name=Vespa
+Mobs/wasp_hel/Description=Flagelo que surge no outro mundo.
+Mobs/wasp_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
+Mobs/wasp_hel/Gender=Female
 
-Mobs/gambler/Name=Gambler
-Mobs/gambler/Description=This can happen to YOU.
-Mobs/gambler/Spawn=You hear someone whisper faintly... "just... one more game..."
+Mobs/trader/Name=Mercante
+Mobs/trader/Gender=Male
 
-Mobs/oracle/Name=Oracle
+Mobs/gambler/Name=Apostador
+Mobs/gambler/Description=Isso pode acontecer com VOCÊ.
+Mobs/gambler/Spawn=Você ouve alguém sussurrar fracamente... "só... mais um jogo..."
+Mobs/gambler/Gender=Male
 
-Mobs/firefly_magic/Name=Firefly
-Mobs/firefly_magic/Description=There's something magical about this one.
+Mobs/oracle/Name=Oráculo
+Mobs/oracle/Gender=Male
 
-Mobs/titan/Name=Titan
+Mobs/firefly_magic/Name=Vagalume
+Mobs/firefly_magic/Description=Há algo mágico nesse aqui.
+Mobs/firefly_magic/Gender=Male
 
-Mobs/beetle_nazar/Name=Beetle
-Mobs/beetle_nazar/Description=This one has a different pattern... what does that mean?
+Mobs/titan/Name=Titã
+Mobs/titan/Gender=Male
 
-Mobs/worm/Name=Worm
-Mobs/worm/Description=It's supposed to eat dirt but this one's eating flowers.
+Mobs/beetle_nazar/Name=Besouro
+Mobs/beetle_nazar/Description=Este tem um padrão diferente... o que isso significa?
+Mobs/beetle_nazar/Gender=Male
 
-Mobs/worm_guts/Name=Worm guts
-Mobs/worm_guts/Description=You're not supposed to see this text. I'm calling the police.
 
-Mobs/mecha_flower/Name=Mecha Flower
-Mobs/mecha_flower/Description=Someone has been making these mechanical flowers... What could this mean?
+Mobs/worm/Name=Minhoca
+Mobs/worm/Description=Deveria comer terra, mas este está comendo flores.
+Mobs/worm/Gender=Female
 
-Mobs/wasp_mecha/Name=Wasp
-Mobs/wasp_mecha/Description=They're MECHA ANGRY.
+Mobs/worm_guts/Name=Órgãos de minhoca
+Mobs/worm_guts/Description=Não era pra você ver isso... vou chamar a polícia.
+Mobs/worm_guts/Gender=Male
 
-Mobs/spider_mecha/Name=Spider
-Mobs/spider_mecha/Description=Mecha Spooky.
+Mobs/mecha_flower/Name=Flor Mecânica
+Mobs/mecha_flower/Description=Alguém está fazendo esses robôs... oque isso significa?.
+Mobs/mecha_flower/Gender=Female
+
+Mobs/wasp_mecha/Name=Vespa
+Mobs/wasp_mecha/Description=Elas estão MECANICAMENTE COM RAIVA.
+Mobs/wasp_mecha/Gender=Female
+
+Mobs/spider_mecha/Name=Aranha
+Mobs/spider_mecha/Description=Mecanicamente Assustador.
+Mobs/spider_mecha/Gender=Female

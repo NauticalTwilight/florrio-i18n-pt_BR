@@ -1,387 +1,483 @@
-Petals/basic/Name=Basic
-Petals/basic/FullName=Basic
-Petals/basic/Description=A nice petal, not too strong but not too weak.
+Petals/basic/Name=Básico
+Petals/basic/FullName=Básico
+Petals/basic/Description=Uma bela pétala, nem muito forte, nem muito fraca.
+Petals/basic/Gender=Male
 
-Petals/light/Name=Light
-Petals/light/FullName=Light
-Petals/light/Description=Weaker than most petals, but recharges very quickly.
+Petals/light/Name=Leve
+Petals/light/FullName=Leve
+Petals/light/Description=Mais fraca que a maioria das pétalas, mas recarrega bem rápido.
+Petals/light/Gender=Female
 
-Petals/rock/Name=Rock
-Petals/rock/FullName=Rock
-Petals/rock/Description=Extremely durable, but takes a bit longer to recharge.
+Petals/rock/Name=Pedra
+Petals/rock/FullName=Pedra
+Petals/rock/Description=Extremamente durável, mas demora muito para recarregar.
+Petals/rock/Gender=Female
 
-Petals/square/Name=Square
-Petals/square/FullName=Square
-Petals/square/Description=This shape... it looks familiar...
+Petals/square/Name=Quadrado
+Petals/square/FullName=Quadrado
+Petals/square/Description=Essa forma... parece familiar...
+Petals/square/Gender=Male
 
-Petals/rose/Name=Rose
-Petals/rose/FullName=Rose
-Petals/rose/Description=Its healing properties are amazing. Not so good at combat though.
+Petals/rose/Name=Rosa
+Petals/rose/FullName=Rosa
+Petals/rose/Description=Suas propriedades curativas são incríveis. Mas não tão boas em combate.
+Petals/rose/Gender=Female
 
-Petals/stinger/Name=Stinger
-Petals/stinger/FullName=Stinger
-Petals/stinger/Description=It really hurts, but it's very fragile.
+Petals/stinger/Name=Ferrão
+Petals/stinger/FullName=Ferrão
+Petals/stinger/Description=Dói muito, mas é bem frágil.
+Petals/mark/Gender=Male
 
-Petals/iris/Name=Iris
-Petals/iris/FullName=Iris
-Petals/iris/Description=Very poisonous, but takes a little while to do its work.<n/>-50% damage vs other flowers.
+Petals/iris/Name=Íris
+Petals/iris/FullName=Íris
+Petals/iris/Description=Muito venenoso, mas leva um tempo para fazer o seu trabalho.<n/>-50% dano contra outras flores.
+Petals/mark/Gender=Female
 
-Petals/wing/Name=Wing
-Petals/wing/FullName=Wing
-Petals/wing/Description=It comes and goes.
+Petals/wing/Name=Asa
+Petals/wing/FullName=Asa
+Petals/wing/Description=Vai e volta.
+Petals/wing/Gender=Female
 
-Petals/missile/Name=Missile
-Petals/missile/FullName=Missile
-Petals/missile/Description=You can actually shoot this one.
+Petals/missile/Name=Míssil
+Petals/missile/FullName=Míssil
+Petals/missile/Description=Você pode atirar isso
+Petals/missile/Gender=Male
 
-Petals/grapes/Name=Grapes
-Petals/grapes/FullName=Grapes
-Petals/grapes/Description=It goes poof. Now with a secret ingredient: poison.
+Petals/grapes/Name=Uvas
+Petals/grapes/FullName=Uvas
+Petals/grapes/Description=Elas estouram, só que agora, com um ingrediente secreto, veneno.
+Petals/mark/Gender=Female
 
-Petals/cactus/Name=Cactus
-Petals/cactus/FullName=Cactus
-Petals/cactus/Description=Not very strong, but somehow increases your maximum health.
+Petals/cactus/Name=Cacto
+Petals/cactus/FullName=Cacto
+Petals/cactus/Description=Não é muito forte, mas de algum jeito aumenta sua vida máxima.
+Petals/cactus/Gender=Male
 
-Petals/faster/Name=Faster
-Petals/faster/FullName=Faster
-Petals/faster/Description=It's so light it makes your other petals spin faster.
+Petals/faster/Name=Acelerado
+Petals/faster/FullName=Acelerado
+Petals/faster/Description=É tão leve que faz suas pétalas girarem mais rápido
+Petals/faster/Gender=Male
 
-Petals/bubble/Name=Bubble
-Petals/bubble/FullName=Bubble
-Petals/bubble/Description=Physics are for the weak.
+Petals/bubble/Name=Bolha
+Petals/bubble/FullName=Bolha
+Petals/bubble/Description=Uma pétala que desafia as leis da física.
+Petals/bubble/Gender=Female
 
-Petals/pollen/Name=Pollen
-Petals/pollen/FullName=Pollen
-Petals/pollen/Description=Asthmatics beware.
+Petals/pollen/Name=Pólen
+Petals/pollen/FullName=Pólen
+Petals/pollen/Description=Asmáticos, cuidado.
+Petals/pollen/Gender=Male
 
-Petals/dandelion/Name=Dandelion
-Petals/dandelion/FullName=Dandelion
-Petals/dandelion/Description=Its interesting properties inhibits healing effects on affected units.<n/>Affected units have their healing reduced by 20%. Stacks with itself.
+Petals/dandelion/Name=Dente-de-Leão
+Petals/dandelion/FullName=Dente-de-Leão
+Petals/dandelion/Description=Suas propriedades interessantes inibem o efeito de cura em unidades afetadas.<n/>Unidades afetadas tem suas curas reduzidas em 20%. O efeito acumula-se.
+Petals/dandelion/Gender=Male
 
-Petals/beetle_egg/Name=Egg
-Petals/beetle_egg/FullName=Beetle Egg
-Petals/beetle_egg/Description=Something interesting might pop out of this.
+Petals/beetle_egg/Name=Ovo
+Petals/beetle_egg/FullName=Ovo de besouro
+Petals/beetle_egg/Description=Algo interessante deve sair de dentro disso.
+Petals/beetle_egg/Gender=Male
 
-Petals/antennae/Name=Antennae
-Petals/antennae/FullName=Antennae
-Petals/antennae/Description=Allows your flower to sense foes farther away.
+Petals/antennae/Name=Antena
+Petals/antennae/FullName=Antena
+Petals/antennae/Description=Permite que sua flor veja inimigos mais distantes.
+Petals/antennae/Gender=Female
 
-Petals/heavy/Name=Heavy
-Petals/heavy/FullName=Heavy
-Petals/heavy/Description=This thing is so heavy that nothing gets in the way.<n/>Slows down petal rotation speed when equipped.
+Petals/heavy/Name=Pesado
+Petals/heavy/FullName=Pesado
+Petals/heavy/Description=Isso é tão pesado que nada fica em seu caminho.<n/>Diminui a velocidade de rotação das suas pétalas quando equipada.
+Petals/heavy/Gender=Male
 
 Petals/yin_yang/Name=Yin Yang
 Petals/yin_yang/FullName=Yin Yang
-Petals/yin_yang/Description=This mysterious petal affects the rotation of your petals in unpredictable ways.
+Petals/yin_yang/Description=Essa pétala misteriosa afeta a rotação de suas pétalas de maneiras imprevisíveis.
+Petals/yin_yang/Gender=Male
 
-Petals/web/Name=Web
-Petals/web/FullName=Web
-Petals/web/Description=It's really sticky.
+Petals/web/Name=Teia
+Petals/web/FullName=Teia
+Petals/web/Description=É realmente pegajoso.
+Petals/web/Gender=Female
 
-Petals/honey/Name=Honey
-Petals/honey/FullName=Honey
-Petals/honey/Description=Mobs love this. Attracts them in a large radius.<n/>Mobs will prioritize this over flowers.<n/>Affected units develop immunity to its effects after some time.
+Petals/honey/Name=Mel
+Petals/honey/FullName=Mel
+Petals/honey/Description=Bichos amam isso. Atraem os em uma grande área.<n/>Bichos vão priorizar isso do que flores.<n>Unidades afetadas desenvolvem imunidade a seus efeitos após um tempo.
+Petals/honey/Gender=Male
 
-Petals/leaf/Name=Leaf
-Petals/leaf/FullName=Leaf
-Petals/leaf/Description=Gathers energy from the sun to heal your flower passively.
+Petals/leaf/Name=Folha
+Petals/leaf/FullName=Folha
+Petals/leaf/Description=Coleta energia do sol para curar sua flor passivamente.
+Petals/leaf/Gender=Female
 
-Petals/salt/Name=Salt
-Petals/salt/FullName=Salt
-Petals/salt/Description=Reflects some of the damage you take back to the enemy that dealt it.<n/>Higher rarity mobs have higher resistance to damage reflection.
+Petals/salt/Name=Sal
+Petals/salt/FullName=Sal
+Petals/salt/Description=Reflete uma parte do dano causado em você ao inimigo que o causou.<n/>Quanto maior a raridade dos inimigos maior a resistência ao dano refletido.
+Petals/salt/Gender=Male
 
-Petals/rice/Name=Rice
-Petals/rice/FullName=Rice
-Petals/rice/Description=Spawns very quickly, but not very strong.
+Petals/rice/Name=Arroz
+Petals/rice/FullName=Arroz
+Petals/rice/Description=Recarrega rapidamente, mas não é muito forte.
+Petals/rice/Gender=Male
 
-Petals/corn/Name=Corn
-Petals/corn/FullName=Corn
-Petals/corn/Description=Takes a long time to spawn, but has a lot of health.
+Petals/corn/Name=Milho
+Petals/corn/FullName=Milho
+Petals/corn/Description=Leva bastante tempo para carregar, mas possui muita vida.
+Petals/corn/Gender=Male
 
-Petals/sand/Name=Sand
-Petals/sand/FullName=Sand
-Petals/sand/Description=A bunch of sand particles.
+Petals/sand/Name=Areia
+Petals/sand/FullName=Areia
+Petals/sand/Description=Várias partículas de areia.
+Petals/sand/Gender=Female
 
-Petals/pincer/Name=Pincer
-Petals/pincer/FullName=Pincer
-Petals/pincer/Description=Debilitates enemies temporarily, reducing their movement speed.
+Petals/pincer/Name=Pinça
+Petals/pincer/FullName=Pinça
+Petals/pincer/Description=Debilita o inimigo temporariamente, reduzindo sua movimentação.
+Petals/pincer/Gender=Female
 
-Petals/yucca/Name=Yucca
-Petals/yucca/FullName=Yucca
-Petals/yucca/Description=Heals your flower but only while in the defensive position.
+Petals/yucca/Name=Lúca
+Petals/yucca/FullName=Lúca
+Petals/yucca/Description=Cura sua flor, mas apenas na posição defensiva.
+Petals/yucca/Gender=Female
 
-Petals/magnet/Name=Magnet
-Petals/magnet/FullName=Magnet
-Petals/magnet/Description=Increases drop pick up range.
+Petals/magnet/Name=Imâ
+Petals/magnet/FullName=Imâ
+Petals/magnet/Description=Aumenta o alcance de coleta.
+Petals/magnet/Gender=Male
 
 Petals/yggdrasil/Name=Yggdrasil
 Petals/yggdrasil/FullName=Yggdrasil
-Petals/yggdrasil/Description=A dried leaf from the Yggdrasil tree.<n/>Rumored to be able to bring the fallen back to life.
+Petals/yggdrasil/Description=Uma folha seca da árvore Yggdrasil.<n/>Dizem que é capaz de trazer os mortos de volta à vida.
+Petals/yggdrasil/Gender=Female
 
-Petals/starfish/Name=Starfish
-Petals/starfish/FullName=Starfish
-Petals/starfish/Description=Increases health regen while below 75% health.
+Petals/starfish/Name=Estrela
+Petals/starfish/FullName=Estrela-do-mar
+Petals/starfish/Description=cura a sua flor enquanto estiver com a vida abaixo de 75%
+Petals/starfish/Gender=Female
 
-Petals/pearl/Name=Pearl
-Petals/pearl/FullName=Pearl
-Petals/pearl/Description=Just drop it off somewhere and use your kinetic powers so you don't lose it.
+Petals/pearl/Name=Pérola
+Petals/pearl/FullName=Pérola
+Petals/pearl/Description=Apenas jogue em algum lugar e use seus poderes cinéticos para não perde-la.
+Petals/pearl/Gender=Female
 
-Petals/lightning/Name=Lightning
-Petals/lightning/FullName=Lightning
-Petals/lightning/Description=Strikes several nearby enemies.
+Petals/lightning/Name=Relâmpago
+Petals/lightning/FullName=Relâmpago
+Petals/lightning/Description=Atinge vários inimigos próximos.
+Petals/lightning/Gender=Male
 
-Petals/jelly/Name=Jelly
-Petals/jelly/FullName=Jelly
-Petals/jelly/Description=No one likes touching this.
+Petals/jelly/Name=Geleia
+Petals/jelly/FullName=Geleia
+Petals/jelly/Description=Ninguém gosta de tocar nisso.
+Petals/jelly/Gender=Female
 
-Petals/claw/Name=Claw
-Petals/claw/FullName=Claw
-Petals/claw/Description=Deals extra damage if the victim is above 80% health.<n/>-50% damage vs other flowers.
+Petals/claw/Name=Garra
+Petals/claw/FullName=Garra
+Petals/claw/Description=Causa dano extra se a vítima estiver acima de 80% da vida.<n/>-50% dano contra flores.
+Petals/claw/Gender=Female
 
-Petals/shell/Name=Shell
-Petals/shell/FullName=Shell
-Petals/shell/Description=Adds a temporary shield to yourself or allies.
+Petals/shell/Name=Concha
+Petals/shell/FullName=Concha
+Petals/shell/Description=Adiciona um escudo temporário para você e seus aliados.
+Petals/shell/Gender=Female
 
-Petals/cutter/Name=Cutter
-Petals/cutter/FullName=Cutter
-Petals/cutter/Description=A friend used to own this... now it's time for revenge.<n/>Increases body damage.
+Petals/cutter/Name=Cortador
+Petals/cutter/FullName=Cortador
+Petals/cutter/Description=Um amigo usava isso... agora é a hora de se vingar.<n/>Aumenta o dano corporal.
+Petals/cutter/Gender=Male
 
-Petals/dahlia/Name=Dahlia
-Petals/dahlia/FullName=Dahlia
-Petals/dahlia/Description=A small amount of heal but fairly consistent.
+Petals/dahlia/Name=Dália
+Petals/dahlia/FullName=Dália
+Petals/dahlia/Description=Uma pequena quantidade de cura, mas bastante consistente.
+Petals/dahlia/Gender=Female
 
-Petals/uranium/Name=Uranium
-Petals/uranium/FullName=Uranium
-Petals/uranium/Description=Periodically releases radiation.<n/>-75% damage versus other flowers.<n/>Effect strength depends on distance to petal.
+Petals/uranium/Name=Urânio
+Petals/uranium/FullName=Urânio
+Petals/uranium/Description=Libera radiação periodicamente.<n/>-75% de dano contra flores.<n/>A força do efeito depende da distância da pétala.
+Petals/uranium/Gender=Male
 
-Petals/sponge/Name=Sponge
-Petals/sponge/FullName=Sponge
-Petals/sponge/Description=Spreads damage taken by the flower over a period of time.<n/>If destroyed, deals remaining damage all at once.<n/>Does not delay {#Attribute/PoisonNoColon} damage.
+Petals/sponge/Name=Esponja
+Petals/sponge/FullName=Esponja
+Petals/sponge/Description=Distribui o dano recebido pela flor ao longo do tempo.<n/>Se retirada, causa o dano total de uma vez.<n/>Não distribui dano {#Attribute/PoisonNoColon}
+Petals/sponge/Gender=Female
 
-Petals/soil/Name=Soil
-Petals/soil/FullName=Soil
-Petals/soil/Description=Increases health, but also increases flower size and decreases movement speed.
+Petals/soil/Name=Solo
+Petals/soil/FullName=Solo
+Petals/soil/Description=Aumenta a vida, mas também aumenta o tamanho da flor e diminui a velocidade de movimentação.
+Petals/soil/Gender=Male
 
-Petals/fangs/Name=Fang
-Petals/fangs/FullName=Fang
-Petals/fangs/Description=Heals based on damage dealt by this petal.
+Petals/fangs/Name=Presas
+Petals/fangs/FullName=Presas
+Petals/fangs/Description=Cura vida baseado no dano causado por essa pétala.
+Petals/fangs/Gender=Female
 
-Petals/third_eye/Name=Third Eye
-Petals/third_eye/FullName=Third Eye
-Petals/third_eye/Description=Allows your flower to expand your petals further out.
+Petals/third_eye/Name=Terceiro Olho
+Petals/third_eye/FullName=Terceiro Olho
+Petals/third_eye/Description=Permite que sua flor expanda o alcance de suas pétalas.
+Petals/third_eye/Gender=Male
 
-Petals/peas/Name=Peas
-Petals/peas/FullName=Peas
-Petals/peas/Description=It goes poof.
+Petals/peas/Name=Ervilha
+Petals/peas/FullName=Ervilha
+Petals/peas/Description=Elas estouram.
+Petals/peas/Gender=Female
 
-Petals/stick/Name=Stick
-Petals/stick/FullName=Mysterious Stick
-Petals/stick/Description=A mysterious stick that summons the forces of the wind.
+Petals/stick/Name=Graveto
+Petals/stick/FullName=Graveto Misterioso
+Petals/stick/Description=Um graveto misterioso que invoca as forças do vento.
+Petals/stick/Gender=Male
 
-Petals/clover/Name=Clover
-Petals/clover/FullName=Clover
-Petals/clover/Description=Increases your luck.<n/>Luck is used by specific petals to change their stats.
+Petals/clover/Name=Trevo
+Petals/clover/FullName=Trevo
+Petals/clover/Description=Aumenta sua sorte.<n/>A sorte é usada por pétalas específicas para alterar suas estatísticas.
+Petals/clover/Gender=Male
 
-Petals/powder/Name=Powder
-Petals/powder/FullName=Mysterious Powder
-Petals/powder/Description=Increases movement speed.<n/>Disabled if flower takes damage or if near a mob higher than a certain rarity.
+Petals/powder/Name=Pó
+Petals/powder/FullName=Pó Misterioso
+Petals/powder/Description=Aumenta a velocidade de movimento. Desativa após a flor receber dano ou caso esteja próxima a um bicho de raridade expecífica.
+Petals/powder/Gender=Male
 
-Petals/air/Name=Air
-Petals/air/FullName=Air
-Petals/air/Description=It's literally nothing.
+Petals/air/Name=Ar
+Petals/air/FullName=Ar
+Petals/air/Description=Literalmente nada.
+Petals/air/Gender=Male
 
-Petals/basil/Name=Basil
-Petals/basil/FullName=Basil
-Petals/basil/Description=Increases all healing received.
+Petals/basil/Name=Manjericão
+Petals/basil/FullName=Manjericão
+Petals/basil/Description=Aumenta toda a cura recebida.
+Petals/basil/Gender=Male
 
-Petals/orange/Name=Orange
-Petals/orange/FullName=Orange
-Petals/orange/Description=A sweet citrus fruit.
+Petals/orange/Name=Laranja
+Petals/orange/FullName=Laranja
+Petals/orange/Description=Uma fruta doce e cítrica.
+Petals/orange/Gender=Female
 
-Petals/ant_egg/Name=Egg
-Petals/ant_egg/FullName=Ant Egg
-Petals/ant_egg/Description=Something interesting might pop out of this.
+Petals/ant_egg/Name=Ovo
+Petals/ant_egg/FullName=Ovo de Formiga
+Petals/ant_egg/Description=Algo interessante deve sair de dentro disso.
+Petals/ant_egg/Gender=Male
 
-Petals/poo/Name=Poo
-Petals/poo/FullName=Poo
-Petals/poo/Description=Makes mobs less likely to want to attack you.
+Petals/poo/Name=Cocô
+Petals/poo/FullName=Cocô
+Petals/poo/Description=faz os bichos terem menos vontade de atacar você.
+Petals/poo/Gender=Male
 
-Petals/relic/Name=Relic
-Petals/relic/FullName=Mysterious Relic
-Petals/relic/Description=A strange relic. Significantly increases maximum health.<n/>Damage taken is spread among other wearers.
+Petals/relic/Name=Relíquia
+Petals/relic/FullName=Relíquia Misteriosa
+Petals/relic/Description=Uma relíquia estranha. Aumenta Significativamente a vida máxima.<n/>Danos recebidos são distribuídos por outros usuários.
+Petals/relic/Gender=Female
 
-Petals/lotus/Name=Lotus
-Petals/lotus/FullName=Lotus
-Petals/lotus/Description=Absorbs poison damage taken by the flower.
+Petals/lotus/Name=Lótus
+Petals/lotus/FullName=Lótus
+Petals/lotus/Description=Absorve dano venenoso recebido pela flor.
+Petals/lotus/Gender=Female
 
-Petals/bulb/Name=Bulb
-Petals/bulb/FullName=Light Bulb
-Petals/bulb/Description=A shiny lightbulb. Draws aggro from mobs.
+Petals/bulb/Name=Lâmpada
+Petals/bulb/FullName=Lâmpada elétrica
+Petals/bulb/Description=Uma lâmpada brilhante. Chama a atenção de bichos.
+Petals/bulb/Gender=Female
 
-Petals/cotton/Name=Cotton
-Petals/cotton/FullName=Cotton
-Petals/cotton/Description=Absorbs damage taken by the flower.
+Petals/cotton/Name=Algodão
+Petals/cotton/FullName=Algodão
+Petals/cotton/Description=Absorve o dano recebido pela flor.
+Petals/cotton/Gender=Male
 
-Petals/carrot/Name=Carrot
-Petals/carrot/FullName=Carrot
-Petals/carrot/Description=Sturdy and reliable. Can be shot and bounces off walls.
+Petals/carrot/Name=Cenoura
+Petals/carrot/FullName=Cenoura
+Petals/carrot/Description=Resistente e confiável. Pode ser atirado e ricocheteia nas paredes.
+Petals/carrot/Gender=Female
 
-Petals/bone/Name=Bone
-Petals/bone/FullName=Bone
-Petals/bone/Description=Sturdy.
+Petals/bone/Name=Osso
+Petals/bone/FullName=Osso
+Petals/bone/Description=Resistente.
+Petals/bone/Gender=Male
 
-Petals/plank/Name=Plank
-Petals/plank/FullName=Plank
-Petals/plank/Description=Does 20x damage vs projectiles and petals.
+Petals/plank/Name=Tábua
+Petals/plank/FullName=Tábua
+Petals/plank/Description=Causa 20 vezes mais dano contra projéteis e pétalas.
+Petals/plank/Gender=Female
 
-Petals/tomato/Name=Tomato
-Petals/tomato/FullName=Tomato
-Petals/tomato/Description=Gets stronger over time.
+Petals/tomato/Name=Tomate
+Petals/tomato/FullName=Tomate
+Petals/tomato/Description=Fica mais forte conforme o tempo.
+Petals/tomato/Gender=Male
 
-Petals/mark/Name=Mark
-Petals/mark/FullName=Dark Mark
-Petals/mark/Description=A dark mark that binds itself to a fallen soul.
+Petals/mark/Name=Marca
+Petals/mark/FullName=Marca Escura
+Petals/mark/Description=Uma marca escura que se liga a uma flor morta.
+Petals/mark/Gender=Female
 
-Petals/rubber/Name=Rubber
-Petals/rubber/FullName=Rubber
-Petals/rubber/Description=Increases knockback received. Also absorbs lightning damage dealt to the flower.
+Petals/rubber/Name=Borracha
+Petals/rubber/FullName=Borracha
+Petals/rubber/Description=Aumenta a repulsão recebida. Também absorve dano de raio causado à flor.
+Petals/rubber/Gender=Female
 
-Petals/blood_stinger/Name=Stinger
-Petals/blood_stinger/FullName=Blood Stinger
-Petals/blood_stinger/Description=It really hurts, but it's very fragile.<n/>Deals damage to self when spawned.
+Petals/blood_stinger/Name=Ferrão
+Petals/blood_stinger/FullName=Ferrão de sangue
+Petals/blood_stinger/Description=Dói muito, mas é bem frágil.<n/>Causa dano ao usuário quando carregada
+Petals/blood_stinger/Gender=Male
 
 Petals/bur/Name=Bur
 Petals/bur/FullName=Bur
-Petals/bur/Description=Decreases armor of affected unit. Does not stack with itself.
+Petals/bur/Description=Diminui a armadura em unidades afetadas. O efeito não se acumula.
+Petals/bur/Gender=Male
 
-Petals/root/Name=Root
-Petals/root/FullName=Root
-Petals/root/Description=Provides additional armor but only while in the defensive position.
+Petals/root/Name=Raiz
+Petals/root/FullName=Raiz
+Petals/root/Description=Fornece uma armadura adicional, mas apenas na posição defensiva
+Petals/root/Gender=Male
 
-Petals/ankh/Name=Ankh
-Petals/ankh/FullName=Ankh
-Petals/ankh/Description=An ancient relic.<n/>When destroyed, will teleport the flower back to where it was destroyed.
+Petals/ankh/Name=Chave
+Petals/ankh/FullName=Chave da vida
+Petals/ankh/Description=Uma relíquia antiga.<n/>Quando destruída, teletransporta a flor no lugar em que ela estava.
+Petals/ankh/Gender=Female
 
-Petals/dice/Name=Dice
-Petals/dice/FullName=Dice
-Petals/dice/Description=Has a 5% chance of dealing 35x damage.<n/>Chance increases by 4% per point in luck.
+Petals/dice/Name=Dado
+Petals/dice/FullName=Dado
+Petals/dice/Description=Possui 5% de chance de causar 35x dano.<n/>As chances aumentam em 4% por cada ponto em sorte.
+Petals/dice/Gender=Male
 
-Petals/talisman/Name=Talisman
-Petals/talisman/FullName=Talisman of Evasion
-Petals/talisman/Description=A necklace that allows the wearer to anticipate enemy attacks.
+Petals/talisman/Name=Talismã
+Petals/talisman/FullName=Talismã da evasão
+Petals/talisman/Description=Um colar que permite ao usuário antecipar ataques inimigos
+Petals/talisman/Gender=Male
 
-Petals/battery/Name=Battery
-Petals/battery/FullName=Battery
-Petals/battery/Description=Discharges electricity whenever the flower gets hit.
+Petals/battery/Name=Bateria
+Petals/battery/FullName=Bateria
+Petals/battery/Description=Descarrega eletricidade sempre que a flor é atingida.
+Petals/battery/Gender=Female
 
-Petals/amulet/Name=Amulet
-Petals/amulet/FullName=Amulet
-Petals/amulet/Description=Converts a percentage of overheal into shields.
+Petals/amulet/Name=Amuleto
+Petals/amulet/FullName=Amuleto
+Petals/amulet/Description=Converte uma parte da cura em escudo quando a vida do usuário estar cheia
+Petals/amulet/Gender=Male
 
-Petals/compass/Name=Compass
-Petals/compass/FullName=Compass
-Petals/compass/Description=This crappy thing might be able to find something interesting...
+Petals/compass/Name=Bússola
+Petals/compass/FullName=Bússola
+Petals/compass/Description=Essa coisa velha talvez consiga achar algo interessante...
+Petals/compass/Gender=Female
 
-Petals/disc/Name=Disc
-Petals/disc/FullName=Disc
-Petals/disc/Description=Reduces damage taken from collisions with mobs and flowers.
+Petals/disc/Name=Disco
+Petals/disc/FullName=Disco
+Petals/disc/Description=Reduz o dano recebido por colisão entre flores e bichos.
+Petals/disc/Gender=Male
 
-Petals/shovel/Name=Shovel
-Petals/shovel/FullName=Shovel
-Petals/shovel/Description=Becomes untargetable but unable to use petals for a limited time.
+Petals/shovel/Name=Pá
+Petals/shovel/FullName=Pá
+Petals/shovel/Description=Te torna invisível e intangível para os mobs, mas te deixa incapaz de usar pétalas por tempo limitado.
+Petals/shovel/Gender=Female
 
-Petals/coin/Name=Coin
-Petals/coin/FullName=Coin
-Petals/coin/Description=The power of capitalism compels you!
+Petals/coin/Name=Moeda
+Petals/coin/FullName=Moeda
+Petals/coin/Description=O poder do capitalismo te obriga!
+Petals/coin/Gender=Female
 
-Petals/chip/Name=Chip
-Petals/chip/FullName=Poker Chip
-Petals/chip/Description=ALL IN.
+Petals/chip/Name=Ficha
+Petals/chip/FullName=Ficha de poker
+Petals/chip/Description=APOSTE TUDO!.
+Petals/chip/Gender=Female
 
-Petals/card/Name=Card
-Petals/card/FullName=Card
-Petals/card/Description=A playing card. Likely marked.
+Petals/card/Name=Carta
+Petals/card/FullName=Carta
+Petals/card/Description=Uma carta de baralho. Provavelmente marcada.
+Petals/card/Gender=Female
 
-Petals/moon/Name=Moon
-Petals/moon/FullName=Moon Rock
-Petals/moon/Description=This thing is so big your petals orbit it instead.<n/>Where did you find this anyway?
+Petals/moon/Name=Lua
+Petals/moon/FullName=Pedra Lunar
+Petals/moon/Description=Essa coisa é tão grande que suas pétalas orbitam ela.<n/>Onde você encontrou isso?
+Petals/moon/Gender=Female
 
-Petals/privet/Name=Privet
-Petals/privet/FullName=Privet Berry
-Petals/privet/Description=Deals extra {#Attribute/PoisonNoColon} damage based on the existing {#Attribute/PoisonNoColon} damage per second.
+Petals/privet/Name=Alfeneiro
+Petals/privet/FullName=Baga de alfeneiro
+Petals/privet/Description=Da dano {#Attribute/PoisonNoColon} extra baseado no {#Attribute/PoisonNoColon} no dano por segundo atual.
+Petals/privet/Gender=Male
 
-Petals/glass/Name=Glass
-Petals/glass/FullName=Glass
-Petals/glass/Description=Phases through enemies.<n/>Cannot damage enemies more often than a certain interval.
+Petals/glass/Name=Vidro
+Petals/glass/FullName=Vidro
+Petals/glass/Description=Atravessa por inimigos.<n/>Não pode dar dano no mesmo inimigo por um certo período de tempo 
+Petals/glass/Gender=Male
 
-Petals/corruption/Name=Corruption
-Petals/corruption/FullName=Corruption
-Petals/corruption/Description=Corrupts one's soul, turning them against their own kind.
+Petals/corruption/Name=Corrupção
+Petals/corruption/FullName=Corrução
+Petals/corruption/Description=Corrompe a alma de alguém, voltando-o contra sua própria espécie.
+Petals/corruption/Gender=Female
 
-Petals/orb/Name=Orb
-Petals/orb/FullName=Mana Orb
-Petals/orb/Description=Creates mana.
+Petals/orb/Name=Esfera
+Petals/orb/FullName=Esfera de mana
+Petals/orb/Description=Cria mana.
+Petals/orb/Gender=Female
 
-Petals/blueberries/Name=Blueberries
-Petals/blueberries/FullName=Blueberries
-Petals/blueberries/Description=It goes poof. Now with the extra secret ingredient: lightning.
+Petals/blueberries/Name=Mirtilos
+Petals/blueberries/FullName=Mirtilos
+Petals/blueberries/Description=Eles estouram, só que agora, com um ingrediente secreto, Eletricidade.
+Petals/blueberries/Gender=Male
 
-Petals/magic_cotton/Name=Cotton
-Petals/magic_cotton/FullName=Magic Cotton
-Petals/magic_cotton/Description=Absorbs damage taken by the flower.
+Petals/magic_cotton/Name=Algodão
+Petals/magic_cotton/FullName=Algodão mágico
+Petals/magic_cotton/Description=Absorve o dano recebido pela flor
+Petals/magic_cotton/Gender=Male
 
-Petals/magic_stinger/Name=Stinger
-Petals/magic_stinger/FullName=Magic Stinger
-Petals/magic_stinger/Description=It really hurts, but it's very fragile.
+Petals/magic_stinger/Name=Ferrão
+Petals/magic_stinger/FullName=Ferrão mágico
+Petals/magic_stinger/Description=Dói muito, mais é bem frágil.
+Petals/magic_stinger/Gender=Male
 
-Petals/magic_leaf/Name=Leaf
-Petals/magic_leaf/FullName=Magic Leaf
-Petals/magic_leaf/Description=Gathers mana from the environment passively.
+Petals/magic_leaf/Name=Folha
+Petals/magic_leaf/FullName=Folha mágica
+Petals/magic_leaf/Description=Coleta energia do ambiente para gerar mana.
+Petals/magic_leaf/Gender=Female
 
-Petals/magic_cactus/Name=Cactus
-Petals/magic_cactus/FullName=Magic Cactus
-Petals/magic_cactus/Description=Increases maximum mana capacity.
+Petals/magic_cactus/Name=Cacto
+Petals/magic_cactus/FullName=Cacto mágico
+Petals/magic_cactus/Description=Aumenta a capacidade de mana máxima.
+Petals/magic_cactus/Gender=Male
 
-Petals/magic_eye/Name=Magic Eye
-Petals/magic_eye/FullName=Magic Eye
-Petals/magic_eye/Description=Consumes half the current mana and deals damage based on that value.
+Petals/magic_eye/Name=Olho mágico
+Petals/magic_eye/FullName=Olho mágico
+Petals/magic_eye/Description=Consome a metade da sua mana atual, dando dano baseado nesse valor.
+Petals/magic_eye/Gender=Male
 
-Petals/magic_missile/Name=Missile
-Petals/magic_missile/FullName=Magic Missile
-Petals/magic_missile/Description=You can actually shoot this one... with magic.
+Petals/magic_missile/Name=Míssil
+Petals/magic_missile/FullName=Míssil Mágico
+Petals/magic_missile/Description=Você pode atirar isso... com magia.
+Petals/magic_missile/Gender=Male
 
-Petals/magic_stick/Name=Stick
-Petals/magic_stick/FullName=Magic Stick
-Petals/magic_stick/Description=A mysterious stick that summons the forces of the wind... with magic.
+Petals/magic_stick/Name=Galho
+Petals/magic_stick/FullName=Galho mágico
+Petals/magic_stick/Description=Um galho misterioso que invoca as forças do vento... com magia.
+Petals/magic_stick/Gender=Male
 
 Petals/coral/Name=Coral
 Petals/coral/FullName=Coral
-Petals/coral/Description=Breaks apart on impact.<n/>Each piece has 50% of the stats of the predecessor.
+Petals/coral/Description=Quebra-se com o impacto.<n/>Cada pedaço tem 50% das estatísticas do antecessor.
+Petals/coral/Gender=Male
 
-Petals/magic_bubble/Name=Bubble
-Petals/magic_bubble/FullName=Magic Bubble
-Petals/magic_bubble/Description=Physics are for the magicless.
+Petals/magic_bubble/Name=Bolha
+Petals/magic_bubble/FullName=Bolha mágica
+Petals/magic_bubble/Description=Uma pétala que desafia as leis da física... com um toque de mágica.
+Petals/magic_bubble/Gender=Female
 
 Petals/nazar/Name=Nazar
-Petals/nazar/FullName=Nazar Amulet
-Petals/nazar/Description=Reduces one damage instance damage by 98%.
+Petals/nazar/FullName=Amuleto Nazar
+Petals/nazar/Description=Reduz o dano de uma instância de dano em 98%.
+Petals/nazar/Gender=Male
 
-Petals/mimic/Name=Mimic
-Petals/mimic/FullName=Mimic
-Petals/mimic/Description=Copies the petal to the left of this, with the same rarity as this.
+Petals/mimic/Name= Mímico
+Petals/mimic/FullName= Mímico
+Petals/mimic/Description=Copia a pétala à esquerda desta, com a mesma raridade dela.
+Petals/mimic/Gender=Male
 
 Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
 Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
 Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
 
-Petals/mjolnir/not-unique/Name=Fragment
-Petals/mjolnir/not-unique/FullName=Fragment
-Petals/mjolnir/not-unique/Description=Perhaps this could be used to forge something great?
+Petals/mjolnir/not-unique/Name=Fragmento
+Petals/mjolnir/not-unique/FullName=Fragmento
+Petals/mjolnir/not-unique/Description=Talvez isso possa ser usado para forjar algo grandioso?.
+Petals/mjolnir/Gender=Male
 
 Petals/mjolnir/unique/Name=Mjölnir
 Petals/mjolnir/unique/FullName=Mjölnir
-Petals/mjolnir/unique/Description=Only the most powerful hammer in the universe.
-	
-Petals/mecha_missile/Name=Missile
-Petals/mecha_missile/FullName=Mecha Missile
-Petals/mecha_missile/Description=Locked on.
+Petals/mjolnir/unique/Description=Apenas o martelo mais poderoso do universo.
+Petals/mjolnir/unique/Gender=Male
+
+Petals/mecha_missile/Name=Míssil
+Petals/mecha_missile/FullName=Míssil Mecânico
+Petals/mecha_missile/Description=Míssil teleguiado
+Petals/mecha_missile/Gender=Male

@@ -1,426 +1,565 @@
 Achievements/0/Name=Tutorial
-Achievements/0/Description=Move a little bit.
-Achievements/0/ExtraDescription=Use your mouse to move. Your flower will automatically follow your cursor.<n/>You can change to keyboard movement in the settings menu.<n/><n/>Move a little bit to proceed.
+Achievements/0/Description=Mova-se um pouco
+Achievements/0/ExtraDescription=Use seu mouse para se mover. Sua flor vai automaticamente seguir sua seta.<n />Você pode mudar para movimento de teclado nas configurações.<n/><n/> Mova-se um pouco para proceder
+Achievements/0/Gender=Male
 
 Achievements/1/Name=Tutorial
-Achievements/1/Description=Kill a mob.
-Achievements/1/ExtraDescription=Those insects are your enemies. Destroying them has a chance of dropping new petals.<n/><n/>Find one and destroy it.<n/>You might find helpful to hold down your left mouse button to extend your petals.
+Achievements/1/Description=Mate um bicho.
+Achievements/1/ExtraDescription=Esses insetos são seus inimigos. destruir eles tem chance de dropar novar pétalas.<n/><n/> Ache um e destrua.<n/>Você pode achar útil  que segurar o botão direito do seu mouse estende as suas pétalas
+Achievements/1/Gender=Male
 
 Achievements/2/Name=Tutorial
-Achievements/2/Description=Collect a petal.
-Achievements/2/ExtraDescription=Keep destroying enemies until they drop a petal, then get close to the petal to collect it.
+Achievements/2/Description=Colete uma pétala
+Achievements/2/ExtraDescription=Continue destruindo os inimigos até que dropem uma pétala, depois vá pra perto de pétala para coleta-la.
+Achievements/2/Gender=Male
 
 Achievements/3/Name=Tutorial
-Achievements/3/Description=Equip a petal.
-Achievements/3/ExtraDescription=If you have space in your loadout when you collect a petal, it'll go there, otherwise it'll go to your inventory.<n/>Click the petal you just collected to equip it (or use the numeric hotkey for it).
+Achievements/3/Description=Equipe uma pétala
+Achievements/3/ExtraDescription=Se você tiver espaço no seus slots é você coletar uma pétala, ela vai parar em seu slot, caso não tenha espaço ela ira para seu Inventário.<n/>Clique na pétala que você coletou para equipá-la  (ou use o numero de tecla de atalho).
+Achievements/3/Gender=Female
 
-# Disabled
+# Desativado.
 Achievements/4/Name=Tutorial
-Achievements/4/Description=Collect more petals.
-Achievements/4/ExtraDescription=For the next step, we'll need a lot of petals.<n/>Keep destroying enemies and collecting petals.
+Achievements/4/Description=Colete mais pétalas.
+Achievements/4/ExtraDescription=Para o próximo passo, nós vamos precisar de muitas pétalas.<n/>Continue destruindo inimigos e coletando pétalas.
+Achievements/4/Gender=Male
 
 Achievements/5/Name=Tutorial
-Achievements/5/Description=Get to level {0}.
-Achievements/5/ExtraDescription=To level up, just keep destroying some insects.
+Achievements/5/Description=Chegue no nível {0}.
+Achievements/5/ExtraDescription=Para subir de nível, continue destruindo alguns insetos.
+Achievements/5/Gender=Male
 
 Achievements/6/Name=Tutorial
-Achievements/6/Description=Use your talent point.
-Achievements/6/ExtraDescription=Use this new talent point you got to unlock any talent.<n/><n/>Remember you need to click and HOLD to upgrade a talent."
+Achievements/6/Description=Use seus pontos de talento (TP).
+Achievements/6/ExtraDescription=Use seus novos pontos de talento para desbloquear novos talentos.<n/><n/>Lembre de clicar e segurar para upar o talento.
+Achievements/6/Gender=Male
 
 Achievements/7/Name=Tutorial
-Achievements/7/Description=Collect some petals.
-Achievements/7/ExtraDescription=Now we need to collect {0} of the same {#Rarities/{1}/NameColored} petal to craft {#Rarities/{2}/Article} {#Rarities/{2}/NameColored} petal.<n/>Keep destroying some insects to collect a couple more petals.
+Achievements/7/Description=Colete algumas pétalas
+Achievements/7/ExtraDescription=Agora precisamos coletar {0} pétalas da mesma Pétala {#Rarities/{1}/NameColored} para construir {#Rarities/{2}/Article} Pétala {#Rarities/{2}/NameColored} .<n/>Continue destruindo insetos para conseguir mais pétalas.
+Achievements/7/Gender=Female
 
 Achievements/8/Name=Tutorial
-Achievements/8/Description=Craft a petal.
-Achievements/8/ExtraDescription=Now try to craft your first petal.<n/>Note that you might need to unequip some petals to have enough to do this craft.<n/>You need 5 of the same petal.<n/><n/>Don't worry, we loaded the dice for this one, it will succeed.
+Achievements/8/Description=Construa uma pétala
+Achievements/8/ExtraDescription=Agora tente construir sua primeira pétala.<n/>Saiba que talvez você precise desequipar algumas pétalas para ter o suficiente para tentar construir-las.<n/>Você precisa de 5 da mesma pétala.<n/><n/>Não se preocupe, garantimos essa tentativa.
+Achievements/8/Gender=Female
 
 Achievements/9/Name=Tutorial
-Achievements/9/Description=Complete the tutorial.
+Achievements/9/Description=Complete o tutorial.
+Achievements/9/Gender=Male
 
-Achievements/10/Name=Crafter
-Achievements/10/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/10/Name=Construidor
+Achievements/10/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name}
+Achievements/10/Gender=Female
 
-Achievements/11/Name=Crafter
-Achievements/11/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/11/Name=Construidor
+Achievements/11/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name} .
+Achievements/11/Gender=Female
 
-Achievements/12/Name=Crafter
-Achievements/12/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/12/Name=Construidor
+Achievements/12/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name} .
+Achievements/12/Gender=Female
 
-Achievements/13/Name=Crafter
-Achievements/13/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/13/Name=Construidor
+Achievements/13/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name} .
+Achievements/13/Gender=Female
 
-Achievements/14/Name=Crafter
-Achievements/14/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/14/Name=Construidor
+Achievements/14/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name} .
+Achievements/14/Gender=Female
 
-Achievements/15/Name=Crafter
-Achievements/15/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/15/Name=Construidor
+Achievements/15/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name} .
+Achievements/15/Gender=Female
 
-Achievements/16/Name=Crafter
-Achievements/16/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/16/Name=Construidor
+Achievements/16/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name} .
+Achievements/16/Gender=Female
 
-Achievements/17/Name=Consolation prize
-Achievements/17/Description=Fail to craft a petal and lose {0} petals.
+Achievements/17/Name=Prêmio de consolação
+Achievements/17/Description=Falhe em construir e perca {0} pétalas
+Achievements/17/Gender=Male
 
-Achievements/18/Name=Consolation prize
-Achievements/18/Description=Fail to craft {#Rarities/{1}/Article} {#Rarities/{1}/Name} petal and lose {0} petals.
+Achievements/18/Name=Prêmio de consolação
+Achievements/18/Description=Falhe em construir {#Rarities/{1}/Article} Pétala {#Rarities/{1}/Name}  e perca {0} pétalas.
+Achievements/18/Gender=Male
 
-Achievements/19/Name=Consolation prize
-Achievements/19/Description=Fail to craft {#Rarities/{1}/Article} {#Rarities/{1}/Name} petal and lose {0} petals.
+Achievements/19/Name=Prêmio de consolação
+Achievements/19/Description=Falhe em construir {#Rarities/{1}/Article} Pétala {#Rarities/{1}/Name}  e perca {0} pétalas.
+Achievements/19/Gender=Male
 
-Achievements/20/Name=Digger
-Achievements/20/Description=Equip a {#Petals/cutter/Name}.
+Achievements/20/Name=Escavador
+Achievements/20/Description=Equipe a pétala {#Petals/cutter/Name}.
+Achievements/20/Gender=Male
 
-Achievements/21/Name=Growing up
-Achievements/21/Description=Reach Level {0}.
+Achievements/21/Name=Crescendo
+Achievements/21/Description=Chegue no nível {0}.
+Achievements/21/Gender=Male
 
-Achievements/22/Name=Growing up
-Achievements/22/Description=Reach Level {0}.
+Achievements/22/Name=Crescendo
+Achievements/22/Description=Chegue no nível {0}.
+Achievements/22/Gender=Male
 
-Achievements/23/Name=Growing up
-Achievements/23/Description=Reach Level {0}.
+Achievements/23/Name=Crescendo
+Achievements/23/Description=Chegue no nível {0}.
+Achievements/23/Gender=Male
 
-Achievements/24/Name=Growing up
-Achievements/24/Description=Reach Level {0}.
+Achievements/24/Name=Crescendo
+Achievements/24/Description=Chegue no nível {0}.
+Achievements/24/Gender=Male
 
-Achievements/25/Name=Growing up
-Achievements/25/Description=Reach Level {0}.
+Achievements/25/Name=Crescendo
+Achievements/25/Description=Chegue no nível {0}.
+Achievements/25/Gender=Male
 
-Achievements/26/Name=Growing up
-Achievements/26/Description=Reach Level {0}.
+Achievements/26/Name=Crescendo
+Achievements/26/Description=Chegue no nível {0}.
+Achievements/26/Gender=Male
 
-Achievements/27/Name=Growing up
-Achievements/27/Description=Reach Level {0}.
+Achievements/27/Name=Crescendo
+Achievements/27/Description=Chegue no nível {0}.
+Achievements/27/Gender=Male
 
 Achievements/28/Name=Wasteful Crafting
-Achievements/28/Description=Destroy {0:tooltip} petals in crafting attempts.
+Achievements/28/Description=Destrua {0:tooltip} pétalas em tentativas.
+Achievements/28/Gender=Female
 
-Achievements/29/Name=High volume crafter
-Achievements/29/Description=Craft {0:tooltip} petals.
+Achievements/29/Name=Construidor de volume grande
+Achievements/29/Description=Construa {0:tooltip} pétalas.
+Achievements/29/Gender=Female
 
-Achievements/30/Name=Desert
-Achievements/30/Description=Visit the desert.
+Achievements/30/Name=Deserto
+Achievements/30/Description=Visite o deserto
+Achievements/30/Gender=Male
 
 Achievements/31/Name=Ocean
-Achievements/31/Description=Visit the ocean.
-
-Achievements/32/Name=Welcome to the Jungle
-Achievements/32/Description=Visit the jungle.
-
-Achievements/33/Name=Ant Hell
-Achievements/33/Description=Find out where all these pesky ants keep coming from.
-
-Achievements/34/Name=Sewers
-Achievements/34/Description=Find out where that pipe goes.
-
-Achievements/35/Name=Conqueror
-Achievements/35/Description=Defeat your first {#Rarities/{0}/Name} mob.
-
-Achievements/36/Name=Conqueror
-Achievements/36/Description=Defeat your first {#Rarities/{0}/Name} mob.
-
-Achievements/37/Name=Conqueror
-Achievements/37/Description=Defeat your first {#Rarities/{0}/Name} mob.
-
-Achievements/38/Name=Conqueror
-Achievements/38/Description=Defeat your first {#Rarities/{0}/Name} mob.
-
-Achievements/39/Name=Conqueror
-Achievements/39/Description=Defeat your first {#Rarities/{0}/Name} mob.
-
-Achievements/40/Name=Conqueror
-Achievements/40/Description=Defeat your first {#Rarities/{0}/Name} mob.
-
-Achievements/41/Name=Conqueror
-Achievements/41/Description=Defeat your first {#Rarities/{0}/Name} mob.
-
-Achievements/42/Name=Go to WHERE?!
-Achievements/42/Description=Visit the other plane.
-
-Achievements/43/Name=Challenger
-Achievements/43/Description=Complete a challenge.
-
-Achievements/44/Name=Challenger
-Achievements/44/Description=Complete {0} challenges.
-
-Achievements/45/Name=Challenger
-Achievements/45/Description=Complete {0} challenges.
-
-Achievements/46/Name=Challenger
-Achievements/46/Description=Complete {0} challenges.
-
-Achievements/47/Name=Gear Up
-Achievements/47/Description=Equip {1} {#Rarities/{0}/Name} petals.
-
-Achievements/48/Name=Gear Up
-Achievements/48/Description=Equip {1} {#Rarities/{0}/Name} petals.
-
-Achievements/49/Name=Gear Up
-Achievements/49/Description=Equip {1} {#Rarities/{0}/Name} petals.
-
-Achievements/50/Name=Gear Up
-Achievements/50/Description=Equip {1} {#Rarities/{0}/Name} petals.
-
-Achievements/51/Name=Gear Up
-Achievements/51/Description=Equip {1} {#Rarities/{0}/Name} petals.
-
-Achievements/52/Name=Gear Up
-Achievements/52/Description=Equip {1} {#Rarities/{0}/Name} petals.
-
-Achievements/53/Name=Gear Up
-Achievements/53/Description=Equip {1} {#Rarities/{0}/Name} petals.
-
-Achievements/54/Name=Summoner
-Achievements/54/Description=Spawn a friendly mob.
-
-Achievements/55/Name=Summoner
-Achievements/55/Description=Spawn {0} friendly mobs.
-
-Achievements/56/Name=Summoner
-Achievements/56/Description=Spawn {0} friendly mobs.
-
-Achievements/57/Name=Summoner
-Achievements/57/Description=Spawn {0} friendly mobs.
-
-Achievements/58/Name=Shiny!
-Achievements/58/Description=Destroy a shiny Ladybug
-
-Achievements/59/Name=Wrong game
-Achievements/59/Description=Destroy a Square
-
-Achievements/60/Name=Pain dealer
-Achievements/60/Description=Deal {0:tooltip} damage.
-
-Achievements/61/Name=Pain dealer
-Achievements/61/Description=Deal {0:tooltip} damage.
-
-Achievements/62/Name=Pain dealer
-Achievements/62/Description=Deal {0:tooltip} damage.
-
-Achievements/63/Name=One-hit KO
-Achievements/63/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
-
-Achievements/64/Name=One-hit KO
-Achievements/64/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
-
-Achievements/65/Name=One-hit KO
-Achievements/65/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
-
-Achievements/66/Name=One-hit KO
-Achievements/66/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
-
-Achievements/67/Name=One-hit KO
-Achievements/67/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
-
-Achievements/68/Name=Getting tanned
-Achievements/68/Description=Survive {0:time} in Hel.
-
-Achievements/69/Name=Skill issue
-Achievements/69/Description=Find the dead dev flower.
-
-Achievements/70/Name=Termites...?
-Achievements/70/Description=Spawn a friendly Termite.
-
-Achievements/71/Name=Pacifist
-Achievements/71/Description=Spend {0:time} admiring nature without destroying anything.
-
-Achievements/72/Name=Be gone
-Achievements/72/Description=Send a flower to Hel.
-
-Achievements/73/Name=Be gone
-Achievements/73/Description=Send {0} flowers to Hel.
-
-Achievements/74/Name=Saved
-Achievements/74/Description=Get revived.
-
-Achievements/75/Name=Savior
-Achievements/75/Description=Revive a flower.
-
-Achievements/76/Name=Savior
-Achievements/76/Description=Revive {0} flowers.
-
-Achievements/77/Name=All-seeing
-Achievements/77/Description=Equip {#Petals/{0}/Name}.
-
-Achievements/78/Name=Return to sender
-Achievements/78/Description=Hit a mob with {#Petals/{0}/Name}.
-
-Achievements/79/Name=Homewrecker
-Achievements/79/Description=Destroy an {#Mobs/{1}/Name}, {#Mobs/{2}/Name} or {#Mobs/{3}/Name}.
-
-Achievements/80/Name=Homewrecker
-Achievements/80/Description=Destroy {0} {#Mobs/{1}/Name}s, {#Mobs/{2}/Name}s or {#Mobs/{3}/Name}s.
-
-Achievements/81/Name=Bad
-Achievements/81/Description=Die.
-
-Achievements/82/Name=Bad
-Achievements/82/Description=Die {0} times.
-
-Achievements/83/Name=Bad
-Achievements/83/Description=Die {0} times.
-
-Achievements/84/Name=Serial killer
-Achievements/84/Description=Destroy {0} mobs within {1:time} of each other.
-
-Achievements/85/Name=Unkillable
-Achievements/85/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
-
-Achievements/86/Name=Unkillable
-Achievements/86/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
-
-Achievements/87/Name=Unkillable
-Achievements/87/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
-
-Achievements/88/Name=Unkillable
-Achievements/88/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
-
-Achievements/89/Name=Unkillable
-Achievements/89/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
-
-Achievements/90/Name=Unkillable
-Achievements/90/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
-
-Achievements/91/Name=Unkillable
-Achievements/91/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
-
-Achievements/92/Name=You're the dummy
-Achievements/92/Description=Die to a {#Mobs/{0}/Name}.
-
-Achievements/93/Name=Genocide
-Achievements/93/Description=Destroy {0} mobs within {1:time}.
-
-Achievements/94/Name=Rolling in dough
-Achievements/94/Description=Acquire {0} drops within {1:time}.
-
-Achievements/95/Name=Shiny Hunter
-Achievements/95/Description=Destroy {0} shiny Ladybugs within {1:time}.
-
-Achievements/96/Name=Super Hunter
-Achievements/96/Description=Destroy {0} {#Rarities/{1}/Name} mobs.
+Achievements/31/Description=Visite o Oceano
+Achievements/31/Gender=Male
+
+Achievements/32/Name=Bem-vindo à Selva
+Achievements/32/Description=Visite a Selva
+Achievements/32/Gender=Female
+
+Achievements/33/Name=Inferno de Formigas
+Achievements/33/Description=Descubra de onde vêm todas essas formigas irritantes.
+Achievements/33/Gender=Female
+
+Achievements/34/Name=Esgoto
+Achievements/34/Description=Descubra até onde esse cano vai.
+Achievements/34/Gender=Male
+
+Achievements/35/Name=Conquistador
+Achievements/35/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/35/Gender=Male
+
+Achievements/36/Name=Conquistador
+Achievements/36/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/36/Gender=Male
+
+Achievements/37/Name=Conquistador
+Achievements/37/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/37/Gender=Male
+
+Achievements/38/Name=Conquistador
+Achievements/38/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/38/Gender=Male
+
+Achievements/39/Name=Conquistador
+Achievements/39/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/39/Gender=Male
+
+Achievements/40/Name=Conquistador
+Achievements/40/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/40/Gender=Male
+
+Achievements/41/Name=Conquistador
+Achievements/41/Description=Derrote seu primeiro bicho {#Rarities/{0}/Name} .
+Achievements/41/Gender=Male
+
+Achievements/42/Name=Ir para ONDE?
+Achievements/42/Description=Visite outro mundo.
+Achievements/42/Gender=Male
+
+Achievements/43/Name=Desafiador
+Achievements/43/Description=Complete um desafio.
+Achievements/43/Gender=Male
+
+Achievements/44/Name=Desafiador
+Achievements/44/Description=Complete {0} desafios.
+Achievements/44/Gender=Male
+
+Achievements/45/Name=Desafiador
+Achievements/45/Description=Complete {0} desafios.
+Achievements/45/Gender=Male
+
+Achievements/46/Name=Desafiador
+Achievements/46/Description=Complete {0} desafios.
+Achievements/46/Gender=Male
+
+Achievements/47/Name=Prepare-se
+Achievements/47/Description=Equipe {1} pétalas {#Rarities/{0}/Name} 
+Achievements/47/Gender=Femal
+
+Achievements/48/Name=Prepare-se
+Achievements/48/Description=Equipe {1} pétalas {#Rarities/{0}/Name} 
+Achievements/48/Gender=Female
+
+Achievements/49/Name=Prepare-se
+Achievements/49/Description=Equipe {1} pétalas {#Rarities/{0}/Name} 
+Achievements/49/Gender=Female
+
+Achievements/50/Name=Prepare-se
+Achievements/50/Description=Equipe {1} pétalas {#Rarities/{0}/Name} 
+Achievements/50/Gender=Female
+
+Achievements/51/Name=Prepare-se
+Achievements/51/Description=Equipe {1} pétalas {#Rarities/{0}/Name} 
+Achievements/51/Gender=Female
+
+Achievements/52/Name=Prepare-se
+Achievements/52/Description=Equipe {1} pétalas {#Rarities/{0}/Name} 
+Achievements/52/Gender=Female
+
+Achievements/53/Name=Prepare-se
+Achievements/53/Description=Equipe {1} pétalas {#Rarities/{0}/Name} 
+Achievements/53/Gender=Female
+
+Achievements/54/Name=Invocador
+Achievements/54/Description=Invoque um bicho amigável.
+Achievements/54/Gender=Male
+
+Achievements/55/Name=Invocador
+Achievements/55/Description=Invoque {0} bichos amigáveis
+Achievements/55/Gender=Male
+
+Achievements/56/Name=Invocador
+Achievements/56/Description=Invoque {0} bichos amigáveis
+Achievements/56/Gender=Male
+
+Achievements/57/Name=Invocador
+Achievements/57/Description=Invoque {0} bichos amigáveis
+Achievements/57/Gender=Male
+
+Achievements/58/Name=Brilhante!
+Achievements/58/Description=Destrua uma joaninha brilhante.
+Achievements/58/Gender=Female
+
+Achievements/59/Name=Jogo Errado
+Achievements/59/Description=Destrua um Quadrado
+Achievements/59/Gender=Male
+
+Achievements/60/Name=Distribuidor de dor
+Achievements/60/Description=Cause {0:tooltip} de Dano.
+Achievements/60/Gender=Male
+
+Achievements/61/Name=Distribuidor de dor
+Achievements/61/Description=Cause {0:tooltip} de Dano.
+Achievements/61/Gender=Male
+
+Achievements/62/Name=Distribuidor de dor
+Achievements/62/Description=Cause {0:tooltip} de Dano.
+Achievements/62/Gender=Male
+
+Achievements/63/Name=Nocaute com um golpe
+Achievements/63/Description=Destrua {#Rarities/{0}/Article} bicho {#Rarities/{0}/Name} em um ataque.
+Achievements/63/Gender=Male
+
+Achievements/64/Name=Nocaute com um golpe
+Achievements/64/Description=Destrua {#Rarities/{0}/Article} bicho {#Rarities/{0}/Name} em um ataque.
+Achievements/64/Gender=Male
+
+Achievements/65/Name=Nocaute com um golpe
+Achievements/65/Description=Destrua {#Rarities/{0}/Article} bicho {#Rarities/{0}/Name} em um ataque.
+Achievements/65/Gender=Male
+
+Achievements/66/Name=Nocaute com um golpe
+Achievements/66/Description=Destrua {#Rarities/{0}/Article} bicho {#Rarities/{0}/Name} em um ataque.
+Achievements/66/Gender=Male
+
+Achievements/67/Name=Nocaute com um golpe
+Achievements/67/Description=Destrua {#Rarities/{0}/Article} bicho {#Rarities/{0}/Name} em um ataque.
+Achievements/67/Gender=Male
+
+Achievements/68/Name=Ficando bronzeado
+Achievements/68/Description=Sobreviva {0:time} no Hel.
+Achievements/68/Gender=Male
+
+Achievements/69/Name=Falta de habilidade
+Achievements/69/Description=Encontre a flor dev morta.
+Achievements/69/Gender=Female
+
+Achievements/70/Name=Cupins...?
+Achievements/70/Description=Invoque um cupim amigável.
+Achievements/70/Gender=Male
+
+Achievements/71/Name=Pacifista
+Achievements/71/Description=Fique {0:time} admirando a natureza sem matar um bicho.
+Achievements/71/Gender=Male
+
+Achievements/72/Name=Vá embora
+Achievements/72/Description=Mande uma flor para o Hel.
+Achievements/72/Gender=Female
+
+Achievements/73/Name=Vá embora
+Achievements/73/Description=Mande {0} flores para o Hel.
+Achievements/73/Gender=Female
+
+Achievements/74/Name=Salvo
+Achievements/74/Description=Seja revivido.
+Achievements/74/Gender=Male
+
+Achievements/75/Name=Salvador
+Achievements/75/Description=Reviva uma flor.
+Achievements/75/Gender=Female
+
+Achievements/76/Name=Salvador
+Achievements/76/Description=Reviva {0} flores.
+Achievements/76/Gender=Female
+
+Achievements/77/Name=Quem tudo vê
+Achievements/77/Description=Equipe {#Petals/{0}/Name}.
+Achievements/77/Gender=Female
+
+Achievements/78/Name=Retornar ao remetente
+Achievements/78/Description=Ataque um bicho com {#Petals/{0}/Name}.
+Achievements/78/Gender=Male
+
+Achievements/79/Name=Destruidora de lares
+Achievements/79/Description=Destrua um {#Mobs/{1}/Name}, {#Mobs/{2}/Name} ou {#Mobs/{3}/Name}.
+Achievements/79/Gender=Male
+
+Achievements/80/Name=Destruidora de lares
+Achievements/80/Description=Destrua {0} {#Mobs/{1}/Name}s, {#Mobs/{2}/Name}s ou {#Mobs/{3}/Name}s.
+Achievements/80/Gender=Male
+
+Achievements/81/Name=Ruim
+Achievements/81/Description=Morra.
+Achievements/81/Gender=Female
+
+Achievements/82/Name=Ruim
+Achievements/82/Description=Morra {0} vezes.
+Achievements/82/Gender=Female
+
+Achievements/83/Name=Ruim
+Achievements/83/Description=Morra {0} vezes.
+Achievements/83/Gender=Female
+
+Achievements/84/Name=Assassino em série
+Achievements/84/Description=Destrua {0} bichos entre {1:time} de cada.
+Achievements/84/Gender=Male
+
+Achievements/85/Name=Invencível
+Achievements/85/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/85/Gender=Male
+
+Achievements/86/Name=Invencível
+Achievements/86/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/86/Gender=Male
+
+Achievements/87/Name=Invencível
+Achievements/87/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/87/Gender=Male
+
+Achievements/88/Name=Invencível
+Achievements/88/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/88/Gender=Male
+
+Achievements/89/Name=Invencível
+Achievements/89/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/89/Gender=Male
+
+Achievements/90/Name=Invencível
+Achievements/90/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/90/Gender=Male
+
+Achievements/91/Name=Invencível
+Achievements/91/Description=Destrua {0} bichos {#Rarities/{1}/Name}+ sem morrer.
+Achievements/91/Gender=Male
+
+Achievements/92/Name=Você é o idiota
+Achievements/92/Description=Morra para {#Mobs/{0}/Name}.
+Achievements/92/Gender=Male
+
+Achievements/93/Name=Genocida
+Achievements/93/Description=Destrua {0} bichos em {1:time}.
+Achievements/93/Gender=
+
+Achievements/94/Name=Rolando na massa
+Achievements/94/Description=Obtenha {0} drops em {1:time}.
+Achievements/94/Gender=
+
+Achievements/95/Name=Caçador de brilhos
+Achievements/95/Description=Destrua {0} Joaninhas Brilhantes em  {1:time}.
+Achievements/95/Gender=
+
+Achievements/96/Name=Caçador de Super
+Achievements/96/Description=Destrua {0} bichos {#Rarities/{1}/Name} .
+Achievements/96/Gender=male
 
 Achievements/97/Name=Sacrifice
-Achievements/97/Description=Die within {0:time} of reviving someone.
+Achievements/97/Description=Morra em {0:time} de reviver alguém.
+Achievements/97/Gender=Male
 
-Achievements/98/Name=Useless
-Achievements/98/Description=Get kill credit for a mob without dealing any damage to it.
+Achievements/98/Name=Inútil
+Achievements/98/Description=Receba créditos por matar um bicho sem causar nenhum dano a ele.
+Achievements/98/Gender=Male
 
-Achievements/99/Name=Useless
-Achievements/99/Description=Get kill credit for {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without dealing any damage to it.
+Achievements/99/Name=Inútil
+Achievements/99/Description=Receba créditos por matar  {#Rarities/{0}/Article} inimigo {#Rarities/{0}/Name} sem causar nenhum dano a ele.
+Achievements/99/Gender=Male
 
-Achievements/100/Name=The lucky one
-Achievements/100/Description=Successfully craft {0} petals in a row.
+Achievements/100/Name=O Sortudo
+Achievements/100/Description=Construa com sucesso {0} pétalas seguidas.
+Achievements/100/Gender=Female
 
-Achievements/101/Name=The unlucky one
-Achievements/101/Description=Fail to craft {0} petals in a row.
+Achievements/101/Name=O Azarado
+Achievements/101/Description=Falhe em construir {0} pétalas seguidas.
+Achievements/101/Gender=Female
 
-Achievements/102/Name=Paper
-Achievements/102/Description=Die to a damage instance higher than your max hp.
+Achievements/102/Name=Papel
+Achievements/102/Description=Morra para um dano maior que sua vida máxima.
+Achievements/102/Gender=Male
 
-Achievements/103/Name=Statue
-Achievements/103/Description=Spawn then kill {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without moving.
+Achievements/103/Name=Estátua
+Achievements/103/Description=Spawne e mate {#Rarities/{0}/Article} Inimigo {#Rarities/{0}/Name} sem se mover.
+Achievements/103/Gender=Male
 
-Achievements/104/Name=Statue
-Achievements/104/Description=Spawn then kill {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without moving.
+Achievements/104/Name=Estátua
+Achievements/104/Description=Spawne e mate {#Rarities/{0}/Article} Inimigo {#Rarities/{0}/Name} sem se mover.
+Achievements/104/Gender=Male
 
-Achievements/105/Name=Breath in, breath out
-Achievements/105/Description=Equip and unequip {#Petals/{0}/Name} many times
+Achievements/105/Name=Inspire, expire
+Achievements/105/Description=Equipe e Desequipe {#Petals/{0}/Name} Muitas vezes.
+Achievements/105/Gender=Male
 
-Achievements/106/Name=Sound barrier
-Achievements/106/Description=Move really fast.
+Achievements/106/Name=Barreira do som
+Achievements/106/Description=Mova-se bem rápido.
+Achievements/106/Gender=Male
 
-Achievements/107/Name=Sound barrier
-Achievements/107/Description=Move even faster.
+Achievements/107/Name=Barreira do som
+Achievements/107/Description=Mova-se mais rápido ainda.
+Achievements/107/Gender=Male
 
-Achievements/108/Name=Biologist
-Achievements/108/Description=Destroy {0} different types of mobs without dying.
+Achievements/108/Name=Biologista
+Achievements/108/Description=Destrua {0} tipos de bichos diferentes sem morrer.
+Achievements/108/Gender=Male
 
-Achievements/109/Name=Collector
-Achievements/109/Description=Collect {0} different types of petals without dying.
+Achievements/109/Name=Coletor
+Achievements/109/Description=Colete {0} tipos de pétalas diferentes sem morrer.
+Achievements/109/Gender=Female
 
-Achievements/110/Name=Touch grass
-Achievements/110/Description=Don't play the game for {0:time}.
+Achievements/110/Name=Toque na grama
+Achievements/110/Description=Não jogue o jogo por {0:time}.
+Achievements/110/Gender=Male
 
-Achievements/111/Name=Racecar
-Achievements/111/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/111/Name=Carro de corrida
+Achievements/111/Description=Visite Jardim, Deserto, Selva, Oceano e depois volte para o Jardim em menos de {0:time}.
+Achievements/111/Gender=Male
 
-Achievements/112/Name=Racecar
-Achievements/112/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/112/Name=Carro de corrida
+Achievements/112/Description=Visite Jardim, Deserto, Selva, Oceano e depois volte para o Jardim em menos de {0:time}.
+Achievements/112/Gender=Male
 
-Achievements/113/Name=Racecar
-Achievements/113/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/113/Name=Carro de corrida
+Achievements/113/Description=Visite Jardim, Deserto, Selva, Oceano e depois volte para o Jardim em menos de {0:time}.
+Achievements/113/Gender=Male
 
-Achievements/114/Name=Racecar
-Achievements/114/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/114/Name=Carro de corrida
+Achievements/114/Description=Visite Jardim, Deserto, Selva, Oceano e depois volte para o Jardim em menos de {0:time}.
+Achievements/114/Gender=Male
 
-Achievements/115/Name=Biologist
-Achievements/115/Description=Destroy {0} different types of {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/115/Name=Biologista
+Achievements/115/Description=Destrua {0} tipos de bichos  {#Rarities/{1}/Name}+ diferentes sem morrer.
+Achievements/115/Gender=Male
 
-Achievements/116/Name=Bad in every way
-Achievements/116/Description=Die to {0} different types of mobs.
+Achievements/116/Name=Ruim em todos os sentidos
+Achievements/116/Description=Morra para {0} tipos de bichos diferentes.
+Achievements/116/Gender=Male
 
-Achievements/117/Name=Bad in every way
-Achievements/117/Description=Die to {0} different types of mobs.
+Achievements/117/Name=Ruim em todos os sentidos
+Achievements/117/Description=Morra para {0} tipos de bichos diferentes.
+Achievements/117/Gender=Male
 
-Achievements/118/Name=Bad in every way
-Achievements/118/Description=Die to {0} different types of mobs.
+Achievements/118/Name=Ruim em todos os sentidos
+Achievements/118/Description=Morra para {0} tipos de bichos diferentes.
+Achievements/118/Gender=Male
 
-Achievements/119/Name=Touched
-Achievements/119/Description=Touch the developer.
+Achievements/119/Name=Tocado
+Achievements/119/Description=Toque no desenvolvedor.
+Achievements/119/Gender=Male
 
-Achievements/120/Name=Evasive
-Achievements/120/Description=Evade {0:tooltip} damage.
+Achievements/120/Name=Evasivo
+Achievements/120/Description=Desvie de {0:tooltip} de dano.
+Achievements/120/Gender=Male
 
-Achievements/121/Name=Evasive
-Achievements/121/Description=Evade {0:tooltip} damage.
+Achievements/121/Name=Evasivo
+Achievements/121/Description=Desvie de {0:tooltip} de dano.
+Achievements/121/Gender=Male
 
-Achievements/122/Name=Evasive
-Achievements/122/Description=Evade {0:tooltip} damage.
+Achievements/122/Name=Evasivo
+Achievements/122/Description=Desvie de {0:tooltip} de dano.
+Achievements/122/Gender=Male
 
-Achievements/123/Name=Devil's advocate
-Achievements/123/Description=While in Hel, destroy {0} flowers without dying.
+Achievements/123/Name=Advogado do Diabo
+Achievements/123/Description=Enquanto estiver no Hel, mate {0} flores sem morrer.
+Achievements/123/Gender=Female
 
-Achievements/124/Name=Hater
-Achievements/124/Description=Destroy {0} of the same type of mob in a row without dying.
+Achievements/124/Name=Odiador
+Achievements/124/Description=Destrua {0} bichos de um tipo seguidos sem morrer.
+Achievements/124/Gender=Male
 
-Achievements/125/Name=Hater
-Achievements/125/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+Achievements/125/Name=Odiador
+Achievements/125/Description=Destrua {0} bichos de um tipo seguidos sem morrer.
+Achievements/125/Gender=Male
 
-Achievements/126/Name=Hater
-Achievements/126/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+Achievements/126/Name=Odiador
+Achievements/126/Description=Destrua {0} bichos de um tipo seguidos sem morrer.
+Achievements/126/Gender=Male
 
-Achievements/127/Name=Hater
-Achievements/127/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+Achievements/127/Name=Odiador
+Achievements/127/Description=Destrua {0} bichos de um tipo seguidos sem morrer.
+Achievements/127/Gender=Male
 
-Achievements/128/Name=Revenge
-Achievements/128/Description=Destroy the mob that killed you.
+Achievements/128/Name=Vingança
+Achievements/128/Description=Mate o bicho que te matou.
+Achievements/128/Gender=Male
 
-Achievements/129/Name=Revenge
-Achievements/129/Description=Destroy the mob that killed you within {0:time} of your death.
+Achievements/129/Name=Vingança
+Achievements/129/Description=Mate o bicho que te matou em {0:time} desde sua morte.
+Achievements/129/Gender=Male
 
-Achievements/130/Name=Trade
-Achievements/130/Description=Acquire a {#Petals/{0:base}/Name} through trade.
+Achievements/130/Name=Troca
+Achievements/130/Description=Adquira uma {#Petals/{0:base}/Name} fazendo uma troca.
+Achievements/130/Gender=Female
 
-Achievements/131/Name=Trade
-Achievements/131/Description=Acquire {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name} through trade.
+Achievements/131/Name=Troca
+Achievements/131/Description=Adquira {#Rarities/{0:rarity}/Article} {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Name} fazendo uma troca.
+Achievements/131/Gender=Female
 
-Achievements/132/Name=Trade
-Achievements/132/Description=Acquire {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name} through trade.
+Achievements/132/Name=Troca
+Achievements/132/Description=Adquira {#Rarities/{0:rarity}/Article} {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Name} fazendo uma troca.
+Achievements/132/Gender=Female
 
-Achievements/133/Name=Gambler
-Achievements/133/Description=Insert {0} Chips into Plinko.
+Achievements/133/Name=Apostador
+Achievements/133/Description=Insira {0} Fichas no Plinko.
+Achievements/133/Gender=Female
 
-Achievements/134/Name=JACKPOT!
-Achievements/134/Description=Hit the Jackpot in Plinko.
+Achievements/134/Name=PRÊMIO ELEGANTE!
+Achievements/134/Description=Acerte o Prêmio elegante no Plinko.
+Achievements/134/Gender=Male
 
-Achievements/135/Name=High roller
-Achievements/135/Description=Insert {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name}+ {#Petals/{0:base}/Name} in Plinko.
+Achievements/135/Name=Grande apostador
+Achievements/135/Description=Insira {#Rarities/{0:rarity}/Article} {#Petals/{0:base}/Name {#Rarities/{0:rarity}/Name}+ } ultra ficha no Plinko.
+Achievements/135/Gender=Female
 
-Achievements/136/Name=The all-seeing one
-Achievements/136/Description=Craft a petal using the Oracle.
+Achievements/136/Name=Aquele que tudo vê
+Achievements/136/Description=Construa uma pétala utilizando o oráculo.
+Achievements/136/Gender=Female
 
-Achievements/137/Name=It was destiny
-Achievements/137/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name}+ petal using the Oracle.
+Achievements/137/Name=Foi destino
+Achievements/137/Description=Construa {#Rarities/{0}/Article} pétala {#Rarities/{0}/Name}+  Usando o oráculo
+Achievements/137/Gender=Female
 
-Achievements/138/Name=Magician
-Achievements/138/Description=Equip an {#Petals/{0}/Name}.
+Achievements/138/Name=Mágico
+Achievements/138/Description=Equipe uma {#Petals/{0}/Name}.
+Achievements/138/Gender=Female
