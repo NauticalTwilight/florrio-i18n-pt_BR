@@ -265,14 +265,14 @@ UI/Settings/MovementHelper=Ajudante de movimento
 
 UI/Settings/FixedJoystick=Joystick fixo
 
-UI/Settings/AutoSaveLoadout=Salvar loadouts (auto)
+UI/Settings/AutoSaveLoadout=Salvar loadouts automaticamente
 
 UI/Settings/PrivacyPolicy=Política de Privacidade
 UI/Settings/TermsOfService=Termos de serviço
 
 UI/Credits/MadeBy=Feito por {0}
 UI/Credits/SomeIcons=Alguns ícones de {0}
-UI/Credits/SomeTiles=Alguns tiles de{0}
+UI/Credits/SomeTiles=Alguns tiles de {0}
 UI/Credits/SpecialThanks=Agradecimentos especiais
 UI/Credits/Translators=Tradutores
 
