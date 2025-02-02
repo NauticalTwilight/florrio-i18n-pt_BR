@@ -49,32 +49,32 @@ Achievements/9/Description=Complete o tutorial.
 Achievements/9/Gender=Male
 
 Achievements/10/Name=Construidor
-Achievements/10/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name}
-Achievements/10/Gender=Female
+Achievements/10/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/10/Gender=Male
 
 Achievements/11/Name=Construidor
-Achievements/11/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name} .
-Achievements/11/Gender=Female
+Achievements/11/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/11/Gender=Male
 
 Achievements/12/Name=Construidor
-Achievements/12/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name} .
-Achievements/12/Gender=Female
+Achievements/12/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/12/Gender=Male
 
 Achievements/13/Name=Construidor
-Achievements/13/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name} .
-Achievements/13/Gender=Female
+Achievements/13/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/13/Gender=Male
 
 Achievements/14/Name=Construidor
-Achievements/14/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name} .
-Achievements/14/Gender=Female
+Achievements/14/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/14/Gender=Male
 
 Achievements/15/Name=Construidor
-Achievements/15/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name} .
-Achievements/15/Gender=Female
+Achievements/15/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/15/Gender=Male
 
 Achievements/16/Name=Construidor
-Achievements/16/Description=Construa {#Rarities/{0}/Article} Pétala {#Rarities/{0}/Name} .
-Achievements/16/Gender=Female
+Achievements/16/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/16/Gender=Male
 
 Achievements/17/Name=Prêmio de consolação
 Achievements/17/Description=Falhe em construir e perca {0} pétalas
