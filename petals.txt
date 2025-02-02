@@ -210,7 +210,7 @@ Petals/fangs/FullName=Presas
 Petals/fangs/Description=Cura vida baseado no dano causado por essa pétala.
 Petals/fangs/Gender=Female
 
-Petals/third_eye/Name=Terceiro Olho
+Petals/third_eye/Name=Olho
 Petals/third_eye/FullName=Terceiro Olho
 Petals/third_eye/Description=Permite que sua flor expanda o alcance de suas pétalas.
 Petals/third_eye/Gender=Male
@@ -430,7 +430,7 @@ Petals/magic_cactus/FullName=Cacto Mágico
 Petals/magic_cactus/Description=Aumenta a capacidade de mana máxima.
 Petals/magic_cactus/Gender=Male
 
-Petals/magic_eye/Name=Olho Mágico
+Petals/magic_eye/Name=Olho
 Petals/magic_eye/FullName=Olho Mágico
 Petals/magic_eye/Description=Consome a metade da sua mana atual, dando dano baseado nesse valor.
 Petals/magic_eye/Gender=Male
