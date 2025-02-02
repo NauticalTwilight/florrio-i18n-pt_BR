@@ -242,7 +242,7 @@ UI/Settings/ChatWhispers=Sussurros
 
 UI/Settings/AutoJoinSquads=Entrar em times automaticamente
 
-UI/Settings/HideOtherPetals=Esconder pétalas alheias
+UI/Settings/HideOtherPetals=Esconder pétalas dos outros
 
 UI/Settings/EquipDrops=Equipar drops
 
@@ -257,11 +257,11 @@ UI/Settings/ScreenShake=Efeito de tela tremendo
 
 UI/Settings/LiveIcons=Ícones animados
 
-UI/Settings/TouchControls=Controles de toque
+UI/Settings/TouchControls=Controlar usando touch
 
-UI/Settings/KeyboardMovement=Movimento de teclado
+UI/Settings/KeyboardMovement=Movimento usando teclado
 
-UI/Settings/MovementHelper=Ajudante de movimento
+UI/Settings/MovementHelper=Indicador de movimento
 
 UI/Settings/FixedJoystick=Joystick fixo
 
