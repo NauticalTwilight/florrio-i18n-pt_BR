@@ -63,7 +63,7 @@ UI/Chat/PromptKeyboardOrClick=Aperte [ENTER] ou clique para abrir o chat
 UI/Chat/Player/Block=Bloquear
 UI/Chat/Player/ReportMessage=Reportar Mensagem
 UI/Chat/Player/Whisper=Sussurir
-UI/Chat/Player/InviteToSquad=Convidar pro Esquadrão
+UI/Chat/Player/InviteToSquad=Convidar pro Time
 UI/Chat/Player/InviteToGuild=Convidar pro Clã
 
 UI/Flower/Level=Nível {0}
@@ -114,13 +114,13 @@ UI/Guild/Leave/Instructions=Tem Certeza?
 UI/Guild/Leave/Confirm=Sair
 UI/Guild/Leave/Cancel=Cancelar
 
-UI/Squad/Title=Esquadrão
-UI/Squad/Error/NotAllowed=Esquadrões não são permitidos nesse modo
+UI/Squad/Title=Time
+UI/Squad/Error/NotAllowed=Times não são permitidos nesse modo
 UI/Squad/Error/Spam=Você está fazendo muito isso
-UI/Squad/Error/DoesNotExist=O esquadrão não existe
-UI/Squad/Error/CannotJoin=Você não pode entrar neste esquadrão
-UI/Squad/Error/LevelDifference=Seu nível não está perto do nível do esquadrão
-UI/Squad/Error/Full=O esquadrão está cheio
+UI/Squad/Error/DoesNotExist=O time não existe
+UI/Squad/Error/CannotJoin=Você não pode entrar neste time
+UI/Squad/Error/LevelDifference=Seu nível não está perto do nível do time
+UI/Squad/Error/Full=O time está cheio
 
 UI/Shop/Title=Loja
 UI/Shop/Button=Loja
@@ -234,7 +234,7 @@ UI/Settings/Realms/3=Sierra (ASIA)
 UI/Settings/Chat=Bate papo
 UI/Settings/ChatWhispers=Sussurros
 
-UI/Settings/AutoJoinSquads=Entrar em esquadrão (auto)
+UI/Settings/AutoJoinSquads=Entrar em times automaticamente
 
 UI/Settings/HideOtherPetals=Esconder pétalas alheias
 
@@ -271,5 +271,5 @@ UI/Credits/SpecialThanks=Agradecimentos especiais
 UI/Credits/Translators=Tradutores
 
 # The little arrows around dead flowers
-UI/HelperText/Guild=Guilda
-UI/HelperText/Squad=Esquadrão
+UI/HelperText/Guild=Clã
+UI/HelperText/Squad=Time
