@@ -556,7 +556,7 @@ Achievements/136/Name=Aquele que tudo vê
 Achievements/136/Description=Construa uma pétala utilizando o oráculo.
 Achievements/136/Gender=Female
 
-Achievements/137/Name=Foi destino
+Achievements/137/Name=Foi o destino
 Achievements/137/Description=Construa {#Rarities/{0}/Article} pétala {#Rarities/{0}/Name}+  Usando o oráculo
 Achievements/137/Gender=Female
 
