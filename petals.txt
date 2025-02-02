@@ -1,3 +1,5 @@
+Petals/none/Gender=Male
+
 Petals/basic/Name=Básico
 Petals/basic/FullName=Básico
 Petals/basic/Description=Uma bela pétala, nem muito forte, nem muito fraca.

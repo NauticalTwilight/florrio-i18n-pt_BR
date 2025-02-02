@@ -1,3 +1,5 @@
+Mobs/none/Gender=Male
+
 Mobs/rock/Name=Pedra
 Mobs/rock/Description=Uma pedra, não faz muitas coisas.
 Mobs/rock/Spawn=Algo parecido como uma montanha aparece na distância...
