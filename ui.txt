@@ -1,6 +1,6 @@
 UI/Language/Name=Português (Brasil)
 # These are the translators that worked on this translation. Separate with <n/>
-UI/Language/Credits=
+UI/Language/Credits=Lot<n/>Robloxian
 
 UI/Title/Loading=Carregando...
 UI/Title/Connecting=Conectando...
