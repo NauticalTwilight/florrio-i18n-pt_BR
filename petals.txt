@@ -55,8 +55,8 @@ Petals/cactus/FullName=Cacto
 Petals/cactus/Description=Não é muito forte, mas de algum jeito aumenta sua vida máxima.
 Petals/cactus/Gender=Male
 
-Petals/faster/Name=Acelerado
-Petals/faster/FullName=Acelerado
+Petals/faster/Name=Acelerador
+Petals/faster/FullName=Acelerador
 Petals/faster/Description=É tão leve que faz suas pétalas girarem mais rápido
 Petals/faster/Gender=Male
 

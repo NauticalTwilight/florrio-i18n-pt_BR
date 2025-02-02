@@ -533,11 +533,11 @@ Achievements/130/Description=Adquira uma {#Petals/{0:base}/Name} fazendo uma tro
 Achievements/130/Gender=Female
 
 Achievements/131/Name=Troca
-Achievements/131/Description=Adquira {#Rarities/{0:rarity}/Article} {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Name} fazendo uma troca.
+Achievements/131/Description=Adquira uma {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name} fazendo uma troca.
 Achievements/131/Gender=Female
 
 Achievements/132/Name=Troca
-Achievements/132/Description=Adquira {#Rarities/{0:rarity}/Article} {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Name} fazendo uma troca.
+Achievements/132/Description=Adquira uma {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name} fazendo uma troca.
 Achievements/132/Gender=Female
 
 Achievements/133/Name=Apostador
@@ -549,7 +549,7 @@ Achievements/134/Description=Acerte o Prêmio elegante no Plinko.
 Achievements/134/Gender=Male
 
 Achievements/135/Name=Grande apostador
-Achievements/135/Description=Insira {#Rarities/{0:rarity}/Article} {#Petals/{0:base}/Name {#Rarities/{0:rarity}/Name}+ } ultra ficha no Plinko.
+Achievements/135/Description=Insira uma {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name} no Plinko.
 Achievements/135/Gender=Female
 
 Achievements/136/Name=Aquele que tudo vê
@@ -557,7 +557,7 @@ Achievements/136/Description=Construa uma pétala utilizando o oráculo.
 Achievements/136/Gender=Female
 
 Achievements/137/Name=Foi o destino
-Achievements/137/Description=Construa {#Rarities/{0}/Article} pétala {#Rarities/{0}/Name}+  Usando o oráculo
+Achievements/137/Description=Construa uma pétala {#Rarities/{0}/Female/Name} utilizando o oráculo.
 Achievements/137/Gender=Female
 
 Achievements/138/Name=Mágico

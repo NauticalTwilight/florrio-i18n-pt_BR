@@ -26,20 +26,20 @@ UI/Tooltip/Group3={0}b
 UI/Tooltip/Group4={0}t
 
 # Helpers
-UI/Time/Days/1=1 dias
+UI/Time/Days/1=1 dia
 UI/Time/Days/N={0} dias
-UI/Time/Hours/1=1 horas
+UI/Time/Hours/1=1 hora
 UI/Time/Hours/N={0} horas
-UI/Time/Minutes/1=1 minutos
+UI/Time/Minutes/1=1 minuto
 UI/Time/Minutes/N={0} minutos
-UI/Time/Seconds/1=1 segundos
+UI/Time/Seconds/1=1 segundo
 UI/Time/Seconds/N={0} segundos
 
-UI/TooltipTime/Days/1=1 dias
+UI/TooltipTime/Days/1=1 dia
 UI/TooltipTime/Days/N={0:tooltip} dias
-UI/TooltipTime/Hours/1=1 horas
+UI/TooltipTime/Hours/1=1 hora
 UI/TooltipTime/Hours/N={0:tooltip} horas
-UI/TooltipTime/Minutes/1=1 minutos
+UI/TooltipTime/Minutes/1=1 minuto
 UI/TooltipTime/Minutes/N={0:tooltip} minutos
-UI/TooltipTime/Seconds/1=1 segundos
+UI/TooltipTime/Seconds/1=1 segundo
 UI/TooltipTime/Seconds/N={0:tooltip} segundos

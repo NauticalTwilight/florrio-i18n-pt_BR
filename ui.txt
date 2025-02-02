@@ -81,8 +81,8 @@ UI/Achievements/Title=Conquistas
 UI/Achievements/Reward=Recompensas
 UI/Achievements/RewardTP={0} TP
 UI/Achievements/Done=Pronto
-UI/Achievements/Track=Acompanhar
-UI/Achievements/TrackAutomatically=Acompanhar automaticamente
+UI/Achievements/Track=Seguir
+UI/Achievements/TrackAutomatically=Seguir automaticamente
 UI/Achievements/Hidden=???
 UI/Achievements/TotalProgress={0}/{1} Completado
 
