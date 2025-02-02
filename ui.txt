@@ -1,4 +1,6 @@
 UI/Language/Name=Português (Brasil)
+# These are the translators that worked on this translation. Separate with <n/>
+UI/Language/Credits=
 
 UI/Title/Loading=Carregando...
 UI/Title/Connecting=Conectando...
@@ -13,7 +15,7 @@ UI/Title/Name/Rules3=Não pode conter {0} caracteres consecutivos
 UI/Title/Name/Rules4=Esse nome é permanente, e não pode ser trocado depois.
 UI/Title/Name/Button=OK
 UI/Title/Name/Bad=Seu apelido foi redefinido. Por favor escolha um novo.
-UI/Title/Name/AlreadyTaken=Apelido já utilizado.
+UI/Title/Name/AlreadyTaken=Apelido já utilizado. Por favor escolha outro.
 UI/Title/Name/InternalError=Erro interno, tente novamente mais tarde.
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
@@ -266,6 +268,7 @@ UI/Credits/MadeBy=Feito por {0}
 UI/Credits/SomeIcons=Alguns ícones de {0}
 UI/Credits/SomeTiles=Alguns tiles de{0}
 UI/Credits/SpecialThanks=Agradecimentos especiais
+UI/Credits/Translators=Tradutores
 
 # The little arrows around dead flowers
 UI/HelperText/Guild=Guilda
