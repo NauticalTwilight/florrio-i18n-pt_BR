@@ -42,7 +42,7 @@ Mobs/beetle/Name=Besouro
 Mobs/beetle/Description=Está faminto e flores são sua comida preferida.
 Mobs/beetle/Gender=Male
 
-Mobs/hornet/Name=Vespão
+Mobs/hornet/Name=Vespa
 Mobs/hornet/Description=Esses não são legais como as pequenas abelhas.
 Mobs/hornet/Spawn=Um grande ponto amarelo surge a uma longa distância
 Mobs/hornet/Gender=Male
@@ -229,7 +229,7 @@ Mobs/beetle_hel/Description=Flagelo que surge no outro mundo.
 Mobs/beetle_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
 Mobs/beetle_hel/Gender=Male
 
-Mobs/wasp/Name=Vespa
+Mobs/wasp/Name=Vespão
 Mobs/wasp/Description=Elas estão com RAIVA.
 Mobs/wasp/Gender=Female
 
@@ -252,7 +252,7 @@ Mobs/centipede_hel_body/Description=Flagelo que surge no outro mundo.
 Mobs/centipede_hel_body/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
 Mobs/centipede_hel_body/Gender=Female
 
-Mobs/wasp_hel/Name=Vespa
+Mobs/wasp_hel/Name=Vespão
 Mobs/wasp_hel/Description=Flagelo que surge no outro mundo.
 Mobs/wasp_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
 Mobs/wasp_hel/Gender=Female
@@ -292,7 +292,7 @@ Mobs/mecha_flower/Name=Flor Mecânica
 Mobs/mecha_flower/Description=Alguém está fazendo esses robôs... oque isso significa?.
 Mobs/mecha_flower/Gender=Female
 
-Mobs/wasp_mecha/Name=Vespa
+Mobs/wasp_mecha/Name=Vespão
 Mobs/wasp_mecha/Description=Elas estão MECANICAMENTE COM RAIVA.
 Mobs/wasp_mecha/Gender=Female
 
