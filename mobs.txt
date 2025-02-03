@@ -8,7 +8,7 @@ Mobs/rock/Gender=Female
 Mobs/cactus/Name=Cacto
 Mobs/cactus/Description=Evite tocar, dói muito.
 Mobs/cactus/Spawn=Uma torre de espinhos emerge da areia...
-Mobs/cactos/Gender=Male
+Mobs/cactus/Gender=Male
 
 Mobs/ladybug/Name=Joaninha
 Mobs/ladybug/Description=Fofa e inofensiva.
@@ -49,7 +49,7 @@ Mobs/hornet/Gender=Male
 
 Mobs/centipede/Name=Centopeia
 Mobs/centipede/Description=Está apenas ali fazendo suas coisas.
-Mobs/centípede/Gender=Female
+Mobs/centipede/Gender=Female
 
 Mobs/centipede_body/Name=Centopéia
 Mobs/centipede_body/Description=Está apenas ali fazendo suas coisas.
@@ -298,5 +298,4 @@ Mobs/wasp_mecha/Gender=Female
 
 Mobs/spider_mecha/Name=Aranha
 Mobs/spider_mecha/Description=Mecanicamente Assustador.
-Mobs/spider_mecha/Gender=Female
 Mobs/spider_mecha/Gender=Female
