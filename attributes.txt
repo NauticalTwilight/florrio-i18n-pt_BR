@@ -54,8 +54,8 @@ Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">Vida da flor:</c> {0:tool
 Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">Vida da flor:</c> +{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">Duração:</c> {0:tooltipTime}
 Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
-Petal/Attribute/Contents1=<c val="{#Colors/generic}">Invoca:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
-Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Invoca:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/Contents1=<c val="{#Colors/generic}">Invoca:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/{#Mobs/{1:base}/Gender}/NameColored})
+Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Invoca:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/{#Mobs/{1:base}/Gender}/NameColored})
 Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">Visão extra:</c> {0:perc}%
 Petal/Attribute/Radius=<c val="{#Colors/generic}">Alcançe:</c> {0:tooltip}
 Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">Raridade máxima do inseto:</c> {#Rarities/{0}/Male/NameColored}
@@ -72,8 +72,8 @@ Petal/Attribute/FlowerRadius=<c val="{#Colors/generic}">Tamanho da flor:</c> +{0
 Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">Dano curado:</c> {0:perc}%
 Petal/Attribute/AttackRange=<c val="{#Colors/generic}">Alcance de ataque:</c> +{0:tooltip}
 Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
-Petal/Attribute/Spawn1=<c val="{#Colors/generic}">Invoca:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
-Petal/Attribute/SpawnN=<c val="{#Colors/generic}">Invoca:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/Spawn1=<c val="{#Colors/generic}">Invoca:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/{#Mobs/{1:base}/Gender}/NameColored})
+Petal/Attribute/SpawnN=<c val="{#Colors/generic}">Invoca:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/{#Mobs/{1:base}/Gender}/NameColored})
 Petal/Attribute/Luck=<c val="{#Colors/generic}">Sorte:</c> +{0:tooltip}
 Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">Velocidade de movimento:</c> +{0:perc}%
 Petal/Attribute/HealBonus=<c val="{#Colors/heal}">Bônus de cura:</c> +{0:perc}%
