@@ -1,16 +1,20 @@
-
-
-UI/Time/Days={#UI/Time/Days/{0:1orN}}
-UI/Time/Hours={#UI/Time/Hours/{0:1orN}}
-UI/Time/Minutes={#UI/Time/Minutes/{0:1orN}}
-UI/Time/Seconds={#UI/Time/Seconds/{0:1orN}}
+UI/Time/Days={#UI/Time/Days/{1}}
+UI/Time/Hours={#UI/Time/Hours/{1}}
+UI/Time/Minutes={#UI/Time/Minutes/{1}}
+UI/Time/Seconds={#UI/Time/Seconds/{1}}
 UI/Time/Now=imediatamente
 
-UI/TimeLeft/Days=em {#UI/Time/Days/{0:1orN}}
-UI/TimeLeft/Hours=em {#UI/Time/Hours/{0:1orN}}
-UI/TimeLeft/Minutes=em {#UI/Time/Minutes/{0:1orN}}
-UI/TimeLeft/Seconds=em {#UI/Time/Seconds/{0:1orN}}
-UI/TimeLeft/Now=Imediatamente
+UI/Time/Days/={#UI/Time/Days/{0:1orN}}
+UI/Time/Hours/={#UI/Time/Hours/{0:1orN}}
+UI/Time/Minutes/={#UI/Time/Minutes/{0:1orN}}
+UI/Time/Seconds/={#UI/Time/Seconds/{0:1orN}}
+UI/Time/Now/=imediatamente
+
+UI/Time/Days/left=em {#UI/Time/Days/}
+UI/Time/Hours/left=em {#UI/Time/Hours/}
+UI/Time/Minutes/left=em {#UI/Time/Minutes/}
+UI/Time/Seconds/left=em {#UI/Time/Seconds/}
+UI/Time/Now/=imediatamente
 
 UI/TooltipTime/Days={#UI/TooltipTime/Days/{0:1orN}}
 UI/TooltipTime/Hours={#UI/TooltipTime/Hours/{0:1orN}}
