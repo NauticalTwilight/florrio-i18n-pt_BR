@@ -46,7 +46,7 @@ Petal/Attribute/Armor=<c val="{#Colors/armor}">Armadura:</c> {0:tooltip}
 Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">Velocidade de rotação:</c> +{0:tooltip} rad/s
 Petal/Attribute/Heal=<c val="{#Colors/heal}">Cura:</c> {0:tooltip}
 Petal/Attribute/HealPerSecond=<c val="{#Colors/heal}">Cura:</c> {0:tooltip}/s
-Petal/Attribute/HealPerc=<c val="{#Colors/heal}">Cura a o reviver:</c> {0:perc}%
+Petal/Attribute/HealPerc=<c val="{#Colors/heal}">Cura:</c> {0:perc}%
 Petal/Attribute/Poison=<c val="{#Colors/poison}">Veneno:</c> {0:tooltip} ({1:tooltip}/s)
 Petal/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Veneno:</c> {0:tooltip}/s
 Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">Resistencia a veneno:</c> {0:tooltip}/s
