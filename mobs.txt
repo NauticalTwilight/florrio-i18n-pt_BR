@@ -233,7 +233,7 @@ Mobs/wasp/Name=Vespão
 Mobs/wasp/Description=Eles estão com RAIVA.
 Mobs/wasp/Gender=Male
 
-Mobs/dummy/Name=Boneco de teste
+Mobs/dummy/Name=Boneco de Teste
 Mobs/dummy/Description=Como você tem essa galeria?
 Mobs/dummy/Gender=Male
 
