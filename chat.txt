@@ -197,9 +197,9 @@ Chat/Titan/Idle/0=Só pode haver um
 Chat/Titan/Idle/1=Eu era o martelo na Fundação
 Chat/Titan/Idle/2=O que é fraco deve quebrar
 Chat/Titan/Idle/3=A forja da criação queima mais quente
-Chat/Titan/Idle/4=O Ferreiro do Mundo vagueia
+Chat/Titan/Idle/4=O forjador do mundo vagueia
 Chat/Titan/Idle/5=Formado da forja
-Chat/Titan/Idle/6=Como o Moldador deseja
+Chat/Titan/Idle/6=Como o forjador deseja
 Chat/Titan/Idle/7=Eu caminho pelo plano terrestre
 
 Chat/Trader/Idle={#Chat/Trader/Idle/{!rand:0:2}}
