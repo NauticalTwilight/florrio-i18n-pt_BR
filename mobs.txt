@@ -299,4 +299,3 @@ Mobs/wasp_mecha/Gender=Female
 Mobs/spider_mecha/Name=Aranha
 Mobs/spider_mecha/Description=Mecanicamente Assustador.
 Mobs/spider_mecha/Gender=Female
-Mobs/spider_mecha/Gender=Female
