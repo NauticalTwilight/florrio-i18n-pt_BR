@@ -45,7 +45,7 @@ Mobs/beetle/Gender=Male
 Mobs/hornet/Name=Vespa
 Mobs/hornet/Description=Esses não são legais como as pequenas abelhas.
 Mobs/hornet/Spawn=Um grande ponto amarelo surge a uma longa distância
-Mobs/hornet/Gender=Male
+Mobs/hornet/Gender=Female
 
 Mobs/centipede/Name=Centopeia
 Mobs/centipede/Description=Está apenas ali fazendo suas coisas.
@@ -255,7 +255,7 @@ Mobs/centipede_hel_body/Gender=Female
 Mobs/wasp_hel/Name=Vespão
 Mobs/wasp_hel/Description=Flagelo que surge no outro mundo.
 Mobs/wasp_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
-Mobs/wasp_hel/Gender=Female
+Mobs/wasp_hel/Gender=Male
 
 Mobs/trader/Name=Mercante
 Mobs/trader/Gender=Male
@@ -294,7 +294,7 @@ Mobs/mecha_flower/Gender=Female
 
 Mobs/wasp_mecha/Name=Vespão
 Mobs/wasp_mecha/Description=Elas estão MECANICAMENTE COM RAIVA.
-Mobs/wasp_mecha/Gender=Female
+Mobs/wasp_mecha/Gender=Male
 
 Mobs/spider_mecha/Name=Aranha
 Mobs/spider_mecha/Description=Mecanicamente Assustador.
