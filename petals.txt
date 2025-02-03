@@ -262,7 +262,7 @@ Petals/poo/Gender=Male
 
 Petals/relic/Name=Relíquia
 Petals/relic/FullName=Relíquia Misteriosa
-Petals/relic/Description=Uma relíquia estranha. Aumenta Significativamente a vida máxima.<n/>Danos recebidos são distribuídos por outros usuários.
+Petals/relic/Description=Uma relíquia estranha. Aumenta Significativamente a vida máxima.<n/>Danos recebidos são distribuídos entre outros usuários.
 Petals/relic/Gender=Female
 
 Petals/lotus/Name=Lótus
