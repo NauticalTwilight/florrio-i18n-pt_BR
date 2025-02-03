@@ -29,44 +29,44 @@ Achievements/6/ExtraDescription=Use seus novos pontos de talento para desbloquea
 
 Achievements/7/Name=Tutorial
 Achievements/7/Description=Colete algumas pétalas
-Achievements/7/ExtraDescription=Agora precisamos coletar {0} pétalas da mesma pétala {#Rarities/{1}/Female/NameColored} para construir uma pétala {#Rarities/{2}/Female/NameColored}.<n/>Continue destruindo insetos para conseguir mais pétalas.
+Achievements/7/ExtraDescription=Agora precisamos coletar {0} pétalas da mesma pétala {#Rarities/{1}/Female/NameColored} para combinar uma pétala {#Rarities/{2}/Female/NameColored}.<n/>Continue destruindo insetos para conseguir mais pétalas.
 
 Achievements/8/Name=Tutorial
-Achievements/8/Description=Construa uma pétala
-Achievements/8/ExtraDescription=Agora tente construir sua primeira pétala.<n/>Saiba que talvez você precise desequipar algumas pétalas para ter o suficiente para tentar construí-las.<n/>Você precisa de 5 da mesma pétala.<n/><n/>Não se preocupe, garantimos essa tentativa.
+Achievements/8/Description=Combine uma pétala
+Achievements/8/ExtraDescription=Agora tente combinar sua primeira pétala.<n/>Saiba que talvez você precise desequipar algumas pétalas para ter o suficiente para tentar combina-las.<n/>Você precisa de 5 da mesma pétala.<n/><n/>Não se preocupe, garantimos essa tentativa.
 
 Achievements/9/Name=Tutorial
 Achievements/9/Description=Complete o tutorial.
 
-Achievements/10/Name=Construidor
-Achievements/10/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/10/Name=Combinador
+Achievements/10/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
 
-Achievements/11/Name=Construidor
-Achievements/11/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/11/Name=Combinador
+Achievements/11/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
 
-Achievements/12/Name=Construidor
-Achievements/12/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/12/Name=Combinador
+Achievements/12/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
 
-Achievements/13/Name=Construidor
-Achievements/13/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/13/Name=Combinador
+Achievements/13/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
 
-Achievements/14/Name=Construidor
-Achievements/14/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/14/Name=Combinador
+Achievements/14/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
 
-Achievements/15/Name=Construidor
-Achievements/15/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/15/Name=Combinador
+Achievements/15/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
 
-Achievements/16/Name=Construidor
-Achievements/16/Description=Construa uma pétala {#Rarities/{0}/Female/Name}.
+Achievements/16/Name=Combinador
+Achievements/16/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
 
 Achievements/17/Name=Prêmio de consolação
-Achievements/17/Description=Falhe em construir e perca {0} pétalas
+Achievements/17/Description=Falhe em combinar e perca {0} pétalas
 
 Achievements/18/Name=Prêmio de consolação
-Achievements/18/Description=Falhe em construir uma pétala {#Rarities/{1}/Female/Name} e perca {0} pétalas.
+Achievements/18/Description=Falhe em combinar uma pétala {#Rarities/{1}/Female/Name} e perca {0} pétalas.
 
 Achievements/19/Name=Prêmio de consolação
-Achievements/19/Description=Falhe em construir uma pétala {#Rarities/{1}/Female/Name} e perca {0} pétalas.
+Achievements/19/Description=Falhe em combinar uma pétala {#Rarities/{1}/Female/Name} e perca {0} pétalas.
 
 Achievements/20/Name=Escavador
 Achievements/20/Description=Equipe a pétala {#Petals/cutter/Name}.
@@ -92,11 +92,11 @@ Achievements/26/Description=Chegue no nível {0}.
 Achievements/27/Name=Crescendo
 Achievements/27/Description=Chegue no nível {0}.
 
-Achievements/28/Name=Wasteful Crafting
+Achievements/28/Name=Desperdício de pétalas
 Achievements/28/Description=Destrua {0:tooltip} pétalas em tentativas.
 
-Achievements/29/Name=Construidor de volume grande
-Achievements/29/Description=Construa {0:tooltip} pétalas.
+Achievements/29/Name=Combinador de volume grande
+Achievements/29/Description=Combine {0:tooltip} pétalas.
 
 Achievements/30/Name=Deserto
 Achievements/30/Description=Visite o deserto
@@ -309,10 +309,10 @@ Achievements/99/Name=Inútil
 Achievements/99/Description=Receba créditos por matar um inseto {#Rarities/{0}/Male/Name} sem causar nenhum dano a ele.
 
 Achievements/100/Name=O Sortudo
-Achievements/100/Description=Construa com sucesso {0} pétalas seguidas.
+Achievements/100/Description=Combine com sucesso {0} pétalas seguidas.
 
 Achievements/101/Name=O Azarado
-Achievements/101/Description=Falhe em construir {0} pétalas seguidas.
+Achievements/101/Description=Falhe de combinar {0} pétalas seguidas.
 
 Achievements/102/Name=Papel
 Achievements/102/Description=Morra para um dano maior que sua vida máxima.
@@ -417,10 +417,10 @@ Achievements/135/Name=Grande apostador
 Achievements/135/Description=Insira uma {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name} no Plinko.
 
 Achievements/136/Name=Aquele que tudo vê
-Achievements/136/Description=Construa uma pétala utilizando o oráculo.
+Achievements/136/Description=Combine uma pétala utilizando o Oráculo.
 
 Achievements/137/Name=Foi o destino
-Achievements/137/Description=Construa uma pétala {#Rarities/{0}/Female/Name} utilizando o oráculo.
+Achievements/137/Description=Combine uma pétala {#Rarities/{0}/Female/Name} utilizando o Oráculo.
 
 Achievements/138/Name=Mágico
 Achievements/138/Description=Equipe uma {#Petals/{0}/Name}.
