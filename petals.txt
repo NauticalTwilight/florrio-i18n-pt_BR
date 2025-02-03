@@ -381,7 +381,7 @@ Petals/card/Description=Uma carta de baralho. Provavelmente marcada.
 Petals/card/Gender=Female
 
 Petals/moon/Name=Lua
-Petals/moon/FullName=Pedra Lunar
+Petals/moon/FullName=Rocha da lua
 Petals/moon/Description=Essa coisa é tão grande que suas pétalas orbitam ela.<n/>Onde você encontrou isso?
 Petals/moon/Gender=Female
 

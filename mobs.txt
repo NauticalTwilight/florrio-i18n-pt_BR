@@ -230,7 +230,7 @@ Mobs/beetle_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo.
 Mobs/beetle_hel/Gender=Male
 
 Mobs/wasp/Name=Vespão
-Mobs/wasp/Description=Elas estão com RAIVA.
+Mobs/wasp/Description=Eles estão com RAIVA.
 Mobs/wasp/Gender=Male
 
 Mobs/dummy/Name=Boneco de teste
@@ -255,7 +255,7 @@ Mobs/centipede_hel_body/Gender=Female
 Mobs/wasp_hel/Name=Vespão
 Mobs/wasp_hel/Description=Flagelo que surge no outro mundo.
 Mobs/wasp_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
-Mobs/wasp_hel/Gender=Male
+Mobs/wasp_hel/Gender=Female
 
 Mobs/trader/Name=Mercante
 Mobs/trader/Gender=Male

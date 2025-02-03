@@ -299,7 +299,7 @@ Achievements/95/Description=Destrua {0} Joaninhas Brilhantes em {1:time}.
 Achievements/96/Name=Caçador de Super
 Achievements/96/Description=Destrua {0} insetos {#Rarities/{1}/Male/NamePlural} .
 
-Achievements/97/Name=Sacrifice
+Achievements/97/Name=Sacrifício
 Achievements/97/Description=Morra em {0:time} de reviver alguém.
 
 Achievements/98/Name=Inútil
