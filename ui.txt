@@ -156,7 +156,7 @@ UI/Banned/Account=Conta: {0}
 UI/DailyChallenge/Title=Desafio
 UI/DailyChallenge/Button=Desafio
 UI/DailyChallenge/Instructions=Derrote esses inimigos:
-UI/DailyChallenge/TimeLeft=Os desafios vão mudar em {0:time:left}
+UI/DailyChallenge/TimeLeft=Os desafios vão mudar {0:time:left}
 UI/DailyChallenge/Claimed=Adquirido
 UI/DailyChallenge/SupportersOnly=Desafio para pessoas<n/>que compraram estrelas.
 
