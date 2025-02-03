@@ -12,7 +12,7 @@ Achievements/2/ExtraDescription=Continue destruindo os inimigos até que dropem 
 
 Achievements/3/Name=Tutorial
 Achievements/3/Description=Equipe uma pétala
-Achievements/3/ExtraDescription=Se você tiver espaço no seus slots é você coletar uma pétala, ela vai parar em seu slot, caso não tenha espaço, ela irá para seu Inventário.<n/>Clique na pétala que você coletou para equipá-la  (ou use o numero de tecla de atalho).
+Achievements/3/ExtraDescription=Se você tiver espaço no seus slots é você coletar uma pétala, ela vai parar em seu slot, caso não tenha espaço, ela irá para seu Inventário.<n/>Clique na pétala que você coletou para equipá-la (ou use o numero de tecla de atalho).
 
 # Desativado.
 Achievements/4/Name=Tutorial
@@ -294,7 +294,7 @@ Achievements/94/Name=Rolando na massa
 Achievements/94/Description=Obtenha {0} drops em {1:time}.
 
 Achievements/95/Name=Caçador de brilhos
-Achievements/95/Description=Destrua {0} Joaninhas Brilhantes em  {1:time}.
+Achievements/95/Description=Destrua {0} Joaninhas Brilhantes em {1:time}.
 
 Achievements/96/Name=Caçador de Super
 Achievements/96/Description=Destrua {0} insetos {#Rarities/{1}/Male/NamePlural} .
