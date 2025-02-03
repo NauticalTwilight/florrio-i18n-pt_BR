@@ -58,8 +58,8 @@ Petal/Attribute/Contents1=<c val="{#Colors/generic}">Invoca:</c> {#Mobs/{1:base}
 Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Invoca:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
 Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">Visão extra:</c> {0:perc}%
 Petal/Attribute/Radius=<c val="{#Colors/generic}">Alcançe:</c> {0:tooltip}
-Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">Raridade máxima de inseto:</c> {#Rarities/{0}/NameColored}
-Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">Reflexão de dano:</c> {0:perc}% (vs {#Rarities/{2}/NameColored} mobs), {1:perc}% (vs flowers)
+Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">Raridade máxima do inseto:</c> {#Rarities/{0}/Male/NameColored}
+Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">Reflexão de dano:</c> {0:perc}% (vs inseto {#Rarities/{2}/Male/NameColored}), {1:perc}% (vs flor)
 Petal/Attribute/PickUpRange=<c val="{#Colors/generic}">Alcance de coleta:</c> +{0:tooltip}
 Petal/Attribute/Lightning=<c val="{#Colors/lightning}">Eletricidade:</c> {0:tooltip}
 Petal/Attribute/Bounces=<c val="{#Colors/generic}">Saltos:</c> {0:tooltip}
