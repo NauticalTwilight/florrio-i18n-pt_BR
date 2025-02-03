@@ -34,7 +34,7 @@ Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0} Foi derrotada por {2}, {3}, {4} 
 Chat/Revived=Você foi revivido(a) por {0}.
 Chat/Marked=Você foi Amaldiçoado(a) por {0}.
 
-Chat/Muted=Você não pode usar o bate-papo agora devido à suas mensagens antigas.{0:time:left}.
+Chat/Muted=Você não pode usar o bate-papo agora devido à suas mensagens antigas.em {0:time}.
 Chat/Spam=Você está fazendo muito isso. 
 Chat/Alone=Ninguém está por perto para lhe ouvir.
 Chat/Banned=No momento você está banido, então você não poderá jogar.
@@ -46,7 +46,7 @@ Chat/GuildChannelDisabled=Você tem o bate-papo da clã desativado.
 Chat/GuestTooChatty=Desculpe, contas de convidados não tem muitos privilégios de chat até o nível {0}.
 Chat/PlayerReported=Jogador reportado.
 Chat/PlayerBlocked={0} Foi bloqueado.
-Chat/ServerClosing=O servidor está agendado para fechar em {0:time:left}.
+Chat/ServerClosing=O servidor está agendado para fechar em em {0:time}.
 Chat/ServerClosed=O servidor está fechado, hora de sair.
 Chat/ServerNoLongerClosing=O servidor não está mais agendado para fechar.
 

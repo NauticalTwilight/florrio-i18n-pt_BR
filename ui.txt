@@ -125,7 +125,7 @@ UI/Squad/Error/Full=O time está cheio
 UI/Shop/Title=Loja
 UI/Shop/Button=Loja
 UI/Shop/Instructions=Oferta de hoje:
-UI/Shop/TimeLeft=A loja vai mudar {0:time:left}
+UI/Shop/TimeLeft=A loja vai mudar em {0:time}
 UI/Shop/Lock=Travar
 UI/Shop/LockedChanged=A loja vai mudar quando ser destravada
 UI/Shop/LockedNoChange=A loja não vai mudar enquanto travada
@@ -149,14 +149,14 @@ UI/Shop/Price/USD=US${0}
 
 UI/Banned/Title=BANIDO
 UI/Banned/Instructions=Sua conta foi banida.
-UI/Banned/TimeLeft=Esse ban vai expirar {0:time:left}.
+UI/Banned/TimeLeft=Esse ban vai expirar em {0:time}.
 UI/Banned/Permanent=Esse ban é permanente.
 UI/Banned/Account=Conta: {0}
 
 UI/DailyChallenge/Title=Desafio
 UI/DailyChallenge/Button=Desafio
 UI/DailyChallenge/Instructions=Derrote esses inimigos:
-UI/DailyChallenge/TimeLeft=Os desafios vão mudar {0:time:left}
+UI/DailyChallenge/TimeLeft=Os desafios vão mudar em {0:time}
 UI/DailyChallenge/Claimed=Adquirido
 UI/DailyChallenge/SupportersOnly=Desafio para pessoas<n/>que compraram estrelas.
 
@@ -203,12 +203,12 @@ UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="{#Colors/danger}">WAR
 UI/CoinCraft/Title=Trocar
 UI/CoinCraft/Button=Trocar
 UI/CoinCraft/Instructions=Você pode trocar uma pétala por uma moeda da mesma raridade
-UI/CoinCraft/Delay=Você pode trocar novamente em {0:time:left}
+UI/CoinCraft/Delay=Você pode trocar novamente em em {0:time}
 
 UI/OracleCraft/Title=Oráculo
 UI/OracleCraft/Button=Combinar
 UI/OracleCraft/Instructions=O Oráculo vai garantir uma combinação... por um preço justo
-UI/OracleCraft/Delay=Você pode combinar novamente em {0:time:left}
+UI/OracleCraft/Delay=Você pode combinar novamente em em {0:time}
 
 UI/Plinko/Title=Plinko
 UI/Plinko/Auto=Auto
