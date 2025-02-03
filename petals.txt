@@ -220,9 +220,9 @@ Petals/peas/FullName=Ervilha
 Petals/peas/Description=Elas estouram.
 Petals/peas/Gender=Female
 
-Petals/stick/Name=Graveto
-Petals/stick/FullName=Graveto Misterioso
-Petals/stick/Description=Um graveto misterioso que invoca as forças do vento.
+Petals/stick/Name=Galho
+Petals/stick/FullName=Galho Misterioso
+Petals/stick/Description=Um galho misterioso que invoca as forças do vento.
 Petals/stick/Gender=Male
 
 Petals/clover/Name=Trevo
