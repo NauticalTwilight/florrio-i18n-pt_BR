@@ -114,25 +114,25 @@ Achievements/34/Name=Esgoto
 Achievements/34/Description=Descubra até onde esse cano vai.
 
 Achievements/35/Name=Conquistador
-Achievements/35/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Male/Name} .
+Achievements/35/Description=Derrote seu primeiro inseto {#Rarities/{0}/Male/Name} .
 
 Achievements/36/Name=Conquistador
-Achievements/36/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Male/Name} .
+Achievements/36/Description=Derrote seu primeiro inseto {#Rarities/{0}/Male/Name} .
 
 Achievements/37/Name=Conquistador
-Achievements/37/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Male/Name} .
+Achievements/37/Description=Derrote seu primeiro inseto {#Rarities/{0}/Male/Name} .
 
 Achievements/38/Name=Conquistador
-Achievements/38/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Male/Name} .
+Achievements/38/Description=Derrote seu primeiro inseto {#Rarities/{0}/Male/Name} .
 
 Achievements/39/Name=Conquistador
-Achievements/39/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Male/Name} .
+Achievements/39/Description=Derrote seu primeiro inseto {#Rarities/{0}/Male/Name} .
 
 Achievements/40/Name=Conquistador
-Achievements/40/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Male/Name} .
+Achievements/40/Description=Derrote seu primeiro inseto {#Rarities/{0}/Male/Name} .
 
 Achievements/41/Name=Conquistador
-Achievements/41/Description=Derrote seu primeiro Inseto {#Rarities/{0}/Male/Name} .
+Achievements/41/Description=Derrote seu primeiro inseto {#Rarities/{0}/Male/Name} .
 
 Achievements/42/Name=Ir para ONDE?
 Achievements/42/Description=Visite outro mundo.
@@ -171,16 +171,16 @@ Achievements/53/Name=Prepare-se
 Achievements/53/Description=Equipe {1} pétalas {#Rarities/{0}/Female/NamePlural}.
 
 Achievements/54/Name=Invocador
-Achievements/54/Description=Invoque um Inseto amigável.
+Achievements/54/Description=Invoque um inseto amigável.
 
 Achievements/55/Name=Invocador
-Achievements/55/Description=Invoque {0} Insetos amigáveis
+Achievements/55/Description=Invoque {0} insetos amigáveis
 
 Achievements/56/Name=Invocador
-Achievements/56/Description=Invoque {0} Insetos amigáveis
+Achievements/56/Description=Invoque {0} insetos amigáveis
 
 Achievements/57/Name=Invocador
-Achievements/57/Description=Invoque {0} Insetos amigáveis
+Achievements/57/Description=Invoque {0} insetos amigáveis
 
 Achievements/58/Name=Brilhante!
 Achievements/58/Description=Destrua uma joaninha brilhante.
@@ -198,19 +198,19 @@ Achievements/62/Name=Distribuidor de dor
 Achievements/62/Description=Cause {0:tooltip} de Dano.
 
 Achievements/63/Name=Nocaute com um golpe
-Achievements/63/Description=Destrua um Inseto {#Rarities/{0}/Male/Name} em um ataque.
+Achievements/63/Description=Destrua um inseto {#Rarities/{0}/Male/Name} em um ataque.
 
 Achievements/64/Name=Nocaute com um golpe
-Achievements/64/Description=Destrua um Inseto {#Rarities/{0}/Male/Name} em um ataque.
+Achievements/64/Description=Destrua um inseto {#Rarities/{0}/Male/Name} em um ataque.
 
 Achievements/65/Name=Nocaute com um golpe
-Achievements/65/Description=Destrua um Inseto {#Rarities/{0}/Male/Name} em um ataque.
+Achievements/65/Description=Destrua um inseto {#Rarities/{0}/Male/Name} em um ataque.
 
 Achievements/66/Name=Nocaute com um golpe
-Achievements/66/Description=Destrua um Inseto {#Rarities/{0}/Male/Name} em um ataque.
+Achievements/66/Description=Destrua um inseto {#Rarities/{0}/Male/Name} em um ataque.
 
 Achievements/67/Name=Nocaute com um golpe
-Achievements/67/Description=Destrua um Inseto {#Rarities/{0}/Male/Name} em um ataque.
+Achievements/67/Description=Destrua um inseto {#Rarities/{0}/Male/Name} em um ataque.
 
 Achievements/68/Name=Ficando bronzeado
 Achievements/68/Description=Sobreviva {0:time} no Hel.
@@ -222,7 +222,7 @@ Achievements/70/Name=Cupins...?
 Achievements/70/Description=Invoque um cupim amigável.
 
 Achievements/71/Name=Pacifista
-Achievements/71/Description=Fique {0:time} admirando a natureza sem matar um Inseto.
+Achievements/71/Description=Fique {0:time} admirando a natureza sem matar um inseto.
 
 Achievements/72/Name=Vá embora
 Achievements/72/Description=Mande uma flor para o Hel.
@@ -243,7 +243,7 @@ Achievements/77/Name=Quem tudo vê
 Achievements/77/Description=Equipe {#Petals/{0}/Name}.
 
 Achievements/78/Name=Retornar ao remetente
-Achievements/78/Description=Ataque um Inseto com {#Petals/{0}/Name}.
+Achievements/78/Description=Ataque um inseto com {#Petals/{0}/Name}.
 
 Achievements/79/Name=Destruidora de lares
 Achievements/79/Description=Destrua um {#Mobs/{1}/Name}, {#Mobs/{2}/Name} ou {#Mobs/{3}/Name}.
@@ -261,34 +261,34 @@ Achievements/83/Name=Ruim
 Achievements/83/Description=Morra {0} vezes.
 
 Achievements/84/Name=Assassino em série
-Achievements/84/Description=Destrua {0} Insetos entre {1:time} de cada.
+Achievements/84/Description=Destrua {0} insetos entre {1:time} de cada.
 
 Achievements/85/Name=Invencível
-Achievements/85/Description=Destrua {0} Insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
+Achievements/85/Description=Destrua {0} insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
 
 Achievements/86/Name=Invencível
-Achievements/86/Description=Destrua {0} Insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
+Achievements/86/Description=Destrua {0} insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
 
 Achievements/87/Name=Invencível
-Achievements/87/Description=Destrua {0} Insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
+Achievements/87/Description=Destrua {0} insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
 
 Achievements/88/Name=Invencível
-Achievements/88/Description=Destrua {0} Insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
+Achievements/88/Description=Destrua {0} insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
 
 Achievements/89/Name=Invencível
-Achievements/89/Description=Destrua {0} Insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
+Achievements/89/Description=Destrua {0} insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
 
 Achievements/90/Name=Invencível
-Achievements/90/Description=Destrua {0} Insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
+Achievements/90/Description=Destrua {0} insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
 
 Achievements/91/Name=Invencível
-Achievements/91/Description=Destrua {0} Insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
+Achievements/91/Description=Destrua {0} insetos {#Rarities/{1}/Male/NamePlural} sem morrer.
 
 Achievements/92/Name=Você é o idiota
 Achievements/92/Description=Morra para {#Mobs/{0}/Name}.
 
 Achievements/93/Name=Genocida
-Achievements/93/Description=Destrua {0} Insetos em {1:time}.
+Achievements/93/Description=Destrua {0} insetos em {1:time}.
 
 Achievements/94/Name=Rolando na massa
 Achievements/94/Description=Obtenha {0} drops em {1:time}.
@@ -297,13 +297,13 @@ Achievements/95/Name=Caçador de brilhos
 Achievements/95/Description=Destrua {0} Joaninhas Brilhantes em  {1:time}.
 
 Achievements/96/Name=Caçador de Super
-Achievements/96/Description=Destrua {0} Insetos {#Rarities/{1}/Male/NamePlural} .
+Achievements/96/Description=Destrua {0} insetos {#Rarities/{1}/Male/NamePlural} .
 
 Achievements/97/Name=Sacrifice
 Achievements/97/Description=Morra em {0:time} de reviver alguém.
 
 Achievements/98/Name=Inútil
-Achievements/98/Description=Receba créditos por matar um Inseto sem causar nenhum dano a ele.
+Achievements/98/Description=Receba créditos por matar um inseto sem causar nenhum dano a ele.
 
 Achievements/99/Name=Inútil
 Achievements/99/Description=Receba créditos por matar um inseto {#Rarities/{0}/Male/Name} sem causar nenhum dano a ele.
@@ -333,7 +333,7 @@ Achievements/107/Name=Barreira do som
 Achievements/107/Description=Mova-se mais rápido ainda.
 
 Achievements/108/Name=Biologista
-Achievements/108/Description=Destrua {0} tipos de Insetos diferentes sem morrer.
+Achievements/108/Description=Destrua {0} tipos de insetos diferentes sem morrer.
 
 Achievements/109/Name=Coletor
 Achievements/109/Description=Colete {0} tipos de pétalas diferentes sem morrer.
@@ -354,16 +354,16 @@ Achievements/114/Name=Carro de corrida
 Achievements/114/Description=Visite Jardim, Deserto, Selva, Oceano e depois volte para o Jardim em menos de {0:time}.
 
 Achievements/115/Name=Biologista
-Achievements/115/Description=Destrua {0} tipos de Insetos {#Rarities/{1}/Male/NamePlural} diferentes sem morrer.
+Achievements/115/Description=Destrua {0} tipos de insetos {#Rarities/{1}/Male/NamePlural} diferentes sem morrer.
 
 Achievements/116/Name=Ruim em todos os sentidos
-Achievements/116/Description=Morra para {0} tipos de Insetos diferentes.
+Achievements/116/Description=Morra para {0} tipos de insetos diferentes.
 
 Achievements/117/Name=Ruim em todos os sentidos
-Achievements/117/Description=Morra para {0} tipos de Insetos diferentes.
+Achievements/117/Description=Morra para {0} tipos de insetos diferentes.
 
 Achievements/118/Name=Ruim em todos os sentidos
-Achievements/118/Description=Morra para {0} tipos de Insetos diferentes.
+Achievements/118/Description=Morra para {0} tipos de insetos diferentes.
 
 Achievements/119/Name=Tocado
 Achievements/119/Description=Toque no desenvolvedor.
@@ -381,22 +381,22 @@ Achievements/123/Name=Advogado do Diabo
 Achievements/123/Description=Enquanto estiver no Hel, mate {0} flores sem morrer.
 
 Achievements/124/Name=Odiador
-Achievements/124/Description=Destrua {0} Insetos de um tipo seguidos sem morrer.
+Achievements/124/Description=Destrua {0} insetos de um tipo seguidos sem morrer.
 
 Achievements/125/Name=Odiador
-Achievements/125/Description=Destrua {0} Insetos de um tipo seguidos sem morrer.
+Achievements/125/Description=Destrua {0} insetos de um tipo seguidos sem morrer.
 
 Achievements/126/Name=Odiador
-Achievements/126/Description=Destrua {0} Insetos de um tipo seguidos sem morrer.
+Achievements/126/Description=Destrua {0} insetos de um tipo seguidos sem morrer.
 
 Achievements/127/Name=Odiador
-Achievements/127/Description=Destrua {0} Insetos de um tipo seguidos sem morrer.
+Achievements/127/Description=Destrua {0} insetos de um tipo seguidos sem morrer.
 
 Achievements/128/Name=Vingança
-Achievements/128/Description=Mate o Inseto que te matou.
+Achievements/128/Description=Mate o inseto que te matou.
 
 Achievements/129/Name=Vingança
-Achievements/129/Description=Mate o Inseto que te matou em {0:time} desde sua morte.
+Achievements/129/Description=Mate o inseto que te matou em {0:time} desde sua morte.
 
 Achievements/130/Name=Troca
 Achievements/130/Description=Adquira uma {#Petals/{0:base}/Name} fazendo uma troca.
