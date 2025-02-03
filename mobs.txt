@@ -51,7 +51,7 @@ Mobs/centipede/Name=Centopeia
 Mobs/centipede/Description=Está apenas ali fazendo suas coisas.
 Mobs/centipede/Gender=Female
 
-Mobs/centipede_body/Name=Centopéia
+Mobs/centipede_body/Name=Centopeia
 Mobs/centipede_body/Description=Está apenas ali fazendo suas coisas.
 Mobs/centipede_body/Gender=Female
 
