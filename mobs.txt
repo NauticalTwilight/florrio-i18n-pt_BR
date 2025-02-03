@@ -231,7 +231,7 @@ Mobs/beetle_hel/Gender=Male
 
 Mobs/wasp/Name=Vespão
 Mobs/wasp/Description=Elas estão com RAIVA.
-Mobs/wasp/Gender=Female
+Mobs/wasp/Gender=Male
 
 Mobs/dummy/Name=Boneco de teste
 Mobs/dummy/Description=Como você tem essa galeria?
