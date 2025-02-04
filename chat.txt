@@ -34,7 +34,7 @@ Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0} Foi derrotada por {2}, {3}, {4} 
 Chat/Revived=Você foi revivido(a) por {0}.
 Chat/Marked=Você foi Amaldiçoado(a) por {0}.
 
-Chat/Muted=Você não pode usar o bate-papo agora devido à suas mensagens antigas.em {0:time}.
+Chat/Muted=Você não pode usar o chat agora devido à suas mensagens antigas. Você vai poder usar o chat em {0:time}.
 Chat/Spam=Você está fazendo muito isso. 
 Chat/Alone=Ninguém está por perto para lhe ouvir.
 Chat/Banned=No momento você está banido, então você não poderá jogar.
