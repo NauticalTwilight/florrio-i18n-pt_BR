@@ -381,16 +381,16 @@ Achievements/123/Name=Advogado do Diabo
 Achievements/123/Description=Enquanto estiver no Hel, mate {0} flores sem morrer.
 
 Achievements/124/Name=Odiador
-Achievements/124/Description=Destrua {0} bichos de um tipo seguidos sem morrer.
+Achievements/124/Description=Destrua {0} bichos do mesmo tipo seguidos sem morrer.
 
 Achievements/125/Name=Odiador
-Achievements/125/Description=Destrua {0} bichos de um tipo seguidos sem morrer.
+Achievements/125/Description=Destrua {0} bichos do mesmo tipo seguidos sem morrer.
 
 Achievements/126/Name=Odiador
-Achievements/126/Description=Destrua {0} bichos de um tipo seguidos sem morrer.
+Achievements/126/Description=Destrua {0} bichos do mesmo tipo seguidos sem morrer.
 
 Achievements/127/Name=Odiador
-Achievements/127/Description=Destrua {0} bichos de um tipo seguidos sem morrer.
+Achievements/127/Description=Destrua {0} bichos do mesmo tipo seguidos sem morrer.
 
 Achievements/128/Name=Vingança
 Achievements/128/Description=Mate o bicho que te matou.
