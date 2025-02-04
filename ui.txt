@@ -69,7 +69,7 @@ UI/Chat/Player/InviteToGuild=Convidar pro Clã
 UI/Flower/Level=NVL {0}
 
 # When you evade damage
-UI/Damage/Evade=Evadido
+UI/Damage/Evade=Desviado
 
 # When the target evades damage
 UI/Damage/Miss=Errou
