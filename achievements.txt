@@ -216,7 +216,7 @@ Achievements/68/Name=Ficando bronzeado
 Achievements/68/Description=Sobreviva {0:time} no Hel.
 
 Achievements/69/Name=Falta de habilidade
-Achievements/69/Description=Encontre a flor dev morta.
+Achievements/69/Description=Encontre a flor do desenvolvedor morta.
 
 Achievements/70/Name=Cupins...?
 Achievements/70/Description=Invoque um cupim amigável.
