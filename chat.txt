@@ -24,12 +24,19 @@ Chat/MobSpawnedSomewhere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
 Chat/MobSpawnedHere/Text={#Mobs/AnnouncementPrefix:0} apareceu!
 Chat/MobSpawnedSomewhere/Text={#Mobs/AnnouncementPrefix:0} apareceu em algum lugar!
 
-Chat/MobDefeated={#Chat/MobDefeated/{1}}
-Chat/MobDefeated/0={#Mobs/AnnouncementPrefix:0} Foi derrotada!
-Chat/MobDefeated/1={#Mobs/AnnouncementPrefix:0} Foi derrotada por {2}!
-Chat/MobDefeated/2={#Mobs/AnnouncementPrefix:0} Foi derrotada por {2} e {3}!
-Chat/MobDefeated/3={#Mobs/AnnouncementPrefix:0} Foi derrotada por {2}, {3} e {4}!
-Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0} Foi derrotada por {2}, {3}, {4} e {5}!
+Chat/MobDefeated={#Chat/MobDefeated/{#Mobs/{0:base}/Gender}/{1}}
+
+Chat/MobDefeated/Male/0={#Mobs/AnnouncementPrefix:0} foi derrotado!
+Chat/MobDefeated/Male/1={#Mobs/AnnouncementPrefix:0} foi derrotado por {2}!
+Chat/MobDefeated/Male/2={#Mobs/AnnouncementPrefix:0} foi derrotado por {2} e {3}!
+Chat/MobDefeated/Male/3={#Mobs/AnnouncementPrefix:0} foi derrotado por {2}, {3} e {4}!
+Chat/MobDefeated/Male/4={#Mobs/AnnouncementPrefix:0} foi derrotado por {2}, {3}, {4} e {5}!
+
+Chat/MobDefeated/Female/0={#Mobs/AnnouncementPrefix:0} foi derrotada!
+Chat/MobDefeated/Female/1={#Mobs/AnnouncementPrefix:0} foi derrotada por {2}!
+Chat/MobDefeated/Female/2={#Mobs/AnnouncementPrefix:0} foi derrotada por {2} e {3}!
+Chat/MobDefeated/Female/3={#Mobs/AnnouncementPrefix:0} foi derrotada por {2}, {3} e {4}!
+Chat/MobDefeated/Female/4={#Mobs/AnnouncementPrefix:0} foi derrotada por {2}, {3}, {4} e {5}!
 
 Chat/Revived=Você foi revivido(a) por {0}.
 Chat/Marked=Você foi Amaldiçoado(a) por {0}.
