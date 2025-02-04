@@ -114,25 +114,25 @@ Achievements/34/Name=Esgoto
 Achievements/34/Description=Descubra até onde esse cano vai.
 
 Achievements/35/Name=Conquistador
-Achievements/35/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name} .
+Achievements/35/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
 
 Achievements/36/Name=Conquistador
-Achievements/36/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name} .
+Achievements/36/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
 
 Achievements/37/Name=Conquistador
-Achievements/37/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name} .
+Achievements/37/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
 
 Achievements/38/Name=Conquistador
-Achievements/38/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name} .
+Achievements/38/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
 
 Achievements/39/Name=Conquistador
-Achievements/39/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name} .
+Achievements/39/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
 
 Achievements/40/Name=Conquistador
-Achievements/40/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name} .
+Achievements/40/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
 
 Achievements/41/Name=Conquistador
-Achievements/41/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name} .
+Achievements/41/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
 
 Achievements/42/Name=Ir para ONDE?
 Achievements/42/Description=Visite outro mundo.
@@ -297,7 +297,7 @@ Achievements/95/Name=Caçador de brilhos
 Achievements/95/Description=Destrua {0} Joaninhas Brilhantes em {1:time}.
 
 Achievements/96/Name=Caçador de Super
-Achievements/96/Description=Destrua {0} bichos {#Rarities/{1}/Male/NamePlural} .
+Achievements/96/Description=Destrua {0} bichos {#Rarities/{1}/Male/NamePlural}.
 
 Achievements/97/Name=Sacrifício
 Achievements/97/Description=Morra em {0:time} de reviver alguém.
