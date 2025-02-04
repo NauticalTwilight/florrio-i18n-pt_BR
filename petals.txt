@@ -102,7 +102,7 @@ Petals/web/Gender=Female
 
 Petals/honey/Name=Mel
 Petals/honey/FullName=Mel
-Petals/honey/Description=insetos amam isso. Atraem os em uma grande área.<n/>insetos vão priorizar isso do que flores.<n/>Unidades afetadas desenvolvem imunidade a seus efeitos após um tempo.
+Petals/honey/Description=bichos amam isso. Atraem os em uma grande área.<n/>bichos vão priorizar isso do que flores.<n/>Unidades afetadas desenvolvem imunidade a seus efeitos após um tempo.
 Petals/honey/Gender=Male
 
 Petals/leaf/Name=Folha
@@ -232,7 +232,7 @@ Petals/clover/Gender=Male
 
 Petals/powder/Name=Pó
 Petals/powder/FullName=Pó Misterioso
-Petals/powder/Description=Aumenta a velocidade de movimento. Desativa após a flor receber dano ou caso esteja próxima a um inseto de raridade expecífica.
+Petals/powder/Description=Aumenta a velocidade de movimento. Desativa após a flor receber dano ou caso esteja próxima a um bicho de raridade expecífica.
 Petals/powder/Gender=Male
 
 Petals/air/Name=Ar
@@ -257,7 +257,7 @@ Petals/ant_egg/Gender=Male
 
 Petals/poo/Name=Cocô
 Petals/poo/FullName=Cocô
-Petals/poo/Description=faz os insetos terem menos vontade de atacar você.
+Petals/poo/Description=faz os bichos terem menos vontade de atacar você.
 Petals/poo/Gender=Male
 
 Petals/relic/Name=Relíquia
@@ -272,7 +272,7 @@ Petals/lotus/Gender=Female
 
 Petals/bulb/Name=Lâmpada
 Petals/bulb/FullName=Lâmpada elétrica
-Petals/bulb/Description=Uma lâmpada brilhante. Chama a atenção de insetos.
+Petals/bulb/Description=Uma lâmpada brilhante. Chama a atenção de bichos.
 Petals/bulb/Gender=Female
 
 Petals/cotton/Name=Algodão
@@ -357,7 +357,7 @@ Petals/compass/Gender=Female
 
 Petals/disc/Name=Disco
 Petals/disc/FullName=Disco
-Petals/disc/Description=Reduz o dano recebido por colisão entre flores e insetos.
+Petals/disc/Description=Reduz o dano recebido por colisão entre flores e bichos.
 Petals/disc/Gender=Male
 
 Petals/shovel/Name=Pá

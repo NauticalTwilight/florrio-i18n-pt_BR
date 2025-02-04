@@ -58,8 +58,8 @@ Petal/Attribute/Contents1=<c val="{#Colors/generic}">Invoca:</c> {#Mobs/{1:base}
 Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Invoca:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/{#Mobs/{1:base}/Gender}/NameColored})
 Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">Visão extra:</c> {0:perc}%
 Petal/Attribute/Radius=<c val="{#Colors/generic}">Alcançe:</c> {0:tooltip}
-Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">Raridade máxima do inseto:</c> {#Rarities/{0}/Male/NameColored}
-Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">Reflexão de dano:</c> {0:perc}% (vs inseto {#Rarities/{2}/Male/NameColored}), {1:perc}% (vs flor)
+Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">Raridade máxima do bicho:</c> {#Rarities/{0}/Male/NameColored}
+Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">Reflexão de dano:</c> {0:perc}% (vs bicho {#Rarities/{2}/Male/NameColored}), {1:perc}% (vs flor)
 Petal/Attribute/PickUpRange=<c val="{#Colors/generic}">Alcance de coleta:</c> +{0:tooltip}
 Petal/Attribute/Lightning=<c val="{#Colors/lightning}">Eletricidade:</c> {0:tooltip}
 Petal/Attribute/Bounces=<c val="{#Colors/generic}">Saltos:</c> {0:tooltip}
@@ -86,7 +86,7 @@ Petal/Attribute/FlowerEvasion=<c val="{#Colors/generic}">Evasão da flor:</c> +{
 Petal/Attribute/Charges=<c val="{#Colors/generic}">Cargas:</c> {0:tooltip}
 Petal/Attribute/OverhealConversion=<c val="{#Colors/generic}">Conversão de cura:</c> +{0:perc}%
 Petal/Attribute/AffectedByMagnets=<c val="{#Colors/generic}">Afetado por ímãs</c>
-Petal/Attribute/CanFindSquares=<c val="{#Colors/generic}">Pode encontrar insetos que não pertencem</c>
+Petal/Attribute/CanFindSquares=<c val="{#Colors/generic}">Pode encontrar bichos que não pertencem</c>
 Petal/Attribute/CollisionDamageResistance=<c val="{#Colors/generic}">Resistencia a dano por colisão:</c> +{0:perc}%
 Petal/Attribute/Evasion=<c val="{#Colors/generic}">Evasão:</c> {0:perc}%
 Petal/Attribute/Health4=<c val="{#Colors/health}">Vida</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
