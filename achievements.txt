@@ -60,13 +60,13 @@ Achievements/16/Name=Combinador
 Achievements/16/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
 
 Achievements/17/Name=Prêmio de consolação
-Achievements/17/Description=Falhe em combinar e perca {0} pétalas
+Achievements/17/Description=Falhe uma combinação e perca {0} pétalas
 
 Achievements/18/Name=Prêmio de consolação
-Achievements/18/Description=Falhe em combinar uma pétala {#Rarities/{1}/Female/Name} e perca {0} pétalas.
+Achievements/18/Description=Falhe uma combinação uma pétala {#Rarities/{1}/Female/Name} e perca {0} pétalas.
 
 Achievements/19/Name=Prêmio de consolação
-Achievements/19/Description=Falhe em combinar uma pétala {#Rarities/{1}/Female/Name} e perca {0} pétalas.
+Achievements/19/Description=Falhe uma combinação uma pétala {#Rarities/{1}/Female/Name} e perca {0} pétalas.
 
 Achievements/20/Name=Escavador
 Achievements/20/Description=Equipe a pétala {#Petals/cutter/Name}.
