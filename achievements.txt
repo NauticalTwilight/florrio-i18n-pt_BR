@@ -174,16 +174,16 @@ Achievements/54/Name=Invocador
 Achievements/54/Description=Invoque um bicho amigável.
 
 Achievements/55/Name=Invocador
-Achievements/55/Description=Invoque {0} bichos amigáveis
+Achievements/55/Description=Invoque {0} bichos amigáveis.
 
 Achievements/56/Name=Invocador
-Achievements/56/Description=Invoque {0} bichos amigáveis
+Achievements/56/Description=Invoque {0} bichos amigáveis.
 
 Achievements/57/Name=Invocador
-Achievements/57/Description=Invoque {0} bichos amigáveis
+Achievements/57/Description=Invoque {0} bichos amigáveis.
 
 Achievements/58/Name=Brilhante!
-Achievements/58/Description=Destrua uma joaninha brilhante.
+Achievements/58/Description=Destrua uma Joaninha brilhante.
 
 Achievements/59/Name=Jogo Errado
 Achievements/59/Description=Destrua um Quadrado
