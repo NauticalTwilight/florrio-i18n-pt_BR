@@ -69,10 +69,10 @@ UI/Chat/Player/InviteToGuild=Convidar pro Clã
 UI/Flower/Level=NVL {0}
 
 # When you evade damage
-UI/Damage/Evade=Evade
+UI/Damage/Evade=Evadido
 
 # When the target evades damage
-UI/Damage/Miss=Miss
+UI/Damage/Miss=Errou
 
 UI/Death/Title=Você foi destruído por:
 UI/Death/NoSource=Uma entidade misteriosa
