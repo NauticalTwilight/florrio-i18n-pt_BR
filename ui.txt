@@ -84,7 +84,7 @@ UI/AFKCheck/Title=Verificação AFK
 UI/AFKCheck/Instructions=Arraste o círculo até o final
 
 UI/Achievements/Title=Conquistas
-UI/Achievements/Reward=Recompensas
+UI/Achievements/Reward=Recompensa
 UI/Achievements/RewardTP={0} TP
 UI/Achievements/Done=Pronto
 UI/Achievements/Track=Seguir
