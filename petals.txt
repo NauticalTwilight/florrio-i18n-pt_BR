@@ -28,12 +28,12 @@ Petals/rose/Gender=Female
 Petals/stinger/Name=Ferrão
 Petals/stinger/FullName=Ferrão
 Petals/stinger/Description=Dói muito, mas é bem frágil.
-Petals/mark/Gender=Male
+Petals/stinger/Gender=Male
 
 Petals/iris/Name=Íris
 Petals/iris/FullName=Íris
 Petals/iris/Description=Muito venenoso, mas leva um tempo para fazer o seu trabalho.<n/>-50% dano contra outras flores.
-Petals/mark/Gender=Female
+Petals/iris/Gender=Female
 
 Petals/wing/Name=Asa
 Petals/wing/FullName=Asa
@@ -48,7 +48,7 @@ Petals/missile/Gender=Male
 Petals/grapes/Name=Uvas
 Petals/grapes/FullName=Uvas
 Petals/grapes/Description=Elas estouram, só que agora, com um ingrediente secreto, veneno.
-Petals/mark/Gender=Female
+Petals/grapes/Gender=Female
 
 Petals/cactus/Name=Cacto
 Petals/cactus/FullName=Cacto

@@ -50,8 +50,8 @@ Rarities/ultra/Male/Name=Fantástico
 Rarities/ultra/Male/NamePlural=Fantásticos
 Rarities/ultra/Male/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Male/Name}</c>
 
-Rarities/ultra/Female/Name=Fantástico
-Rarities/ultra/Female/NamePlural=Fantásticos
+Rarities/ultra/Female/Name=Fantástica
+Rarities/ultra/Female/NamePlural=Fantásticas
 Rarities/ultra/Female/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Female/Name}</c>
 
 Rarities/super/Male/Name=Supremo
