@@ -71,8 +71,8 @@ Chat/Channel/WhisperTo=@{0}
 Chat/Channel/Map=Mapa
 Chat/Channel/Global=Global
 
-Chat/Guild/PlayerJoined={0} Entrou no clã.
-Chat/Guild/PlayerLeft={0} Saiu do clã.
+Chat/Guild/PlayerJoined={0} entrou no clã.
+Chat/Guild/PlayerLeft={0} saiu do clã.
 Chat/Guild/NewLeader={0} é o novo líder do clã!
 Chat/Guild/Invited=Você foi convidado para entrar no clã "{0}". Abra o menu do clã para aceitar.
 Chat/Guild/Created=Clã criado.
@@ -188,7 +188,7 @@ Chat/Oracle/Prediction/2=Eu estava esperando por esse momento...
 
 # Target dummy says these 4 lines 1 second apart after getting damaged a lot
 Chat/TargetDummy/Damaged/1=Ai
-Chat/TargetDummy/Damaged/2=quero dizer
+Chat/TargetDummy/Damaged/2=Quero dizer
 Chat/TargetDummy/Damaged/3=Beep boop
 Chat/TargetDummy/Damaged/4=Sou um robô
 
