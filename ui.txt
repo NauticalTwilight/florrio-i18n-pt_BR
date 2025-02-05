@@ -269,6 +269,8 @@ UI/Settings/KeyboardMovement=Movimento usando teclado
 
 UI/Settings/MovementHelper=Indicador de movimento
 
+UI/Settings/AutoSearchPetals=Procurar pétalas quando abrir inventário
+
 UI/Settings/FixedJoystick=Joystick fixo
 
 UI/Settings/AutoSaveLoadout=Salvar loadouts automaticamente
