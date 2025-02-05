@@ -212,7 +212,7 @@ Mobs/bush/Description=Não me subestime.
 Mobs/bush/Gender=Male
 
 Mobs/roach/Name=Barata
-Mobs/roach/Description=Seja rápido, até ficar cansado.
+Mobs/roach/Description=RÁPIDA... até ficar cansada.
 Mobs/roach/Gender=Female
 
 Mobs/moth/Name=Mariposa
@@ -220,7 +220,7 @@ Mobs/moth/Description=Facilmente se assusta, seja gentil.
 Mobs/moth/Gender=Female
 
 Mobs/firefly/Name=Vagalume
-Mobs/firefly/Description=Ooooh Brilhante.
+Mobs/firefly/Description=Óóóóóóó brilhante.
 Mobs/firefly/Spawn=Tem uma luz brilhante vindo do horizonte...
 Mobs/firefly/Gender=Male
 
