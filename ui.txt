@@ -66,7 +66,7 @@ UI/Chat/Player/Whisper=Sussurir
 UI/Chat/Player/InviteToSquad=Convidar pro Time
 UI/Chat/Player/InviteToGuild=Convidar pro Clã
 
-UI/Flower/Level=NVL {0}
+UI/Flower/Level=Nvl {0}
 
 # When you evade damage
 UI/Damage/Evade=Desviado
