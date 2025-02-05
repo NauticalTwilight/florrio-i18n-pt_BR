@@ -66,8 +66,8 @@ Chat/Squad/MemberLeft={0} saiu do time.
 Chat/Channel/Local=Local
 Chat/Channel/Squad=Time
 Chat/Channel/Guild=Clã
-Chat/Channel/Whisper=Sussurros
-Chat/Channel/Sussurrando para=@{0}
+Chat/Channel/Whisper=Sussurro
+Chat/Channel/WhisperTo=@{0}
 Chat/Channel/Map=Mapa
 Chat/Channel/Global=Global
 
