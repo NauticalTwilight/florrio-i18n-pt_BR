@@ -271,7 +271,7 @@ Petals/lotus/Description=Absorve dano venenoso recebido pela flor.
 Petals/lotus/Gender=Female
 
 Petals/bulb/Name=Lâmpada
-Petals/bulb/FullName=Lâmpada elétrica
+Petals/bulb/FullName=Lâmpada Elétrica
 Petals/bulb/Description=Uma lâmpada brilhante. Chama a atenção de bichos.
 Petals/bulb/Gender=Female
 
@@ -311,7 +311,7 @@ Petals/rubber/Description=Aumenta a repulsão recebida. Também absorve dano de 
 Petals/rubber/Gender=Female
 
 Petals/blood_stinger/Name=Ferrão
-Petals/blood_stinger/FullName=Ferrão de sangue
+Petals/blood_stinger/FullName=Ferrão de Sangue
 Petals/blood_stinger/Description=Dói muito, mas é bem frágil.<n/>Causa dano ao usuário quando carregada
 Petals/blood_stinger/Gender=Male
 
@@ -325,8 +325,8 @@ Petals/root/FullName=Raiz
 Petals/root/Description=Fornece uma armadura adicional, mas apenas na posição defensiva
 Petals/root/Gender=Male
 
-Petals/ankh/Name=Chave
-Petals/ankh/FullName=Chave da vida
+Petals/ankh/Name=Ankh
+Petals/ankh/FullName=Ankh
 Petals/ankh/Description=Uma relíquia antiga.<n/>Quando destruída, teletransporta a flor no lugar em que ela estava.
 Petals/ankh/Gender=Female
 
@@ -336,7 +336,7 @@ Petals/dice/Description=Possui 5% de chance de causar 35x dano.<n/>As chances au
 Petals/dice/Gender=Male
 
 Petals/talisman/Name=Talismã
-Petals/talisman/FullName=Talismã da evasão
+Petals/talisman/FullName=Talismã da Evasão
 Petals/talisman/Description=Um colar que permite ao usuário antecipar ataques inimigos
 Petals/talisman/Gender=Male
 
@@ -371,7 +371,7 @@ Petals/coin/Description=O poder do capitalismo te obriga!
 Petals/coin/Gender=Female
 
 Petals/chip/Name=Ficha
-Petals/chip/FullName=Ficha de poker
+Petals/chip/FullName=Ficha de Poker
 Petals/chip/Description=APOSTE TUDO!.
 Petals/chip/Gender=Female
 
@@ -381,12 +381,12 @@ Petals/card/Description=Uma carta de baralho. Provavelmente marcada.
 Petals/card/Gender=Female
 
 Petals/moon/Name=Lua
-Petals/moon/FullName=Rocha da lua
+Petals/moon/FullName=Rocha da Lua
 Petals/moon/Description=Essa coisa é tão grande que suas pétalas orbitam ela.<n/>Onde você encontrou isso?
 Petals/moon/Gender=Female
 
 Petals/privet/Name=Alfeneiro
-Petals/privet/FullName=Baga de alfeneiro
+Petals/privet/FullName=Baga de Alfeneiro
 Petals/privet/Description=Da dano {#Attribute/PoisonNoColon} extra baseado no {#Attribute/PoisonNoColon} no dano por segundo atual.
 Petals/privet/Gender=Male
 
@@ -401,7 +401,7 @@ Petals/corruption/Description=Corrompe a alma de alguém, voltando-o contra sua 
 Petals/corruption/Gender=Female
 
 Petals/orb/Name=Esfera
-Petals/orb/FullName=Esfera de mana
+Petals/orb/FullName=Esfera de Mana
 Petals/orb/Description=Cria mana.
 Petals/orb/Gender=Female
 
