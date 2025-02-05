@@ -148,7 +148,7 @@ Mobs/dandelion/Name=Dente-de-leão
 Mobs/dandelion/Description=Fofinho.
 Mobs/dandelion/Gender=Male
 
-Mobs/fire_ant_baby/Name=Formiga Bebê de fogo
+Mobs/fire_ant_baby/Name=Formiga Bebê de Fogo
 Mobs/fire_ant_baby/Description= essa formiga está sobre foooooogo.
 Mobs/fire_ant_baby/Gender=Female
 
@@ -156,15 +156,15 @@ Mobs/fire_ant_worker/Name=Formiga Operária de Fogo
 Mobs/fire_ant_worker/Description= essa formiga está sobre foooooogo.
 Mobs/fire_ant_worker/Gender=Female
 
-Mobs/fire_ant_queen/Name=Formiga Rainha de fogo
+Mobs/fire_ant_queen/Name=Formiga Rainha de Fogo
 Mobs/fire_ant_queen/Description= essa formiga está sobre foooooogo.
 Mobs/fire_ant_queen/Gender=Female
 
-Mobs/ant_egg/Name=Ovo de formiga
+Mobs/ant_egg/Name=Ovo de Formiga
 Mobs/ant_egg/Description=Ainda não é uma formiga, mas em breve será.
 Mobs/ant_egg/Gender=Male
 
-Mobs/fire_ant_egg/Name=Ovo de formiga de fogo
+Mobs/fire_ant_egg/Name=Ovo de Formiga de Fogo
 Mobs/fire_ant_egg/Description=Essa formiga não está sobre fogo ainda.
 Mobs/fire_ant_egg/Gender=Female
 
@@ -190,11 +190,11 @@ Mobs/termite_worker/Name=Cupim Operária
 Mobs/termite_worker/Description=É um pouco temperamental, provavelmente devido a trabalhar toda hora.<n/>Essas criaturas parecem de algum jeito estar conectadas.
 Mobs/termite_worker/Gender=Female
 
-Mobs/termite_soldier/Name=Cupim soldado
+Mobs/termite_soldier/Name=Cupim Soldado
 Mobs/termite_soldier/Description=Ele possui asas, e está pronto para usá-las.<n/>Essas criaturas parecem de algum jeito estar conectadas.
 Mobs/termite_soldier/Gender=Male
 
-Mobs/termite_overmind/Name=Mega Mente dos Cupins
+Mobs/termite_overmind/Name=Cupim Chefe
 Mobs/termite_overmind/Description=Aquele que tudo vê.
 Mobs/termite_overmind/Gender=Male
 
