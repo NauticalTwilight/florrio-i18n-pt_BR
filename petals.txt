@@ -102,7 +102,7 @@ Petals/web/Gender=Female
 
 Petals/honey/Name=Mel
 Petals/honey/FullName=Mel
-Petals/honey/Description=bichos amam isso. Atraem os em uma grande área.<n/>bichos vão priorizar isso do que flores.<n/>Unidades afetadas desenvolvem imunidade a seus efeitos após um tempo.
+Petals/honey/Description=Bichos amam isso. Atraem os em uma grande área.<n/>bichos vão priorizar isso do que flores.<n/>Unidades afetadas desenvolvem imunidade a seus efeitos após um tempo.
 Petals/honey/Gender=Male
 
 Petals/leaf/Name=Folha
@@ -152,7 +152,7 @@ Petals/yggdrasil/Gender=Female
 
 Petals/starfish/Name=Estrela
 Petals/starfish/FullName=Estrela-do-mar
-Petals/starfish/Description=cura a sua flor enquanto estiver com a vida abaixo de 75%
+Petals/starfish/Description=Cura a sua flor enquanto estiver com a vida abaixo de 75%
 Petals/starfish/Gender=Female
 
 Petals/pearl/Name=Pérola
@@ -205,9 +205,9 @@ Petals/soil/FullName=Solo
 Petals/soil/Description=Aumenta a vida, mas também aumenta o tamanho da flor e diminui a velocidade de movimentação.
 Petals/soil/Gender=Male
 
-Petals/fangs/Name=Presas
-Petals/fangs/FullName=Presas
-Petals/fangs/Description=Cura vida baseado no dano causado por essa pétala.
+Petals/fangs/Name=Presa
+Petals/fangs/FullName=Presa
+Petals/fangs/Description=Cura vida, a cura é determinada no dano causado por essa pétala
 Petals/fangs/Gender=Female
 
 Petals/third_eye/Name=Olho
@@ -257,7 +257,7 @@ Petals/ant_egg/Gender=Male
 
 Petals/poo/Name=Cocô
 Petals/poo/FullName=Cocô
-Petals/poo/Description=faz os bichos terem menos vontade de atacar você.
+Petals/poo/Description=Faz os bichos terem menos vontade de atacar você.
 Petals/poo/Gender=Male
 
 Petals/relic/Name=Relíquia
