@@ -102,7 +102,7 @@ Petals/web/Gender=Female
 
 Petals/honey/Name=Mel
 Petals/honey/FullName=Mel
-Petals/honey/Description=Bichos amam isso. Atraem os em uma grande área.<n/>bichos vão priorizar isso do que flores.<n/>Unidades afetadas desenvolvem imunidade a seus efeitos após um tempo.
+Petals/honey/Description=Os bichos amam isso. Atraem os em uma grande área.<n/>Bichos vão priorizar isso do que flores.<n/>Unidades afetadas desenvolvem imunidade a seus efeitos após um tempo.
 Petals/honey/Gender=Male
 
 Petals/leaf/Name=Folha
