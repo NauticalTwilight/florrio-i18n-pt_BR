@@ -144,7 +144,7 @@ Mobs/leech_body/Name=Leech
 Mobs/leech_body/Description=Suga Suga.
 Mobs/leech_body/Gender=Female
 
-Mobs/dandelion/Name=Dente-de-leão
+Mobs/dandelion/Name=Dente-de-Leão
 Mobs/dandelion/Description=Fofinho.
 Mobs/dandelion/Gender=Male
 
