@@ -2,8 +2,8 @@
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
 February 6th 2025
-	- Eggs now only spawn mobs when they break.
-	- Sandstorm now phases through non-flower entities (still deals damage normally).
+	- Ovos agora só criam bichos quando eles quebram.
+	- Tornados de Areia agora passam por entidades que não são flores sem colidir (ainda recebem e dão dano normalmente).
 
 January 16th 2025
 	- Mobile now has loadouts. Hold X and you can switch loadouts by tapping the secondary petal slots. Each loadout uses the first petal in the loadout as its icon.
