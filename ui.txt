@@ -104,6 +104,7 @@ UI/Inventory/Title=Inventário
 UI/Inventory/Stack=Empilhar
 UI/Inventory/Instructions=Arraste uma pétala para equipá-la 
 UI/Inventory/Speed=Vel
+UI/Inventory/Rarity={#UI/Petal/Rarity}
 
 UI/Guild/Title=Clã
 UI/Guild/NoGuild=Você não possui um clã ainda
