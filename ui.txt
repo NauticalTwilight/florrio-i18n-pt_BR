@@ -278,6 +278,7 @@ UI/Settings/AutoSearchPetals=Procurar pétalas quando abrir inventário
 UI/Settings/FixedJoystick=Joystick fixo
 
 UI/Settings/AutoSaveLoadout=Salvar loadouts automaticamente
+UI/Settings/AutoSaveLoadout/Help=Se desabilitado, aperte [O] pra salvar loadout atual
 
 UI/Settings/PrivacyPolicy=Política de Privacidade
 UI/Settings/TermsOfService=Termos de serviço
