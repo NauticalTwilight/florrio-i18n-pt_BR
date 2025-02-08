@@ -140,8 +140,8 @@ Petals/yucca/FullName=Lúca
 Petals/yucca/Description=Cura sua flor, mas apenas na posição defensiva.
 Petals/yucca/Gender=Female
 
-Petals/magnet/Name=Imã
-Petals/magnet/FullName=Imã
+Petals/magnet/Name=Ímã
+Petals/magnet/FullName=Ímã
 Petals/magnet/Description=Aumenta o alcance de coleta.
 Petals/magnet/Gender=Male
 
