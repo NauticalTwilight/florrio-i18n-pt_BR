@@ -172,13 +172,13 @@ UI/DailyChallenge/SupportersOnly=Desafio para pessoas<n/>que compraram estrelas.
 
 UI/Bonus/Title=Bonus
 UI/Bonus/Button=Bonus
-UI/Bonus/Instructions=Earn bonus drops once a day
+UI/Bonus/Instructions=Ganhe drops extras todo dia
 UI/Bonus/Pill/Label={0}x
-UI/Bonus/Delay=You can activate your bonus again in {0:time}
-UI/Bonus/CurrentlyActive=Your bonus is active for {0:time}
-UI/Bonus/Available=You can activate your bonus now. It will last {0:time}.
-UI/Bonus/AvailableExpiration=If you do not activate your bonus, it will reset in {0:time}.
-UI/Bonus/Activate=Activate
+UI/Bonus/Delay=Você pode ativar seu bônus de novo em {0:time}
+UI/Bonus/CurrentlyActive=Seu bônus está ativo por {0:time}
+UI/Bonus/Available=Você pode ativar seu bônus agora. Ele vai durar {0:time}.
+UI/Bonus/AvailableExpiration=Se você não ativar seu bônus, ele vai resetar em {0:time}.
+UI/Bonus/Activate=Ativar
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
