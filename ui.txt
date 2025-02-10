@@ -179,6 +179,7 @@ UI/Bonus/Delay=You can activate your bonus again in {0:time}
 UI/Bonus/CurrentlyActive=Your bonus is active for {0:time}
 UI/Bonus/Available=You can activate your bonus now. It will last {0:time}.
 UI/Bonus/AvailableExpiration=If you do not activate your bonus, it will reset in {0:time}.
+UI/Bonus/AutoDelay=Your bonus will activate again in {0:time}
 UI/Bonus/Activate=Activate
 UI/Bonus/Activate/Setting=Activate automatically
 
