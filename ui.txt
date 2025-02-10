@@ -173,6 +173,7 @@ UI/DailyChallenge/SupportersOnly=Desafio para pessoas<n/>que compraram estrelas.
 UI/Bonus/Title=Bonus
 UI/Bonus/Button=Bonus
 UI/Bonus/Instructions=Ganhe drops extras
+UI/Bonus/Instructions2=Durante a primeira hora que você joga cada dia, você recebe drops extras.
 UI/Bonus/Pill/Label={0}x
 UI/Bonus/Delay=Você pode ativar seu bônus de novo em {0:time}
 UI/Bonus/CurrentlyActive=Seu bônus está ativo por {0:time}
