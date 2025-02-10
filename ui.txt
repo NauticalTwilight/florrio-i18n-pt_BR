@@ -173,6 +173,7 @@ UI/DailyChallenge/SupportersOnly=Challenge available<n/>for supporters only.
 UI/Bonus/Title=Bonus
 UI/Bonus/Button=Bonus
 UI/Bonus/Instructions=Earn bonus drops
+UI/Bonus/Instructions2=For the first hour you play each day, you get extra drops.
 UI/Bonus/Pill/Label={0}x
 UI/Bonus/Delay=You can activate your bonus again in {0:time}
 UI/Bonus/CurrentlyActive=Your bonus is active for {0:time}
