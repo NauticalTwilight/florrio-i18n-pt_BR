@@ -424,3 +424,6 @@ Achievements/137/Description=Combine uma pétala {#Rarities/{0}/Female/Name} uti
 
 Achievements/138/Name=Mágico
 Achievements/138/Description=Equipe uma {#Petals/{0}/Name}.
+
+Achievements/139/Name=Estou me sentindo sortudo
+Achievements/139/Description=Receba um drop extra devido a um {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name}.

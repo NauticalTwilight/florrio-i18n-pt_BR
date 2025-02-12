@@ -104,6 +104,7 @@ UI/Inventory/Title=Inventário
 UI/Inventory/Stack=Empilhar
 UI/Inventory/Instructions=Arraste uma pétala para equipá-la 
 UI/Inventory/Speed=Vel
+UI/Inventory/Rarity={#Rarities/{0:rarity}/Female/NamePlural}
 
 UI/Guild/Title=Clã
 UI/Guild/NoGuild=Você não possui um clã ainda
@@ -169,6 +170,19 @@ UI/DailyChallenge/TimeLeft=Os desafios vão mudar em {0:time}
 UI/DailyChallenge/Claimed=Adquirido
 UI/DailyChallenge/SupportersOnly=Desafio para pessoas<n/>que compraram estrelas.
 
+UI/Bonus/Title=Bonus
+UI/Bonus/Button=Bonus
+UI/Bonus/Instructions=Ganhe drops extras
+UI/Bonus/Instructions2=Durante a primeira hora que você joga cada dia, você recebe drops extras.
+UI/Bonus/Pill/Label={0}x
+UI/Bonus/Delay=Você pode ativar seu bônus de novo em {0:time}.
+UI/Bonus/CurrentlyActive=Seu bônus está ativo por {0:time}.
+UI/Bonus/Available=Você pode ativar seu bônus agora. Ele vai durar {0:time}.
+UI/Bonus/AvailableExpiration=Se você não ativar seu bônus, ele vai resetar em {0:time}.
+UI/Bonus/AutoDelay=Seu bônus vai ativar em {0:time}.
+UI/Bonus/Activate=Ativar
+UI/Bonus/Activate/Setting=Ativar automaticamente
+
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
@@ -188,6 +202,7 @@ UI/Achievements/Name={#Achievements/{0}/Name:1-}
 UI/Achievements/SortName={#Achievements/{0}/Name:1-}
 UI/Achievements/Description={#Achievements/{0}/Description:1-}
 UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
+UI/Achievements/Rarity={#Rarities/{0:rarity}/Female/NamePlural}
 
 UI/Talent/Title=Talentos
 UI/Talent/Name={#Talents/{0}/Name:1-}
@@ -277,6 +292,7 @@ UI/Settings/AutoSearchPetals=Procurar pétalas quando abrir inventário
 UI/Settings/FixedJoystick=Joystick fixo
 
 UI/Settings/AutoSaveLoadout=Salvar loadouts automaticamente
+UI/Settings/AutoSaveLoadout/Help=Se desabilitado, aperte [O] pra salvar loadout atual
 
 UI/Settings/PrivacyPolicy=Política de Privacidade
 UI/Settings/TermsOfService=Termos de serviço

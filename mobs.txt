@@ -144,7 +144,7 @@ Mobs/leech_body/Name=Leech
 Mobs/leech_body/Description=Suga Suga.
 Mobs/leech_body/Gender=Female
 
-Mobs/dandelion/Name=Dente-de-leão
+Mobs/dandelion/Name=Dente-de-Leão
 Mobs/dandelion/Description=Fofinho.
 Mobs/dandelion/Gender=Male
 
@@ -183,12 +183,12 @@ Mobs/mantis/Description=É melhor você rezar para não ser comido..
 Mobs/mantis/Gender=Male
 
 Mobs/termite_baby/Name=Bebê Cupim
-Mobs/termite_baby/Description=Fraca e indefesa, mas possui grandes sonhos.<n/>Essas criaturas parecem de algum jeito estar conectadas.
-Mobs/termite_baby/Gender=Female
+Mobs/termite_baby/Description=Fraco e indefeso, mas possui grandes sonhos.<n/>Essas criaturas parecem de algum jeito estar conectadas.
+Mobs/termite_baby/Gender=Male
 
-Mobs/termite_worker/Name=Cupim Operária
+Mobs/termite_worker/Name=Cupim Operário
 Mobs/termite_worker/Description=É um pouco temperamental, provavelmente devido a trabalhar toda hora.<n/>Essas criaturas parecem de algum jeito estar conectadas.
-Mobs/termite_worker/Gender=Female
+Mobs/termite_worker/Gender=Male
 
 Mobs/termite_soldier/Name=Cupim Soldado
 Mobs/termite_soldier/Description=Ele possui asas, e está pronto para usá-las.<n/>Essas criaturas parecem de algum jeito estar conectadas.
