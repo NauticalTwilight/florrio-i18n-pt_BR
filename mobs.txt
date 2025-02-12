@@ -206,7 +206,6 @@ Mobs/termite_egg/Name=Ovo de Cupim
 Mobs/termite_egg/Description=Ainda não é um Cupim, mas em breve será.
 Mobs/termite_egg/Gender=Male
 
-#Mensagem de spawn "Um grande aglomerado de folhas e galhos aparece no além" (apenas uma ideia)
 Mobs/bush/Name=Arbusto
 Mobs/bush/Description=Não me subestime.
 Mobs/bush/Gender=Male

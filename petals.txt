@@ -102,7 +102,7 @@ Petals/web/Gender=Female
 
 Petals/honey/Name=Mel
 Petals/honey/FullName=Mel
-Petals/honey/Description=Bichos amam isso. Atraem os em uma grande área.<n/>bichos vão priorizar isso do que flores.<n/>Unidades afetadas desenvolvem imunidade a seus efeitos após um tempo.
+Petals/honey/Description=Os bichos amam isso. Atraem os em uma grande área.<n/>Bichos vão priorizar isso do que flores.<n/>Unidades afetadas desenvolvem imunidade a seus efeitos após um tempo.
 Petals/honey/Gender=Male
 
 Petals/leaf/Name=Folha
@@ -140,8 +140,8 @@ Petals/yucca/FullName=Lúca
 Petals/yucca/Description=Cura sua flor, mas apenas na posição defensiva.
 Petals/yucca/Gender=Female
 
-Petals/magnet/Name=Imâ
-Petals/magnet/FullName=Imâ
+Petals/magnet/Name=Ímâ
+Petals/magnet/FullName=Ímâ
 Petals/magnet/Description=Aumenta o alcance de coleta.
 Petals/magnet/Gender=Male
 
