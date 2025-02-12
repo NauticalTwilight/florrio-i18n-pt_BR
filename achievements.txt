@@ -4,7 +4,7 @@ Achievements/0/ExtraDescription=Use seu mouse para se mover. Sua flor vai automa
 
 Achievements/1/Name=Tutorial
 Achievements/1/Description=Mate um bicho.
-Achievements/1/ExtraDescription=Esses bichos são seus inimigos. Destruir eles tem chance de dropar novar pétalas.<n/><n/>ache um e destrua-o.<n/>Você pode segurar o botão esquerdo do seu mouse para estender as suas pétalas
+Achievements/1/ExtraDescription=Esses bichos são seus inimigos. Destruir eles tem chance de dropar novar pétalas.<n/><n/>Ache um e destrua-o.<n/>Você pode segurar o botão esquerdo do seu mouse para estender as suas pétalas
 
 Achievements/2/Name=Tutorial
 Achievements/2/Description=Colete uma pétala
