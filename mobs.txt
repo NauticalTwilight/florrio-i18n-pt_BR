@@ -192,17 +192,20 @@ Mobs/wasp_hel/Description=Scourge that spawns in the other plane.
 Mobs/wasp_hel/Spawn=You sense ominous vibrations coming from a different realm...
 
 Mobs/trader/Name=Trader
+Mobs/trader/Description= 
 
 Mobs/gambler/Name=Gambler
 Mobs/gambler/Description=This can happen to YOU.
 Mobs/gambler/Spawn=You hear someone whisper faintly... "just... one more game..."
 
 Mobs/oracle/Name=Oracle
+Mobs/oracle/Description= 
 
 Mobs/firefly_magic/Name=Firefly
 Mobs/firefly_magic/Description=There's something magical about this one.
 
 Mobs/titan/Name=Titan
+Mobs/titan/Description= 
 
 Mobs/beetle_nazar/Name=Beetle
 Mobs/beetle_nazar/Description=This one has a different pattern... what does that mean?
