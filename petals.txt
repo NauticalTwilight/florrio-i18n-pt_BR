@@ -487,3 +487,4 @@ Petals/mecha_missile/Gender=Male
 Petals/wax/Name=Cera
 Petals/wax/FullName=Cera
 Petals/wax/Description=Não pergunte de onde essa veio.
+Petals/wax/Gender=Female
