@@ -257,6 +257,7 @@ Mobs/wasp_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
 Mobs/wasp_hel/Gender=Female
 
 Mobs/trader/Name=Mercante
+Mobs/trader/Description= 
 Mobs/trader/Gender=Male
 
 Mobs/gambler/Name=Apostador
@@ -265,6 +266,7 @@ Mobs/gambler/Spawn=Você ouve alguém sussurrar fracamente... "só... mais um jo
 Mobs/gambler/Gender=Male
 
 Mobs/oracle/Name=Oráculo
+Mobs/oracle/Description= 
 Mobs/oracle/Gender=Male
 
 Mobs/firefly_magic/Name=Vagalume
@@ -272,6 +274,7 @@ Mobs/firefly_magic/Description=Há algo mágico nesse aqui.
 Mobs/firefly_magic/Gender=Male
 
 Mobs/titan/Name=Titã
+Mobs/titan/Description= 
 Mobs/titan/Gender=Male
 
 Mobs/beetle_nazar/Name=Besouro

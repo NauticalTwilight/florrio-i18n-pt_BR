@@ -483,3 +483,7 @@ Petals/mecha_missile/Name=Míssil
 Petals/mecha_missile/FullName=Míssil Mecânico
 Petals/mecha_missile/Description=Míssil teleguiado
 Petals/mecha_missile/Gender=Male
+
+Petals/wax/Name=Cera
+Petals/wax/FullName=Cera
+Petals/wax/Description=Não pergunte de onde essa veio.
