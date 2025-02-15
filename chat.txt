@@ -9,13 +9,13 @@ Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}!
 Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}!
 
 Chat/PetalCraftedUnnamed/unique={#Chat/PetalCraftedUnnamed/unique/{#Petals/{0:base}/Gender}}
-Chat/PetalCraftedUnnamed/unique/Male=Um {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Male/Name} foi forjado
-Chat/PetalCraftedUnnamed/unique/Female=Uma {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Female/Name} foi forjado
+Chat/PetalCraftedUnnamed/unique/Male=Um {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Male/Name} foi forjado
+Chat/PetalCraftedUnnamed/unique/Female=Uma {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Female/Name} foi forjado
 Chat/PetalCraftedNamed/unique={#Chat/PetalCraftedUnnamed/unique} por {1}
 
 Chat/PetalCraftedUnnamed/not-unique={#Chat/PetalCraftedUnnamed/not-unique/{#Petals/{0:base}/Gender}}
-Chat/PetalCraftedUnnamed/not-unique/Male=Um {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Male/Name} foi combinado
-Chat/PetalCraftedUnnamed/not-unique/Female=Uma {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Female/Name} foi combinada
+Chat/PetalCraftedUnnamed/not-unique/Male=Um {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Male/Name} foi combinado
+Chat/PetalCraftedUnnamed/not-unique/Female=Uma {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Female/Name} foi combinada
 Chat/PetalCraftedNamed/not-unique={#Chat/PetalCraftedUnnamed/not-unique} por {1}
 
 Chat/MobSpawnedHere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
