@@ -217,8 +217,8 @@ UI/Craft/Title=Combinar
 UI/Craft/Button=Combinar
 UI/Craft/Chance={0:perc}% chance de sucesso
 UI/Craft/UnknownChance=?% chance de sucesso
-UI/Craft/CombineInstructions=Combine {0} da mesma pétala para tentar Combina-la
-UI/Craft/FailureInstructions=O fracasso destruirá {0}-{1} pétalas
+UI/Craft/CombineInstructions=Combine {0} do mesmo tipo de pétala para tentar combinar elas.
+UI/Craft/FailureInstructions=Se falhar, {0}-{1} pétalas serão destruídas.
 
 UI/Absorb/Title=Absorb
 UI/Absorb/Button=Absorb
