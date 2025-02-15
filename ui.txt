@@ -291,6 +291,9 @@ UI/Settings/AutoSearchPetals=Procurar pétalas quando abrir inventário
 
 UI/Settings/FixedJoystick=Joystick fixo
 
+UI/Settings/InvertAttack=Inverter botão de atacar
+UI/Settings/InvertDefend=Inverter botão de defender
+
 UI/Settings/AutoSaveLoadout=Salvar loadouts automaticamente
 UI/Settings/AutoSaveLoadout/Help=Se desabilitado, aperte [O] pra salvar loadout atual
 
