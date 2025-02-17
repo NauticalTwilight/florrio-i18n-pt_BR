@@ -67,7 +67,7 @@ Chat/Command/unblock-all/Args=
 Chat/Command/unblock-all/Description=Remove todo mundo da sua lista de bloqueados
 
 Chat/Command/rot-speed/Args=<value>
-Chat/Command/rot-speed/Description=Set petal rotation speed, from 0.0 to 1.0
+Chat/Command/rot-speed/Description=Muda velocidade de rotação das pétalas, entre 0.0 to 1.0
 
 Chat/Command/print-players/Args=
 Chat/Command/print-players/Description=Lista o id das contas de jogadores perto de você
