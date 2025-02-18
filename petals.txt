@@ -392,4 +392,4 @@ Petals/wax/Description=Don't ask where it came from.
 
 Petals/golden_leaf/Name=Leaf
 Petals/golden_leaf/FullName=Golden Leaf
-Petals/golden_leaf/Description=A very special leaf, seems to allow you to use your other petals even better.
+Petals/golden_leaf/Description=A very special leaf, seems to allow you to use your other petals even more.
