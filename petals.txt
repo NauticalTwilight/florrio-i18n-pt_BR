@@ -488,3 +488,7 @@ Petals/wax/Name=Cera
 Petals/wax/FullName=Cera
 Petals/wax/Description=Não pergunte de onde essa veio.
 Petals/wax/Gender=Female
+
+Petals/golden_leaf/Name=Folha
+Petals/golden_leaf/FullName=Folha Dourada
+Petals/golden_leaf/Description=Uma folha muito especial, parece permitir que você use outras pétalas ainda mais.
