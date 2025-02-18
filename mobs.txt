@@ -301,3 +301,7 @@ Mobs/wasp_mecha/Gender=Male
 Mobs/spider_mecha/Name=Aranha
 Mobs/spider_mecha/Description=Mecanicamente Assustador.
 Mobs/spider_mecha/Gender=Female
+
+Mobs/leafbug_shiny/Name=Bicho-Folha
+Mobs/leafbug_shiny/Description=Esse tem uma cor especial...
+Mobs/leafbug_shiny/Gender=Male
