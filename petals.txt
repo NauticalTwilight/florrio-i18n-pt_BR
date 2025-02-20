@@ -492,3 +492,7 @@ Petals/wax/Gender=Female
 Petals/golden_leaf/Name=Folha
 Petals/golden_leaf/FullName=Folha Dourada
 Petals/golden_leaf/Description=Uma folha muito especial, parece permitir que você use outras pétalas ainda mais.
+
+Petals/cog/Name=Roda
+Petals/cog/FullName=Roda Dentada
+Petals/cog/Description=Não parece fazer muita coisa...
