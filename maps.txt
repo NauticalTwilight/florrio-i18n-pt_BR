@@ -6,9 +6,9 @@ Maps/ant_hole3/Name=Termite Mound
 Maps/ant_hole4/Name=Termite Mound
 Maps/ant_hole5/Name=Termite Mound
 
-Maps/battle_ground/Name=Battle Ground
-
 Maps/desert/Name=Desert
+
+Maps/factory/Name=Factory
 
 Maps/garden/Name=Garden
 
