@@ -393,3 +393,7 @@ Petals/wax/Description=Don't ask where it came from.
 Petals/golden_leaf/Name=Leaf
 Petals/golden_leaf/FullName=Golden Leaf
 Petals/golden_leaf/Description=A very special leaf, seems to allow you to use your other petals even more.
+
+Petals/cog/Name=Cog
+Petals/cog/FullName=Cogwheel
+Petals/cog/Description=Doesn't seem to do much...
