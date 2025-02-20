@@ -400,4 +400,4 @@ Petals/cog/Description=Doesn't seem to do much...
 
 Petals/monstera/Name=Monstera
 Petals/monstera/FullName=Monstera
-Petals/monstera/Description=Increases the health regeneration of flowers around it.<n/>Effect fades out with distance to petal.
+Petals/monstera/Description=Heals flowers around it.<n/>Effect fades out with distance to petal.
