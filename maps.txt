@@ -6,9 +6,9 @@ Maps/ant_hole3/Name=Cupimzeiro
 Maps/ant_hole4/Name=Cupimzeiro
 Maps/ant_hole5/Name=Cupimzeiro
 
-Maps/battle_ground/Name=Battle Ground
-
 Maps/desert/Name=Deserto
+
+Maps/factory/Name=Fábrica
 
 Maps/garden/Name=Jardim
 

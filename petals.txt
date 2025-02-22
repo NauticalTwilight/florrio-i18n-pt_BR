@@ -500,3 +500,8 @@ Petals/cog/Description=Não parece fazer muita coisa...
 Petals/monstera/Name=Monstera
 Petals/monstera/FullName=Monstera
 Petals/monstera/Description=Cura flores ao seu redor.<n/>O efeito se torna mais fraco conforme à distância.
+
+Petals/mecha_antennae/Name=Antena
+Petals/mecha_antennae/FullName=Antena
+Petals/mecha_antennae/Description=Permite que sua flor veja inimigos mais distantes.<n/>E tem uma luz brilhante no topo.
+Petals/mecha_antennae/Gender=Female
