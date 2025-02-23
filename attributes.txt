@@ -43,6 +43,7 @@ Petal/Attribute/Damage=<c val="{#Colors/damage}">Damage:</c> {0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Damage:</c> {0:tooltip} <c val="{#Colors/lightning}">(lightning)</c>
 Petal/Attribute/DamageRange=<c val="{#Colors/damage}">Damage:</c> {0:tooltip}~{1:tooltip}
 Petal/Attribute/DamagePerSecond=<c val="{#Colors/damage}">Damage:</c> {0:tooltip}/s
+Petal/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">Damage:</c> {0:tooltip}/s <c val="{#Colors/lightning}">(lightning)</c>
 Petal/Attribute/Armor=<c val="{#Colors/armor}">Armor:</c> {0:tooltip}
 Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">Rotation Speed:</c> +{0:tooltip} rad/s
 Petal/Attribute/Heal=<c val="{#Colors/heal}">Heal:</c> {0:tooltip}
