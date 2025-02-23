@@ -243,6 +243,10 @@ UI/UniqueCraft/Button=Forge
 UI/UniqueCraft/Instructions=Unique petals will last until another player forges the same petal.<n/>When that happens, you will receive your Super petals back.<n/>The cost increases each time that petal is forged.
 UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
 
+UI/AssemblerCraft/Title=Assemble
+UI/AssemblerCraft/Button=Assemble
+UI/AssemblerCraft/Instructions=Combine specific petals to assemble a new petal.
+
 UI/Death/Poison=Poison
 
 UI/Settings/Title=Settings
