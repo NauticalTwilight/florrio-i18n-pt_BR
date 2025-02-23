@@ -405,3 +405,7 @@ Petals/monstera/Description=Heals flowers around it.<n/>Effect fades out with di
 Petals/mecha_antennae/Name=Antennae
 Petals/mecha_antennae/FullName=Mecha Antennae
 Petals/mecha_antennae/Description=Allows your flower to sense foes farther away.<n/>And it has a blinking red light on top.
+
+Petals/laser/Name=Laser
+Petals/laser/FullName=Laser
+Petals/laser/Description=Pew pew.
