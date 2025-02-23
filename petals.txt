@@ -505,3 +505,7 @@ Petals/mecha_antennae/Name=Antena
 Petals/mecha_antennae/FullName=Antena
 Petals/mecha_antennae/Description=Permite que sua flor veja inimigos mais distantes.<n/>E tem uma luz brilhante no topo.
 Petals/mecha_antennae/Gender=Female
+
+Petals/laser/Name=Laser
+Petals/laser/FullName=Laser
+Petals/laser/Description=Pew pew.

@@ -41,6 +41,8 @@ Mob/Attribute/Evasion=<c val="{#Colors/generic}">Evasão:</c> {0:perc}%
 Petal/Attribute/Health=<c val="{#Colors/health}">Vida:</c> {0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Dano:</c> {0:tooltip} <c val="{#Colors/lightning}">(elétrico)</c>
+Petal/Attribute/DamagePerSecond=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}/s
+Petal/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}/s <c val="{#Colors/lightning}">(elétrico)</c>
 Petal/Attribute/DamageRange=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}~{1:tooltip}
 Petal/Attribute/Armor=<c val="{#Colors/armor}">Armadura:</c> {0:tooltip}
 Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">Velocidade de rotação:</c> +{0:tooltip} rad/s
