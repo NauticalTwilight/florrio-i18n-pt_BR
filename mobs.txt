@@ -227,3 +227,6 @@ Mobs/spider_mecha/Description=Mecha Spooky.
 
 Mobs/leafbug_shiny/Name=Leafbug
 Mobs/leafbug_shiny/Description=This one has a special color to it...
+
+Mobs/crab_mecha/Name=Crab
+Mobs/crab_mecha/Description=Dr. Crab.
