@@ -243,6 +243,10 @@ UI/UniqueCraft/Button=Forjar
 UI/UniqueCraft/Instructions=Pétalas únicas durarão até que outro jogador forje a mesma pétala.<n/>Quando isso acontecer, você receberá suas pétalas Super de volta.<n/>O custo aumenta cada vez que a pétala for forjada.
 UI/UniqueCraft/NoSupers=Você não tem pétalas super suficiente para forjar
 
+UI/AssemblerCraft/Title=Montar
+UI/AssemblerCraft/Button=Montar
+UI/AssemblerCraft/Instructions=Combine pétalas específicas para montar uma pétala nova.
+
 UI/Death/Poison=Veneno
 
 UI/Settings/Title=Configurações

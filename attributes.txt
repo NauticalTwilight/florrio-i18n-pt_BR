@@ -15,6 +15,8 @@ Mob/Attribute/HealthRange=<c val="{#Colors/health}">Vida:</c> {0:tooltip}~{1:too
 Mob/Attribute/HealthNoColon=<c val="{#Colors/health}">Vida</c>
 Mob/Attribute/Damage=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}
 Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Dano:</c> {0:tooltip} <c val="{#Colors/lightning}">(elétrico)</c>
+Mob/Attribute/DamagePerSecond=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}/s
+Mob/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}/s <c val="{#Colors/lightning}">(elétrico)</c>
 Mob/Attribute/Armor=<c val="{#Colors/armor}">Armadura:</c> {0:tooltip}
 Mob/Attribute/Poison=<c val="{#Colors/poison}">Veneno:</c> {0:tooltip} ({1:tooltip}/s)
 Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Veneno:</c> {0:tooltip}/s

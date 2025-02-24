@@ -305,3 +305,13 @@ Mobs/spider_mecha/Gender=Female
 Mobs/leafbug_shiny/Name=Bicho-Folha
 Mobs/leafbug_shiny/Description=Esse tem uma cor especial...
 Mobs/leafbug_shiny/Gender=Male
+
+Mobs/crab_mecha/Name=Caranguejo
+Mobs/crab_mecha/Description=Dr. Siriguejo.
+Mobs/crab_mecha/Gender=Male
+
+Mobs/assembler/Name=Montador
+Mobs/assembler/Description= 
+
+Mobs/barrel/Name=Barril
+Mobs/barrel/Description=Em nenhuma circunstância deixe isso derramar.<n/>Não podemos arriscar outro inseto mutante este mês.
