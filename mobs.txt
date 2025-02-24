@@ -233,3 +233,6 @@ Mobs/crab_mecha/Description=Dr. Crab.
 
 Mobs/assembler/Name=Assembler
 Mobs/assembler/Description= 
+
+Mobs/barrel/Name=Barrel
+Mobs/barrel/Description=Under no circumstances let this thing spill.<n/>We cannot risk another mutant insect this month.
