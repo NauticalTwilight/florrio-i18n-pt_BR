@@ -2,7 +2,7 @@
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
 February 23rd 2025
-	- Added Factory. There's still more things that need to be added, but it's at a point where players can start playing it.
+	- Fábrica foi adicionada. Ainda tem mais coisas que precisam ser adicionadas, mas chegou a um ponto em que já pode ser jogada.
 
 February 6th 2025
 	- Ovos agora só criam bichos quando eles quebram.
