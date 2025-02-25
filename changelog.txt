@@ -1,6 +1,9 @@
 # The format for this file is different
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
+February 23rd 2025
+	- Added Factory. There's still more things that need to be added, but it's at a point where players can start playing it.
+
 February 6th 2025
 	- Ovos agora só criam bichos quando eles quebram.
 	- Tornados de Areia agora passam por entidades que não são flores sem colidir (ainda recebem e dão dano normalmente).
