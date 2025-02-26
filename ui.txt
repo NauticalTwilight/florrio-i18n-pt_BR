@@ -75,6 +75,10 @@ UI/Damage/Evade=Desviado
 # When the target evades damage
 UI/Damage/Miss=Errou
 
+UI/Dummy/Last=Último: {0:tooltip}
+UI/Dummy/Total=Total: {0:tooltip}
+UI/Dummy/DPS=DPS: {0:tooltip}
+
 UI/Death/Title=Você foi destruído por:
 UI/Death/NoSource=Uma entidade misteriosa
 UI/Death/Continue=Continuar

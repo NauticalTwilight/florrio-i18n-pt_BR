@@ -186,6 +186,13 @@ Chat/Oracle/Prediction/0=Ah sim, a profecia... deve acontecer a qualquer momento
 Chat/Oracle/Prediction/1=Foi predito, este é o momento...
 Chat/Oracle/Prediction/2=Eu estava esperando por esse momento...
 
+Chat/Oracle/ShopPrediction/No=O futuro é muito nebuloso para prever
+Chat/Oracle/ShopPrediction/Distance0=É iminente
+Chat/Oracle/ShopPrediction/Distance1=Brevemente
+Chat/Oracle/ShopPrediction/Distance2=Eventualmente
+Chat/Oracle/ShopPrediction/Distance3=Talvez alguns futuros sejam apenas indeterminados
+Chat/Oracle/ShopPrediction/Request=Oráculo, oráculo, faça-me uma previsão sobre {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}
+
 # Target dummy says these 4 lines 1 second apart after getting damaged a lot
 Chat/TargetDummy/Damaged/1=Ai
 Chat/TargetDummy/Damaged/2=Quero dizer
