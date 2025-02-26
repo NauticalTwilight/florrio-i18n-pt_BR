@@ -169,6 +169,13 @@ Chat/Oracle/Prediction/0=Ah yes, the prophecy... it should happen any time now..
 Chat/Oracle/Prediction/1=It was foretold, this is the moment...
 Chat/Oracle/Prediction/2=I was waiting for this moment...
 
+Chat/Oracle/ShopPrediction/No=The future is too cloudy to tell
+Chat/Oracle/ShopPrediction/Distance0=It is imminent
+Chat/Oracle/ShopPrediction/Distance1=Soon
+Chat/Oracle/ShopPrediction/Distance2=Eventually
+Chat/Oracle/ShopPrediction/Distance3=Perhaps some futures are just indeterminate
+Chat/Oracle/ShopPrediction/Request=Oracle, oracle, make me a prediction about {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}
+
 # Target dummy says these 4 lines 1 second apart after getting damaged a lot
 Chat/TargetDummy/Damaged/1=Ouch
 Chat/TargetDummy/Damaged/2=I mean
