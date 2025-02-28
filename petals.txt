@@ -492,14 +492,17 @@ Petals/wax/Gender=Female
 Petals/golden_leaf/Name=Folha
 Petals/golden_leaf/FullName=Folha Dourada
 Petals/golden_leaf/Description=Uma folha muito especial, parece permitir que você use outras pétalas ainda mais.
+Petals/golden_leaf/Gender=Female
 
 Petals/cog/Name=Roda
 Petals/cog/FullName=Roda Dentada
 Petals/cog/Description=Não parece fazer muita coisa...
+Petals/cog/Gender=Female
 
 Petals/monstera/Name=Monstera
 Petals/monstera/FullName=Monstera
 Petals/monstera/Description=Cura flores ao seu redor.<n/>O efeito se torna mais fraco conforme à distância.
+Petals/monstera/Gender=Female
 
 Petals/mecha_antennae/Name=Antena
 Petals/mecha_antennae/FullName=Antena
@@ -509,3 +512,4 @@ Petals/mecha_antennae/Gender=Female
 Petals/laser/Name=Laser
 Petals/laser/FullName=Laser
 Petals/laser/Description=Pew pew.
+Petals/laser/Gender=ale
