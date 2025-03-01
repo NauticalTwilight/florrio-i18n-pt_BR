@@ -512,4 +512,4 @@ Petals/mecha_antennae/Gender=Female
 Petals/laser/Name=Laser
 Petals/laser/FullName=Laser
 Petals/laser/Description=Pew pew.
-Petals/laser/Gender=ale
+Petals/laser/Gender=Male
