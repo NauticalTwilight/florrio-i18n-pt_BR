@@ -409,3 +409,7 @@ Petals/mecha_antennae/Description=Allows your flower to sense foes farther away.
 Petals/laser/Name=Laser
 Petals/laser/FullName=Laser
 Petals/laser/Description=Pew pew.
+
+Petals/domino/Name=Domino
+Petals/domino/FullName=Domino
+Petals/domino/Description=Damage depends on how many dots it has.
