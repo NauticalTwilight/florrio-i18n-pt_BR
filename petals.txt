@@ -315,8 +315,8 @@ Petals/blood_stinger/FullName=Ferrão de Sangue
 Petals/blood_stinger/Description=Dói muito, mas é bem frágil.<n/>Causa dano ao usuário quando carregada
 Petals/blood_stinger/Gender=Male
 
-Petals/bur/Name=Bur
-Petals/bur/FullName=Bur
+Petals/bur/Name=Capim
+Petals/bur/FullName=Capim-carrapicho
 Petals/bur/Description=Diminui a armadura em unidades afetadas. O efeito não se acumula.
 Petals/bur/Gender=Male
 
