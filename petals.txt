@@ -364,7 +364,7 @@ Petals/magic_bubble/Description=Physics are for the magicless.
 
 Petals/nazar/Name=Nazar
 Petals/nazar/FullName=Nazar Amulet
-Petals/nazar/Description=Reduces one damage instance damage by 98%.
+Petals/nazar/Description=Reduce each damage instance by 98%.
 
 Petals/mimic/Name=Mimic
 Petals/mimic/FullName=Mimic
