@@ -457,7 +457,7 @@ Petals/magic_bubble/Gender=Female
 
 Petals/nazar/Name=Nazar
 Petals/nazar/FullName=Amuleto Nazar
-Petals/nazar/Description=Reduz o dano de uma instância de dano em 98%.
+Petals/nazar/Description=Reduz cada instância de dano em 98%.
 Petals/nazar/Gender=Male
 
 Petals/mimic/Name=Mímico
