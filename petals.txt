@@ -513,3 +513,8 @@ Petals/laser/Name=Laser
 Petals/laser/FullName=Laser
 Petals/laser/Description=Pew pew.
 Petals/laser/Gender=Male
+
+Petals/domino/Name=Dominó
+Petals/domino/FullName=Dominó
+Petals/domino/Description=Dano depende de quantos pontos ele tem.
+Petals/domino/Gender=Male
