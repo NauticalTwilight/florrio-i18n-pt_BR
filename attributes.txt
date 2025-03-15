@@ -59,6 +59,7 @@ Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">Poison Resistance:</c
 Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">Flower Health:</c> {0:tooltip}
 Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">Flower Health:</c> +{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">Duration:</c> {0:tooltipTime}
+Petal/Attribute/Duration2=<c val="{#Colors/duration}">Duration:</c> {0:tooltipTime} + {1:tooltipTime}
 Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
 Petal/Attribute/Contents1=<c val="{#Colors/generic}">Contents:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
 Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Contents:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
