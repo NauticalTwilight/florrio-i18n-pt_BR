@@ -236,3 +236,6 @@ Mobs/assembler/Description=
 
 Mobs/barrel/Name=Barrel
 Mobs/barrel/Description=Under no circumstances let this thing spill.<n/>We cannot risk another mutant insect this month.
+
+Mobs/beetle_mummy/Name=Beetle
+Mobs/beetle_mummy/Description=This one seems like it shouldn't be alive...
