@@ -113,7 +113,7 @@ Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">Lightning:</c> {0:
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">Spawn Cost:</c> {0:tooltip} <c val="{#Colors/mana}">mana</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">Maintenance Cost:</c> {0:tooltip} <c val="{#Colors/mana}">mana</c>/s
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Gives a {0:perc}% chance of getting an extra drop from mobs.</c>
-Petal/Attribute/Reload=<c val="{#Colors/generic}">Reload:</c> -{0:perc}%
+Petal/Attribute/ReloadPerc=<c val="{#Colors/generic}">Reload:</c> -{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">Victims will be stuck in Hel for {0:time}.</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">Controls:</c> {#Petals/{0:base}/FullName} ({#Rarities/{0:rarity}/NameColored})
 Petal/Attribute/Broken=<c val="{#Colors/danger}">Broken.</c>
