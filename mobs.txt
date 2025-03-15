@@ -312,6 +312,8 @@ Mobs/crab_mecha/Gender=Male
 
 Mobs/assembler/Name=Montador
 Mobs/assembler/Description= 
+Mobs/assembler/Gender=Male
 
 Mobs/barrel/Name=Barril
 Mobs/barrel/Description=Em nenhuma circunstância deixe isso derramar.<n/>Não podemos arriscar outro inseto mutante este mês.
+Mobs/barrel/Gender=Male
