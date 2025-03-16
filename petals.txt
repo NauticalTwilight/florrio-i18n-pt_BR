@@ -416,4 +416,4 @@ Petals/domino/Description=Damage depends on how many dots it has.
 
 Petals/bandage/Name=Bandage
 Petals/bandage/FullName=Bandage
-Petals/bandage/Description=Turns the flower undead for a limited duration on death.<n/>Prevents revival for a certain duration afterwards.
+Petals/bandage/Description=Turns the flower <c val="{#Colors/undead}">Undead</c> for a limited time on death.<n/>Prevents revival for some time afterwards.
