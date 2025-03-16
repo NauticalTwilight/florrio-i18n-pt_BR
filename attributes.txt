@@ -39,6 +39,7 @@ Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">Lifesteal:</c> {0:tooltip}
 Mob/Attribute/Lightning=<c val="{#Colors/lightning}">Lightning:</c> {0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">Bounces:</c> {0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">Evasion:</c> {0:perc}%
+Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">Undead:</c> {0:tooltipTime}
 
 Petal/Attribute/Reload=<c val="{#Colors/generic}">Reload:</c> {0}
 Petal/Attribute/NumCopies=<c val="{#Colors/generic}">Number of Copies:</c> {0:tooltip}
@@ -118,3 +119,5 @@ Petal/Attribute/ReloadPerc=<c val="{#Colors/generic}">Reload:</c> -{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">Victims will be stuck in Hel for {0:time}.</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">Controls:</c> {#Petals/{0:base}/FullName} ({#Rarities/{0:rarity}/NameColored})
 Petal/Attribute/Broken=<c val="{#Colors/danger}">Broken.</c>
+Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">Undead:</c> {0:tooltipTime}
+Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">Unrevivable:</c> {0:tooltipTime}
