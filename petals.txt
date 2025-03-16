@@ -518,3 +518,8 @@ Petals/domino/Name=Dominó
 Petals/domino/FullName=Dominó
 Petals/domino/Description=Dano depende de quantos pontos ele tem.
 Petals/domino/Gender=Male
+
+Petals/bandage/Name=Bandagem
+Petals/bandage/FullName=Bandagem
+Petals/bandage/Description=Torna a flor <c val="{#Colors/undead}">Zumbi</c> por um tempo limitado quando morre.<n/>A flor não pode ser revivida por um tempo depois.
+Petals/bandage/Gender=Female

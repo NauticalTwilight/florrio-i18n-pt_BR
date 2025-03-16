@@ -173,7 +173,6 @@ Mobs/fly/Description=Bzzzzzzzzzz.
 Mobs/fly/Spawn=Você escuta zumbidos altos vindo do esgoto...
 Mobs/fly/Gender=Female
 
-
 Mobs/leafbug/Name=Bicho-Folha
 Mobs/leafbug/Description=Não é uma folha, mas é um Bicho..
 Mobs/leafbug/Gender=Male
@@ -317,3 +316,7 @@ Mobs/assembler/Gender=Male
 Mobs/barrel/Name=Barril
 Mobs/barrel/Description=Em nenhuma circunstância deixe isso derramar.<n/>Não podemos arriscar outro inseto mutante este mês.
 Mobs/barrel/Gender=Male
+
+Mobs/beetle_mummy/Name=Besouro
+Mobs/beetle_mummy/Description=Esse não parece que deveria estar vivo...
+Mobs/beetle_mummy/Gender=Male

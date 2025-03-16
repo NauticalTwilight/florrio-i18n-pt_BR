@@ -39,7 +39,10 @@ Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">Rouba Vida:</c> {0:tooltip}
 Mob/Attribute/Lightning=<c val="{#Colors/lightning}">Eletricidade:</c> {0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">Saltos:</c> {0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">Evasão:</c> {0:perc}%
+Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">Zumbi:</c> {0:tooltipTime}
 
+Petal/Attribute/Reload=<c val="{#Colors/generic}">Recarga:</c> {0}
+Petal/Attribute/NumCopies=<c val="{#Colors/generic}">Número de Cópias:</c> {0:tooltip}
 Petal/Attribute/Health=<c val="{#Colors/health}">Vida:</c> {0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Dano:</c> {0:tooltip} <c val="{#Colors/lightning}">(elétrico)</c>
@@ -57,6 +60,7 @@ Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">Resistencia a veneno:
 Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">Vida da flor:</c> {0:tooltip}
 Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">Vida da flor:</c> +{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">Duração:</c> {0:tooltipTime}
+Petal/Attribute/Duration2=<c val="{#Colors/duration}">Duração:</c> {0:tooltipTime} + {1:tooltipTime}
 Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
 Petal/Attribute/Contents1=<c val="{#Colors/generic}">Invoca:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/{#Mobs/{1:base}/Gender}/NameColored})
 Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Invoca:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/{#Mobs/{1:base}/Gender}/NameColored})
@@ -111,7 +115,9 @@ Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">Eletricidade:</c> 
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">Custo de invocação:</c> {0:tooltip} <c val="{#Colors/mana}">mana</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">Custo de Manutenção:</c> {0:tooltip} <c val="{#Colors/mana}">mana</c>/s
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">Adiciona {0:perc}% de chance de ganhar drops extras.</c>
-Petal/Attribute/Reload=<c val="{#Colors/generic}">Recarga:</c> -{0:perc}%
+Petal/Attribute/ReloadPerc=<c val="{#Colors/generic}">Recarga:</c> -{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">Vítimas vão ficar presas no Hel por {0:time}.</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">Controla:</c> {#Petals/{0:base}/FullName} ({#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/NameColored})
 Petal/Attribute/Broken=<c val="{#Colors/danger}">Quebrado.</c>
+Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">Zumbi:</c> {0:tooltipTime}
+Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">Irreavivável:</c> {0:tooltipTime}
