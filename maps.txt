@@ -18,6 +18,8 @@ Maps/jungle/Name=Selva
 
 Maps/ocean/Name=Oceano
 
+Maps/pyramid/Name=Pirâmide
+
 Maps/sewers/Name=Esgoto
 
 Maps/worm/Name=Minhoca
