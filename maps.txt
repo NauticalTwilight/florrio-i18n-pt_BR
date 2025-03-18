@@ -19,6 +19,7 @@ Maps/jungle/Name=Jungle
 Maps/ocean/Name=Ocean
 
 Maps/pyramid/Name=Pyramid
+Maps/pyramid/Changing=The sands under you are starting to shift...
 
 Maps/sewers/Name=Sewers
 
