@@ -18,6 +18,8 @@ Maps/jungle/Name=Jungle
 
 Maps/ocean/Name=Ocean
 
+Maps/pyramid/Name=Pyramid
+
 Maps/sewers/Name=Sewers
 
 Maps/worm/Name=Worm
