@@ -8,6 +8,11 @@ Chat/PetalCraftedNamed/unique=The {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/
 Chat/PetalCraftedUnnamed/not-unique={#Petals/AnnouncementPrefix:0} has been crafted!
 Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0} has been crafted by {1}!
 
+Chat/PetalFoundUnnamed={#Chat/PetalFoundUnnamed/{0:base}#Chat/PetalFoundUnnamed/generic}
+Chat/PetalFoundNamed={#Chat/PetalFoundNamed/{0:base}#Chat/PetalFoundNamed/generic}
+Chat/PetalFoundUnnamed/generic={#Petals/AnnouncementPrefix:0} has been found!
+Chat/PetalFoundNamed/generic={#Petals/AnnouncementPrefix:0} has been found by {1}!
+
 Chat/MobSpawnedHere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
 Chat/MobSpawnedSomewhere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
 
