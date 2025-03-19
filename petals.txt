@@ -417,3 +417,7 @@ Petals/domino/Description=Damage depends on how many dots it has.
 Petals/bandage/Name=Bandage
 Petals/bandage/FullName=Bandage
 Petals/bandage/Description=Turns the flower <c val="{#Colors/undead}">Undead</c> for a limited time on death.<n/>Prevents revival for some time afterwards.
+
+Petals/crown/Name=Crown
+Petals/crown/FullName=Pharaoh's Crown
+Petals/crown/Description=Spawns <c val="{#Colors/undead}">Undead</c> Beetles to fight at your side.
