@@ -239,3 +239,6 @@ Mobs/barrel/Description=Under no circumstances let this thing spill.<n/>We canno
 
 Mobs/beetle_mummy/Name=Beetle
 Mobs/beetle_mummy/Description=This one seems like it shouldn't be alive...
+
+Mobs/beetle_pharaoh/Name=Beetle
+Mobs/beetle_pharaoh/Description=That thing on its head looks valuable... We should steal it.
