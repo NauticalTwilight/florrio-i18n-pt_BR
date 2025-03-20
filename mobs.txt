@@ -92,7 +92,7 @@ Mobs/scorpion/Description=ELE PICA!
 Mobs/scorpion/Gender=Male
 
 Mobs/fire_ant_soldier/Name=Formiga Soldado de Fogo
-Mobs/fire_ant_soldier/Description= essa formiga está sobre foooooogo.
+Mobs/fire_ant_soldier/Description=Essa formiga está sobre foooooogo.
 Mobs/fire_ant_soldier/Gender=Female
 
 Mobs/fire_ant_burrow/Name=Formigueiro de Fogo
@@ -149,15 +149,15 @@ Mobs/dandelion/Description=Fofinho.
 Mobs/dandelion/Gender=Male
 
 Mobs/fire_ant_baby/Name=Formiga Bebê de Fogo
-Mobs/fire_ant_baby/Description= essa formiga está sobre foooooogo.
+Mobs/fire_ant_baby/Description=Essa formiga está sobre foooooogo.
 Mobs/fire_ant_baby/Gender=Female
 
 Mobs/fire_ant_worker/Name=Formiga Operária de Fogo
-Mobs/fire_ant_worker/Description= essa formiga está sobre foooooogo.
+Mobs/fire_ant_worker/Description=Essa formiga está sobre foooooogo.
 Mobs/fire_ant_worker/Gender=Female
 
 Mobs/fire_ant_queen/Name=Formiga Rainha de Fogo
-Mobs/fire_ant_queen/Description= essa formiga está sobre foooooogo.
+Mobs/fire_ant_queen/Description=Essa formiga está sobre foooooogo.
 Mobs/fire_ant_queen/Gender=Female
 
 Mobs/ant_egg/Name=Ovo de Formiga
