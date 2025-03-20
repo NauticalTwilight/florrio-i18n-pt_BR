@@ -19,6 +19,7 @@ Maps/jungle/Name=Selva
 Maps/ocean/Name=Oceano
 
 Maps/pyramid/Name=Pirâmide
+Maps/pyramid/Changing=As areias embaixo de você estão começando a se mover...
 
 Maps/sewers/Name=Esgoto
 
