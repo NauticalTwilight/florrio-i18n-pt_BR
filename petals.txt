@@ -392,7 +392,7 @@ Petals/privet/Gender=Male
 
 Petals/glass/Name=Vidro
 Petals/glass/FullName=Vidro
-Petals/glass/Description=Atravessa por inimigos.<n/>Não pode dar dano no mesmo inimigo por um certo período de tempo 
+Petals/glass/Description=Atravessa por inimigos.<n/>Não pode dar dano no mesmo inimigo por um certo período de tempo.
 Petals/glass/Gender=Male
 
 Petals/corruption/Name=Corrupção

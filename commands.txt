@@ -55,7 +55,7 @@ Chat/Command/local/Args=<mensagem>
 Chat/Command/local/Description=Manda uma mensagem para apenas jogadores a sua volta
 
 Chat/Command/map/Args=<mensagem>
-Chat/Command/map/Description=Manda uma mensagem para o mapa 
+Chat/Command/map/Description=Manda uma mensagem para o mapa
 
 Chat/Command/global/Args=<mensagem>
 Chat/Command/global/Description=Manda uma mensagem global

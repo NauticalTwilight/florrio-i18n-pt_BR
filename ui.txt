@@ -107,7 +107,7 @@ UI/Changelog/Bottom=Older changelog entries not available
 
 UI/Inventory/Title=Inventário
 UI/Inventory/Stack=Empilhar
-UI/Inventory/Instructions=Arraste uma pétala para equipá-la 
+UI/Inventory/Instructions=Arraste uma pétala para equipá-la
 UI/Inventory/Speed=Vel
 UI/Inventory/Rarity={#Rarities/{0:rarity}/Female/NamePlural}
 
@@ -149,7 +149,7 @@ UI/Shop/StarsHelp2=Compre algumas apertando no número na direita
 UI/Shop/MustLink1=Pra fazer qualquer compra você precisa
 UI/Shop/MustLink2=Sincronizar sua conta na Apple ou Discord
 UI/Shop/MustLinkCancel=Cancelar
-UI/Shop/BuyStars/Instructions= No caso de problemas com a compra,<n/>por favor contate nosso processador de pagamentos:<n/>support@xsolla.com ou faça um livelive em xsolla.com
+UI/Shop/BuyStars/Instructions=No caso de problemas com a compra,<n/>por favor contate nosso processador de pagamentos:<n/>support@xsolla.com ou use o live chat em xsolla.com
 UI/Shop/BuyStars/Extra=Eu tenho muito dinheiro
 UI/Shop/BuyStars/Cancel=Cancelar
 UI/Shop/BuyPetal/Title=Confirmar
