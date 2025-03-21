@@ -421,3 +421,7 @@ Petals/bandage/Description=Turns the flower <c val="{#Colors/undead}">Undead</c>
 Petals/crown/Name=Crown
 Petals/crown/FullName=Pharaoh's Crown
 Petals/crown/Description=Spawns <c val="{#Colors/undead}">Undead</c> Beetles to fight at your side.
+
+Petals/totem/Name=Totem
+Petals/totem/FullName=Totem
+Petals/totem/Description=Grants health regen for a certain duration after killing a mob.
