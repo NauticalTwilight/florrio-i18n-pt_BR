@@ -320,3 +320,7 @@ Mobs/barrel/Gender=Male
 Mobs/beetle_mummy/Name=Besouro
 Mobs/beetle_mummy/Description=Esse não parece que deveria estar vivo...
 Mobs/beetle_mummy/Gender=Male
+
+Mobs/beetle_phraoh/Name=Besouro
+Mobs/beetle_phraoh/Description=A coroa na cabeça dele parece ser valiosa... A gente deveria roubar ela.
+Mobs/beetle_phraoh/Gender=Male
