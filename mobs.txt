@@ -242,3 +242,6 @@ Mobs/beetle_mummy/Description=This one seems like it shouldn't be alive...
 
 Mobs/beetle_pharaoh/Name=Beetle
 Mobs/beetle_pharaoh/Description=That thing on its head looks valuable... We should steal it.
+
+Mobs/tomb/Name=Tomb
+Mobs/tomb/Description=Huh, what could be in here?
