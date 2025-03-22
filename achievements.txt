@@ -99,7 +99,7 @@ Achievements/29/Name=Combinador de volume grande
 Achievements/29/Description=Combine {0:tooltip} pétalas.
 
 Achievements/30/Name=Deserto
-Achievements/30/Description=Visite o deserto
+Achievements/30/Description=Visite o Deserto
 
 Achievements/31/Name=Ocean
 Achievements/31/Description=Visite o Oceano
@@ -218,7 +218,7 @@ Achievements/68/Description=Sobreviva {0:time} no Hel.
 Achievements/69/Name=Falta de habilidade
 Achievements/69/Description=Encontre a flor do desenvolvedor morta.
 
-Achievements/70/Name=Cupins...?
+Achievements/70/Name=Cupims...?
 Achievements/70/Description=Invoque um cupim amigável.
 
 Achievements/71/Name=Pacifista
