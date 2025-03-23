@@ -324,3 +324,7 @@ Mobs/beetle_mummy/Gender=Male
 Mobs/beetle_pharaoh/Name=Besouro
 Mobs/beetle_pharaoh/Description=A coroa na cabeça dele parece ser valiosa... A gente deveria roubar ela.
 Mobs/beetle_pharaoh/Gender=Male
+
+Mobs/tomb/Name=Tumba
+Mobs/tomb/Description=Hm, o que pode estar aqui?
+Mobs/tomb/Gender=Female

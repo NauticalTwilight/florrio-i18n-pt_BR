@@ -528,3 +528,7 @@ Petals/crown/Name=Coroa
 Petals/crown/FullName=Coroa do Faraó
 Petals/crown/Description=Invoca Besouros <c val="{#Colors/undead}">Zumbi</c> para lutar ao seu lado.
 Petals/crown/Gender=Female
+
+Petals/totem/Name=Totem
+Petals/totem/FullName=Totem
+Petals/totem/Description=Garante regeneração de vida por um certo período após destruir um bicho.
