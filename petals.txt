@@ -416,7 +416,7 @@ Petals/domino/Description=Damage depends on how many dots it has.
 
 Petals/bandage/Name=Bandage
 Petals/bandage/FullName=Bandage
-Petals/bandage/Description=Turns the flower <c val="{#Colors/undead}">Undead</c> for a limited time on death.<n/>Delays death until expiration.<n/>Flower <c val="{#Colors/damage}">Body Damage:</c> is reduced during this period.<n/>Prevents revival for some time afterwards.
+Petals/bandage/Description=Turns the flower <c val="{#Colors/undead}">Undead</c> for a limited time on death.<n/>Delays death until expiration.<n/>Flower <c val="{#Colors/damage}">Body Damage</c> is reduced during this period.<n/>Prevents revival for some time afterwards.
 
 Petals/crown/Name=Crown
 Petals/crown/FullName=Pharaoh's Crown
