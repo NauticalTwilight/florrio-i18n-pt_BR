@@ -121,4 +121,4 @@ Petal/Attribute/Controls=<c val="{#Colors/generic}">Controls:</c> {#Petals/{0:ba
 Petal/Attribute/Broken=<c val="{#Colors/danger}">Broken.</c>
 Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">Undead:</c> {0:tooltipTime}
 Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">Unrevivable:</c> {0:tooltipTime}
-Petal/Attribute/CollisionDamageReduction=<c val="{#Colors/generic}">Collision Damage:</c> -{0:perc}%
+Petal/Attribute/BodyDamageReduction=<c val="{#Colors/damage}">Body Damage:</c> -{0:perc}%
