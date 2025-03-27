@@ -396,7 +396,7 @@ Petals/glass/Description=Atravessa por inimigos.<n/>Não pode dar dano no mesmo 
 Petals/glass/Gender=Male
 
 Petals/corruption/Name=Corrupção
-Petals/corruption/FullName=Corrução
+Petals/corruption/FullName=Corrupção
 Petals/corruption/Description=Corrompe a alma de alguém, voltando-o contra sua própria espécie.
 Petals/corruption/Gender=Female
 
