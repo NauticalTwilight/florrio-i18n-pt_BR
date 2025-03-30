@@ -5,6 +5,7 @@ Article/Female/Lower=a
 One/Male=Um
 One/Female=Uma
 
+Petals/AnnouncementPrefix={#One/{#Petals/{0:base}/Gender}} {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name}
 Mobs/AnnouncementPrefix={#One/{#Mobs/{0:base}/Gender}} {#Mobs/{0:base}/Name} {#Rarities/{0:rarity}/{#Mobs/{0:base}/Gender}/Name}
 
 Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}!
