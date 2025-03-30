@@ -425,3 +425,7 @@ Petals/crown/Description=Spawns <c val="{#Colors/undead}">Undead</c> Beetles to 
 Petals/totem/Name=Totem
 Petals/totem/FullName=Totem
 Petals/totem/Description=Grants health regen for a certain duration after killing a mob.
+
+Petals/triangle/Name=Triangle
+Petals/triangle/FullName=Triangle
+Petals/triangle/Description=Each copy of this petal equipped grants additional damage to it.
