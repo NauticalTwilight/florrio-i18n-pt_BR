@@ -2,7 +2,7 @@ Attribute/PoisonNoColon=<c val="{#Colors/poison}">Venenoso</c>
 
 Flower/Attribute/Health=<c val="{#Colors/health}">Vida da flor:</c> {0:tooltip}
 Flower/Attribute/HealthNoColon=<c val="{#Colors/health}">Vida da flor</c>
-Flower/Attribute/BodyDamage=<c val="{#Colors/damage}">Dano corporal:</c> {0:tooltip}
+Flower/Attribute/BodyDamage=<c val="{#Colors/damage}">Dano Corporal:</c> {0:tooltip}
 Flower/Attribute/BodyDamageNoColon=<c val="{#Colors/damage}">Dano corporal</c>
 Flower/Attribute/BodyPoison=<c val="{#Colors/poison}">Veneno Corporal:</c> {0:tooltip} ({1:tooltip}/s)
 Flower/Attribute/LuckNoColon=<c val="{#Colors/generic}">Sorte</c>
@@ -46,9 +46,10 @@ Petal/Attribute/NumCopies=<c val="{#Colors/generic}">Número de Cópias:</c> {0:
 Petal/Attribute/Health=<c val="{#Colors/health}">Vida:</c> {0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Dano:</c> {0:tooltip} <c val="{#Colors/lightning}">(elétrico)</c>
+Petal/Attribute/DamageRange=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}~{1:tooltip}
 Petal/Attribute/DamagePerSecond=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}/s
 Petal/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}/s <c val="{#Colors/lightning}">(elétrico)</c>
-Petal/Attribute/DamageRange=<c val="{#Colors/damage}">Dano:</c> {0:tooltip}~{1:tooltip}
+Petal/Attribute/DamagePlusPerPetal=<c val="{#Colors/damage}">Dano:</c> {0:tooltip} + {1:tooltip} por cada {#Petals/{2:base}/FullName} ({#Rarities/{2:rarity}/{#Petals/{2:base}/Gender}/NameColored})
 Petal/Attribute/Armor=<c val="{#Colors/armor}">Armadura:</c> {0:tooltip}
 Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">Velocidade de rotação:</c> +{0:tooltip} rad/s
 Petal/Attribute/Heal=<c val="{#Colors/heal}">Cura:</c> {0:tooltip}
@@ -121,3 +122,4 @@ Petal/Attribute/Controls=<c val="{#Colors/generic}">Controla:</c> {#Petals/{0:ba
 Petal/Attribute/Broken=<c val="{#Colors/danger}">Quebrado.</c>
 Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">Zumbi:</c> {0:tooltipTime}
 Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">Irreavivável:</c> {0:tooltipTime}
+Petal/Attribute/BodyDamageReduction=<c val="{#Colors/damage}">Dano Corporal:</c> -{0:perc}%

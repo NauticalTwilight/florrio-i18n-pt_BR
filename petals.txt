@@ -521,7 +521,7 @@ Petals/domino/Gender=Male
 
 Petals/bandage/Name=Bandagem
 Petals/bandage/FullName=Bandagem
-Petals/bandage/Description=Torna a flor <c val="{#Colors/undead}">Zumbi</c> por um tempo limitado quando morre.<n/>A morte será atrasada até a expiração do efeito.<n/>A flor não pode ser revivida por um tempo depois.
+Petals/bandage/Description=Torna a flor <c val="{#Colors/undead}">Zumbi</c> por um tempo limitado quando morre.<n/>A morte será atrasada até a expiração do efeito.<n/>O <c val="{#Colors/damage}">Dano Corporal</c> da flor é reduzido durante esse período.<n/>A flor não pode ser revivida por um tempo depois.
 Petals/bandage/Gender=Female
 
 Petals/crown/Name=Coroa
@@ -532,3 +532,9 @@ Petals/crown/Gender=Female
 Petals/totem/Name=Totem
 Petals/totem/FullName=Totem
 Petals/totem/Description=Garante regeneração de vida por um certo período após destruir um bicho.
+Petals/totem/Gender=Make
+
+Petals/triangle/Name=Triângulo
+Petals/triangle/FullName=Triângulo
+Petals/triangle/Description=Cada cópia dessa pétala equipada garante dano adicional à ela.
+Petals/triangle/Gender=Make
