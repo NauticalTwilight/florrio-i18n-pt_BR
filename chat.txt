@@ -51,8 +51,8 @@ Chat/MobDefeated/Female/2={#Mobs/AnnouncementPrefix:0} foi derrotada por {2} e {
 Chat/MobDefeated/Female/3={#Mobs/AnnouncementPrefix:0} foi derrotada por {2}, {3} e {4}!
 Chat/MobDefeated/Female/4={#Mobs/AnnouncementPrefix:0} foi derrotada por {2}, {3}, {4} e {5}!
 
-Chat/Revived=Você foi revivido(a) por {0}.
-Chat/Marked=Você foi amaldiçoado(a) por {0}.
+Chat/Revived={0} te reviveu.
+Chat/Marked={0} te amaldiçoou.
 
 Chat/Muted=Você não pode usar o chat agora devido à suas mensagens antigas. Você vai poder usar o chat em {0:time}.
 Chat/Spam=Você está fazendo muito isso.
